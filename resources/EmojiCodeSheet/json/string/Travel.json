@@ -1,0 +1,466 @@
+{
+  "travels": {
+    "travel": [
+      {
+        "key": "automobile",
+        "value": "🚗"
+      },
+      {
+        "key": "taxi",
+        "value": "🚕"
+      },
+      {
+        "key": "recreational vehicle",
+        "value": "🚙"
+      },
+      {
+        "key": "bus",
+        "value": "🚌"
+      },
+      {
+        "key": "trolley bus",
+        "value": "🚎"
+      },
+      {
+        "key": "racing car",
+        "value": "🏎"
+      },
+      {
+        "key": "police car",
+        "value": "🚓"
+      },
+      {
+        "key": "ambulance",
+        "value": "🚑"
+      },
+      {
+        "key": "fire engine",
+        "value": "🚒"
+      },
+      {
+        "key": "minibus",
+        "value": "🚐"
+      },
+      {
+        "key": "delivery truck",
+        "value": "🚚"
+      },
+      {
+        "key": "articulated lorry",
+        "value": "🚛"
+      },
+      {
+        "key": "tractor",
+        "value": "🚜"
+      },
+      {
+        "key": "racing motorcycle",
+        "value": "🏍"
+      },
+      {
+        "key": "bicycle",
+        "value": "🚲"
+      },
+      {
+        "key": "police light",
+        "value": "🚨"
+      },
+      {
+        "key": "on coming police car",
+        "value": "🚔"
+      },
+      {
+        "key": "on coming bus",
+        "value": "🚍"
+      },
+      {
+        "key": "on coming automobile",
+        "value": "🚘"
+      },
+      {
+        "key": "on coming taxi",
+        "value": "🚖"
+      },
+      {
+        "key": "aerial tramway",
+        "value": "🚡"
+      },
+      {
+        "key": "mountain cableway",
+        "value": "🚠"
+      },
+      {
+        "key": "suspension railway",
+        "value": "🚟"
+      },
+      {
+        "key": "railway car",
+        "value": "🚃"
+      },
+      {
+        "key": "tramcar",
+        "value": "🚋"
+      },
+      {
+        "key": "monorail",
+        "value": "🚝"
+      },
+      {
+        "key": "high speed train",
+        "value": "🚄"
+      },
+      {
+        "key": "high speed train bullet nose",
+        "value": "🚅"
+      },
+      {
+        "key": "light rail",
+        "value": "🚈"
+      },
+      {
+        "key": "mountain railway",
+        "value": "🚞"
+      },
+      {
+        "key": "steam locomotive",
+        "value": "🚂"
+      },
+      {
+        "key": "train",
+        "value": "🚆"
+      },
+      {
+        "key": "metro",
+        "value": "🚇"
+      },
+      {
+        "key": "tram",
+        "value": "🚊"
+      },
+      {
+        "key": "station",
+        "value": "🚉"
+      },
+      {
+        "key": "helicopter",
+        "value": "🚁"
+      },
+      {
+        "key": "small airplane",
+        "value": "🛩"
+      },
+      {
+        "key": "airplane",
+        "value": "✈"
+      },
+      {
+        "key": "airplane departure",
+        "value": "🛫"
+      },
+      {
+        "key": "airplane arriving",
+        "value": "🛬"
+      },
+      {
+        "key": "sailbot",
+        "value": "⛵"
+      },
+      {
+        "key": "motorboat",
+        "value": "🛥"
+      },
+      {
+        "key": "speedboat",
+        "value": "🚤"
+      },
+      {
+        "key": "ferry",
+        "value": "⛴"
+      },
+      {
+        "key": "passenger ship",
+        "value": "🛳"
+      },
+      {
+        "key": "rocket",
+        "value": "🚀"
+      },
+      {
+        "key": "satellite",
+        "value": "🛰"
+      },
+      {
+        "key": "seat",
+        "value": "💺"
+      },
+      {
+        "key": "anchor",
+        "value": "⚓"
+      },
+      {
+        "key": "construction sign",
+        "value": "🚧"
+      },
+      {
+        "key": "fuel pump",
+        "value": "⛽"
+      },
+      {
+        "key": "bus stop",
+        "value": "🚏"
+      },
+      {
+        "key": "vertical traffic light",
+        "value": "🚦"
+      },
+      {
+        "key": "horizontal traffic light",
+        "value": "🚥"
+      },
+      {
+        "key": "chequered flag",
+        "value": "🏁"
+      },
+      {
+        "key": "ship",
+        "value": "🚢"
+      },
+      {
+        "key": "ferris wheel",
+        "value": "🎡"
+      },
+      {
+        "key": "roller coaster",
+        "value": "🎢"
+      },
+      {
+        "key": "carousel horse",
+        "value": "🎠"
+      },
+      {
+        "key": "building construction",
+        "value": "🏗"
+      },
+      {
+        "key": "foggy",
+        "value": "🌁"
+      },
+      {
+        "key": "tokyo tower",
+        "value": "🗼"
+      },
+      {
+        "key": "factory",
+        "value": "🏭"
+      },
+      {
+        "key": "fountain",
+        "value": "⛲"
+      },
+      {
+        "key": "moon viewing ceremony",
+        "value": "🎑"
+      },
+      {
+        "key": "mountain",
+        "value": "⛰"
+      },
+      {
+        "key": "snow capped mountain",
+        "value": "🏔"
+      },
+      {
+        "key": "mount fuji",
+        "value": "🗻"
+      },
+      {
+        "key": "volcano",
+        "value": "🌋"
+      },
+      {
+        "key": "silhouette of japan",
+        "value": "🗾"
+      },
+      {
+        "key": "camping",
+        "value": "🏕"
+      },
+      {
+        "key": "tent",
+        "value": "⛺"
+      },
+      {
+        "key": "national park",
+        "value": "🏞"
+      },
+      {
+        "key": "motorway",
+        "value": "🛣"
+      },
+      {
+        "key": "railway track",
+        "value": "🛤"
+      },
+      {
+        "key": "sunrise",
+        "value": "🌅"
+      },
+      {
+        "key": "sunrise over mountain",
+        "value": "🌄"
+      },
+      {
+        "key": "desert",
+        "value": "🏜"
+      },
+      {
+        "key": "beach with umbrella",
+        "value": "🏖"
+      },
+      {
+        "key": "desert island",
+        "value": "🏝"
+      },
+      {
+        "key": "sunset over buildings",
+        "value": "🌇"
+      },
+      {
+        "key": "city scape at dusk",
+        "value": "🌆"
+      },
+      {
+        "key": "city scape",
+        "value": "🏙"
+      },
+      {
+        "key": "night with stars",
+        "value": "🌃"
+      },
+      {
+        "key": "bridge at night",
+        "value": "🌉"
+      },
+      {
+        "key": "milky way",
+        "value": "🌌"
+      },
+      {
+        "key": "shooting star",
+        "value": "🌠"
+      },
+      {
+        "key": "fire work sparkler",
+        "value": "🎇"
+      },
+      {
+        "key": "fireworks",
+        "value": "🎆"
+      },
+      {
+        "key": "rainbow",
+        "value": "🌈"
+      },
+      {
+        "key": "house buildings",
+        "value": "🏘"
+      },
+      {
+        "key": "european castle",
+        "value": "🏰"
+      },
+      {
+        "key": "japanese castle",
+        "value": "🏯"
+      },
+      {
+        "key": "stadium",
+        "value": "🏟"
+      },
+      {
+        "key": "statue of liberty",
+        "value": "🗽"
+      },
+      {
+        "key": "house building",
+        "value": "🏠"
+      },
+      {
+        "key": "house with garden",
+        "value": "🏡"
+      },
+      {
+        "key": "derelict house building",
+        "value": "🏚"
+      },
+      {
+        "key": "office building",
+        "value": "🏢"
+      },
+      {
+        "key": "department store",
+        "value": "🏬"
+      },
+      {
+        "key": "japanese post office",
+        "value": "🏣"
+      },
+      {
+        "key": "european post office",
+        "value": "🏤"
+      },
+      {
+        "key": "hospital",
+        "value": "🏥"
+      },
+      {
+        "key": "bank",
+        "value": "🏦"
+      },
+      {
+        "key": "hotel",
+        "value": "🏨"
+      },
+      {
+        "key": "convenience store",
+        "value": "🏪"
+      },
+      {
+        "key": "school",
+        "value": "🏫"
+      },
+      {
+        "key": "love hotel",
+        "value": "🏩"
+      },
+      {
+        "key": "wedding",
+        "value": "💒"
+      },
+      {
+        "key": "classical building",
+        "value": "🏛"
+      },
+      {
+        "key": "church",
+        "value": "⛪"
+      },
+      {
+        "key": "mosque",
+        "value": "🕌"
+      },
+      {
+        "key": "synagogue",
+        "value": "🕍"
+      },
+      {
+        "key": "kaaba",
+        "value": "🕋"
+      },
+      {
+        "key": "shinto shrine",
+        "value": "⛩"
+      }
+    ]
+  }
+}

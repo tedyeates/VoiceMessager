@@ -1,0 +1,274 @@
+{
+  "foods": {
+    "food": [
+      {
+        "key": "green apple",
+        "value": "🍏"
+      },
+      {
+        "key": "red apple",
+        "value": "🍎"
+      },
+      {
+        "key": "pear",
+        "value": "🍐"
+      },
+      {
+        "key": "tangerine",
+        "value": "🍊"
+      },
+      {
+        "key": "lemon",
+        "value": "🍋"
+      },
+      {
+        "key": "banana",
+        "value": "🍌"
+      },
+      {
+        "key": "watermelon",
+        "value": "🍉"
+      },
+      {
+        "key": "grapes",
+        "value": "🍇"
+      },
+      {
+        "key": "strawberry",
+        "value": "🍓"
+      },
+      {
+        "key": "melon",
+        "value": "🍈"
+      },
+      {
+        "key": "cherry",
+        "value": "🍒"
+      },
+      {
+        "key": "peach",
+        "value": "🍑"
+      },
+      {
+        "key": "pineapple",
+        "value": "🍍"
+      },
+      {
+        "key": "tomato",
+        "value": "🍅"
+      },
+      {
+        "key": "egg plant",
+        "value": "🍆"
+      },
+      {
+        "key": "hot pepper",
+        "value": "🌶"
+      },
+      {
+        "key": "ear of maize",
+        "value": "🌽"
+      },
+      {
+        "key": "roasted sweet potato",
+        "value": "🍠"
+      },
+      {
+        "key": "honey pot",
+        "value": "🍯"
+      },
+      {
+        "key": "bread",
+        "value": "🍞"
+      },
+      {
+        "key": "cheese",
+        "value": "🧀"
+      },
+      {
+        "key": "poultry leg",
+        "value": "🍗"
+      },
+      {
+        "key": "meat on bone",
+        "value": "🍖"
+      },
+      {
+        "key": "fried shrimp",
+        "value": "🍤"
+      },
+      {
+        "key": "cooking",
+        "value": "🍳"
+      },
+      {
+        "key": "hamburger",
+        "value": "🍔"
+      },
+      {
+        "key": "french fries",
+        "value": "🍟"
+      },
+      {
+        "key": "hot dog",
+        "value": "🌭"
+      },
+      {
+        "key": "slice of pizza",
+        "value": "🍕"
+      },
+      {
+        "key": "spaghetti",
+        "value": "🍝"
+      },
+      {
+        "key": "taco",
+        "value": "🌮"
+      },
+      {
+        "key": "burrito",
+        "value": "🌯"
+      },
+      {
+        "key": "steaming bowl",
+        "value": "🍜"
+      },
+      {
+        "key": "pot of food",
+        "value": "🍲"
+      },
+      {
+        "key": "fish cake",
+        "value": "🍥"
+      },
+      {
+        "key": "sushi",
+        "value": "🍣"
+      },
+      {
+        "key": "bento box",
+        "value": "🍱"
+      },
+      {
+        "key": "curry and rice",
+        "value": "🍛"
+      },
+      {
+        "key": "rice ball",
+        "value": "🍙"
+      },
+      {
+        "key": "cooked rice",
+        "value": "🍚"
+      },
+      {
+        "key": "rice cracker",
+        "value": "🍘"
+      },
+      {
+        "key": "oden",
+        "value": "🍢"
+      },
+      {
+        "key": "dango",
+        "value": "🍡"
+      },
+      {
+        "key": "shaved ice",
+        "value": "🍧"
+      },
+      {
+        "key": "ice cream",
+        "value": "🍨"
+      },
+      {
+        "key": "soft ice cream",
+        "value": "🍦"
+      },
+      {
+        "key": "short cake",
+        "value": "🍰"
+      },
+      {
+        "key": "birthday cake",
+        "value": "🎂"
+      },
+      {
+        "key": "custard",
+        "value": "🍮"
+      },
+      {
+        "key": "candy",
+        "value": "🍬"
+      },
+      {
+        "key": "lollipop",
+        "value": "🍭"
+      },
+      {
+        "key": "chocolate bar",
+        "value": "🍫"
+      },
+      {
+        "key": "popcorn",
+        "value": "🍿"
+      },
+      {
+        "key": "doughnut",
+        "value": "🍩"
+      },
+      {
+        "key": "cookie",
+        "value": "🍪"
+      },
+      {
+        "key": "bear mug",
+        "value": "🍺"
+      },
+      {
+        "key": "clinking beer mugs",
+        "value": "🍻"
+      },
+      {
+        "key": "wine glass",
+        "value": "🍷"
+      },
+      {
+        "key": "cocktail glass",
+        "value": "🍸"
+      },
+      {
+        "key": "tropical drink",
+        "value": "🍹"
+      },
+      {
+        "key": "bottle with popping cork",
+        "value": "🍾"
+      },
+      {
+        "key": "sake bottle and cup",
+        "value": "🍶"
+      },
+      {
+        "key": "tea cup without handle",
+        "value": "🍵"
+      },
+      {
+        "key": "hot beverage",
+        "value": "☕"
+      },
+      {
+        "key": "baby bottle",
+        "value": "🍼"
+      },
+      {
+        "key": "fork and knife",
+        "value": "🍴"
+      },
+      {
+        "key": "fork and knife with plate",
+        "value": "🍽"
+      }
+    ]
+  }
+}

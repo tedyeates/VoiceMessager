@@ -1,0 +1,1922 @@
+{
+  "peoples": {
+    "people": [
+      {
+        "key": "grinning face",
+        "value": "😀"
+      },
+      {
+        "key": "grimacing face",
+        "value": "😬"
+      },
+      {
+        "key": "grimacing face with smile eyes",
+        "value": "😁"
+      },
+      {
+        "key": "face with tear of joy",
+        "value": "😂"
+      },
+      {
+        "key": "smiling face with open mouth",
+        "value": "😃"
+      },
+      {
+        "key": "smiling face with open mouth eyes",
+        "value": "😄"
+      },
+      {
+        "key": "smiling face with open mouth cold sweat",
+        "value": "😅"
+      },
+      {
+        "key": "smiling face with open mouth hand tight",
+        "value": "😆"
+      },
+      {
+        "key": "smiling face with halo",
+        "value": "😇"
+      },
+      {
+        "key": "winking face",
+        "value": "😉"
+      },
+      {
+        "key": "black smiling face",
+        "value": "😊"
+      },
+      {
+        "key": "slightly smiling face",
+        "value": "🙂"
+      },
+      {
+        "key": "upside down face",
+        "value": "🙃"
+      },
+      {
+        "key": "white smiling face",
+        "value": "☺"
+      },
+      {
+        "key": "face savouring delicious food",
+        "value": "😋"
+      },
+      {
+        "key": "relieved face",
+        "value": "😌"
+      },
+      {
+        "key": "smiling face heart eyes",
+        "value": "😍"
+      },
+      {
+        "key": "face throwing kiss",
+        "value": "😘"
+      },
+      {
+        "key": "kissing face",
+        "value": "😗"
+      },
+      {
+        "key": "kissing face with smile eyes",
+        "value": "😙"
+      },
+      {
+        "key": "kissing face with closed eyes",
+        "value": "😚"
+      },
+      {
+        "key": "face with tongue wink eye",
+        "value": "😜"
+      },
+      {
+        "key": "face with tongue closed eye",
+        "value": "😝"
+      },
+      {
+        "key": "face with stuck out tongue",
+        "value": "😛"
+      },
+      {
+        "key": "money mouth face",
+        "value": "🤑"
+      },
+      {
+        "key": "nerd face",
+        "value": "🤓"
+      },
+      {
+        "key": "smiling face with sun glass",
+        "value": "😎"
+      },
+      {
+        "key": "hugging face",
+        "value": "🤗"
+      },
+      {
+        "key": "smirking face",
+        "value": "😏"
+      },
+      {
+        "key": "face without mouth",
+        "value": "😶"
+      },
+      {
+        "key": "neutral face",
+        "value": "😐"
+      },
+      {
+        "key": "expressionless face",
+        "value": "😑"
+      },
+      {
+        "key": "unamused face",
+        "value": "😒"
+      },
+      {
+        "key": "face with rolling eyes",
+        "value": "🙄"
+      },
+      {
+        "key": "thinking face",
+        "value": "🤔"
+      },
+      {
+        "key": "flushed face",
+        "value": "😳"
+      },
+      {
+        "key": "disappointed face",
+        "value": "😞"
+      },
+      {
+        "key": "worried face",
+        "value": "😟"
+      },
+      {
+        "key": "angry face",
+        "value": "😠"
+      },
+      {
+        "key": "pouting face",
+        "value": "😡"
+      },
+      {
+        "key": "pensive face",
+        "value": "😔"
+      },
+      {
+        "key": "confused face",
+        "value": "😕"
+      },
+      {
+        "key": "slightly frowning face",
+        "value": "🙁"
+      },
+      {
+        "key": "white frowning face",
+        "value": "☹"
+      },
+      {
+        "key": "persevering face",
+        "value": "😣"
+      },
+      {
+        "key": "confounded face",
+        "value": "😖"
+      },
+      {
+        "key": "tired face",
+        "value": "😫"
+      },
+      {
+        "key": "weary face",
+        "value": "😩"
+      },
+      {
+        "key": "face with look of triumph",
+        "value": "😤"
+      },
+      {
+        "key": "face with open mouth",
+        "value": "😮"
+      },
+      {
+        "key": "face screaming in fear",
+        "value": "😱"
+      },
+      {
+        "key": "fearful face",
+        "value": "😨"
+      },
+      {
+        "key": "face with open mouth cold sweat",
+        "value": "😰"
+      },
+      {
+        "key": "hushed face",
+        "value": "😯"
+      },
+      {
+        "key": "frowning face with open mouth",
+        "value": "😦"
+      },
+      {
+        "key": "anguished face",
+        "value": "😧"
+      },
+      {
+        "key": "crying face",
+        "value": "😢"
+      },
+      {
+        "key": "disappointed but relieved face",
+        "value": "😥"
+      },
+      {
+        "key": "sleepy face",
+        "value": "😪"
+      },
+      {
+        "key": "face with cold sweat",
+        "value": "😓"
+      },
+      {
+        "key": "loudly crying face",
+        "value": "😭"
+      },
+      {
+        "key": "dizzy face",
+        "value": "😵"
+      },
+      {
+        "key": "astonished face",
+        "value": "😲"
+      },
+      {
+        "key": "zipper mouth face",
+        "value": "🤐"
+      },
+      {
+        "key": "face with medical mask",
+        "value": "😷"
+      },
+      {
+        "key": "face with thermometer",
+        "value": "🤒"
+      },
+      {
+        "key": "face with head bandage",
+        "value": "🤕"
+      },
+      {
+        "key": "sleeping face",
+        "value": "😴"
+      },
+      {
+        "key": "sleeping symbol",
+        "value": "💤"
+      },
+      {
+        "key": "pile of poo",
+        "value": "💩"
+      },
+      {
+        "key": "smiling face with horns",
+        "value": "😈"
+      },
+      {
+        "key": "imp",
+        "value": "👿"
+      },
+      {
+        "key": "japanese ogre",
+        "value": "👹"
+      },
+      {
+        "key": "japanese goblin",
+        "value": "👺"
+      },
+      {
+        "key": "skull",
+        "value": "💀"
+      },
+      {
+        "key": "ghost",
+        "value": "👻"
+      },
+      {
+        "key": "extra terrestrial alien",
+        "value": "👽"
+      },
+      {
+        "key": "robot face",
+        "value": "🤖"
+      },
+      {
+        "key": "smiling cat face open mouth",
+        "value": "😺"
+      },
+      {
+        "key": "grinning cat face smile eyes",
+        "value": "😸"
+      },
+      {
+        "key": "cat face tears of joy",
+        "value": "😹"
+      },
+      {
+        "key": "smiling cat face heart shaped eyes",
+        "value": "😻"
+      },
+      {
+        "key": "cat face wry smile",
+        "value": "😼"
+      },
+      {
+        "key": "kissing cat face closed eyes",
+        "value": "😽"
+      },
+      {
+        "key": "weary cat face",
+        "value": "🙀"
+      },
+      {
+        "key": "crying cat face",
+        "value": "😿"
+      },
+      {
+        "key": "pouting cat face",
+        "value": "😾"
+      },
+      {
+        "key": "person both hand celebration",
+        "value": "🙌"
+      },
+      {
+        "key": "person both hand celebration type 1 2",
+        "value": "🙌🏻"
+      },
+      {
+        "key": "person both hand celebration type 3",
+        "value": "🙌🏼"
+      },
+      {
+        "key": "person both hand celebration type 4",
+        "value": "🙌🏽"
+      },
+      {
+        "key": "person both hand celebration type 5",
+        "value": "🙌🏾"
+      },
+      {
+        "key": "person both hand celebration type 6",
+        "value": "🙌🏿"
+      },
+      {
+        "key": "clapping hand",
+        "value": "👏"
+      },
+      {
+        "key": "clapping hand type 1 2",
+        "value": "👏🏼"
+      },
+      {
+        "key": "clapping hand type 3",
+        "value": "👏🏼"
+      },
+      {
+        "key": "clapping hand type 4",
+        "value": "👏🏽"
+      },
+      {
+        "key": "clapping hand type 5",
+        "value": "👏🏾"
+      },
+      {
+        "key": "clapping hand type 6",
+        "value": "👏🏿"
+      },
+      {
+        "key": "waving hands",
+        "value": "👋"
+      },
+      {
+        "key": "waving hands type 1 2",
+        "value": "👋🏻"
+      },
+      {
+        "key": "waving hands type 3",
+        "value": "👋🏼"
+      },
+      {
+        "key": "waving hands type 4",
+        "value": "👋🏽"
+      },
+      {
+        "key": "waving hands type 5",
+        "value": "👋🏾"
+      },
+      {
+        "key": "waving hands type 6",
+        "value": "👋🏿"
+      },
+      {
+        "key": "thumbs up",
+        "value": "👍"
+      },
+      {
+        "key": "thumbs up type 1 2",
+        "value": "👍🏻"
+      },
+      {
+        "key": "thumbs up type 3",
+        "value": "👍🏼"
+      },
+      {
+        "key": "thumbs up type 4",
+        "value": "👍🏽"
+      },
+      {
+        "key": "thumbs up type 5",
+        "value": "👍🏾"
+      },
+      {
+        "key": "thumbs up type 6",
+        "value": "👍🏿"
+      },
+      {
+        "key": "thumbs down",
+        "value": "👎"
+      },
+      {
+        "key": "thumbs down type 1 2",
+        "value": "👎🏻"
+      },
+      {
+        "key": "thumbs down type 3",
+        "value": "👎🏼"
+      },
+      {
+        "key": "thumbs down type 4",
+        "value": "👎🏽"
+      },
+      {
+        "key": "thumbs down type 5",
+        "value": "👎🏾"
+      },
+      {
+        "key": "thumbs down type 6",
+        "value": "👎🏿"
+      },
+      {
+        "key": "fist hand",
+        "value": "👊"
+      },
+      {
+        "key": "fist hand type 1 2",
+        "value": "👊🏻"
+      },
+      {
+        "key": "fist hand type 3",
+        "value": "👊🏼"
+      },
+      {
+        "key": "fist hand type 4",
+        "value": "👊🏽"
+      },
+      {
+        "key": "fist hand type 5",
+        "value": "👊🏾"
+      },
+      {
+        "key": "fist hand type 6",
+        "value": "👊🏿"
+      },
+      {
+        "key": "raised fist",
+        "value": "✊"
+      },
+      {
+        "key": "raised fist type 1 2",
+        "value": "✊🏻"
+      },
+      {
+        "key": "raised fist type 3",
+        "value": "✊🏼"
+      },
+      {
+        "key": "raised fist type 4",
+        "value": "✊🏽"
+      },
+      {
+        "key": "raised fist type 5",
+        "value": "✊🏾"
+      },
+      {
+        "key": "raised fist type 6",
+        "value": "✊🏿"
+      },
+      {
+        "key": "victory hand",
+        "value": "✌"
+      },
+      {
+        "key": "victory hand type 1 2",
+        "value": "✌🏻"
+      },
+      {
+        "key": "victory hand type 3",
+        "value": "✌🏼"
+      },
+      {
+        "key": "victory hand type 4",
+        "value": "✌🏽"
+      },
+      {
+        "key": "victory hand type 5",
+        "value": "✌🏾"
+      },
+      {
+        "key": "victory hand type 6",
+        "value": "✌🏿"
+      },
+      {
+        "key": "ok hand",
+        "value": "👌"
+      },
+      {
+        "key": "ok hand type 1 2",
+        "value": "👌🏻"
+      },
+      {
+        "key": "ok hand type 3",
+        "value": "👌🏼"
+      },
+      {
+        "key": "ok hand type 4",
+        "value": "👌🏽"
+      },
+      {
+        "key": "ok hand type 5",
+        "value": "👌🏾"
+      },
+      {
+        "key": "ok hand type 6",
+        "value": "👌🏿"
+      },
+      {
+        "key": "raised hand",
+        "value": "✋"
+      },
+      {
+        "key": "raised hand type 1 2",
+        "value": "✋🏻"
+      },
+      {
+        "key": "raised hand type 3",
+        "value": "✋🏼"
+      },
+      {
+        "key": "raised hand type 4",
+        "value": "✋🏽"
+      },
+      {
+        "key": "raised hand type 5",
+        "value": "✋🏾"
+      },
+      {
+        "key": "raised hand type 6",
+        "value": "✋🏿"
+      },
+      {
+        "key": "open hand",
+        "value": "👐"
+      },
+      {
+        "key": "open hand type 1 2",
+        "value": "👐🏻"
+      },
+      {
+        "key": "open hand type 3",
+        "value": "👐🏼"
+      },
+      {
+        "key": "open hand type 4",
+        "value": "👐🏽"
+      },
+      {
+        "key": "open hand type 5",
+        "value": "👐🏾"
+      },
+      {
+        "key": "open hand type 6",
+        "value": "👐🏿"
+      },
+      {
+        "key": "flexed biceps",
+        "value": "💪"
+      },
+      {
+        "key": "flexed biceps type 1 2",
+        "value": "💪🏻"
+      },
+      {
+        "key": "flexed biceps type 3",
+        "value": "💪🏼"
+      },
+      {
+        "key": "flexed biceps type 4",
+        "value": "💪🏽"
+      },
+      {
+        "key": "flexed biceps type 5",
+        "value": "💪🏾"
+      },
+      {
+        "key": "flexed biceps type 6",
+        "value": "💪🏿"
+      },
+      {
+        "key": "folded hands",
+        "value": "🙏"
+      },
+      {
+        "key": "folded hands type 1 2",
+        "value": "🙏🏻"
+      },
+      {
+        "key": "folded hands type 3",
+        "value": "🙏🏼"
+      },
+      {
+        "key": "folded hands type 4",
+        "value": "🙏🏽"
+      },
+      {
+        "key": "folded hands type 5",
+        "value": "🙏🏾"
+      },
+      {
+        "key": "folded hands type 6",
+        "value": "🙏🏿"
+      },
+      {
+        "key": "up pointing index",
+        "value": "☝"
+      },
+      {
+        "key": "up pointing index type 1 2",
+        "value": "☝🏻"
+      },
+      {
+        "key": "up pointing index type 3",
+        "value": "☝🏼"
+      },
+      {
+        "key": "up pointing index type 4",
+        "value": "☝🏽"
+      },
+      {
+        "key": "up pointing index type 5",
+        "value": "☝🏾"
+      },
+      {
+        "key": "up pointing index type 6",
+        "value": "☝🏿"
+      },
+      {
+        "key": "up pointing backhand index",
+        "value": "👆"
+      },
+      {
+        "key": "up pointing backhand index type 1 2",
+        "value": "👆🏻"
+      },
+      {
+        "key": "up pointing backhand index type 3",
+        "value": "👆🏼"
+      },
+      {
+        "key": "up pointing backhand index type 4",
+        "value": "👆🏽"
+      },
+      {
+        "key": "up pointing backhand index type 5",
+        "value": "👆🏾"
+      },
+      {
+        "key": "up pointing backhand index type 6",
+        "value": "👆🏿"
+      },
+      {
+        "key": "down pointing backhand index",
+        "value": "👇"
+      },
+      {
+        "key": "down pointing backhand index type 1 2",
+        "value": "👇🏻"
+      },
+      {
+        "key": "down pointing backhand index type 3",
+        "value": "👇🏼"
+      },
+      {
+        "key": "down pointing backhand index type 4",
+        "value": "👇🏽"
+      },
+      {
+        "key": "down pointing backhand index type 5",
+        "value": "👇🏾"
+      },
+      {
+        "key": "down pointing backhand index type 6",
+        "value": "👇🏿"
+      },
+      {
+        "key": "left pointing backhand index",
+        "value": "👈"
+      },
+      {
+        "key": "left pointing backhand index type 1 2",
+        "value": "👈🏻"
+      },
+      {
+        "key": "left pointing backhand index type 3",
+        "value": "👈🏼"
+      },
+      {
+        "key": "left pointing backhand index type 4",
+        "value": "👈🏽"
+      },
+      {
+        "key": "left pointing backhand index type 5",
+        "value": "👈🏾"
+      },
+      {
+        "key": "left pointing backhand index type 6",
+        "value": "👈🏿"
+      },
+      {
+        "key": "right pointing backhand index",
+        "value": "👉"
+      },
+      {
+        "key": "right pointing backhand index type 1 2",
+        "value": "👉🏻"
+      },
+      {
+        "key": "right pointing backhand index type 3",
+        "value": "👉🏼"
+      },
+      {
+        "key": "right pointing backhand index type 4",
+        "value": "👉🏽"
+      },
+      {
+        "key": "right pointing backhand index type 5",
+        "value": "👉🏾"
+      },
+      {
+        "key": "right pointing backhand index type 6",
+        "value": "👉🏿"
+      },
+      {
+        "key": "reverse middle finger",
+        "value": "🖕"
+      },
+      {
+        "key": "reverse middle finger type 1 2",
+        "value": "🖕🏻"
+      },
+      {
+        "key": "reverse middle finger type 3",
+        "value": "🖕🏼"
+      },
+      {
+        "key": "reverse middle finger type 4",
+        "value": "🖕🏽"
+      },
+      {
+        "key": "reverse middle finger type 5",
+        "value": "🖕🏾"
+      },
+      {
+        "key": "reverse middle finger type 6",
+        "value": "🖕🏿"
+      },
+      {
+        "key": "raised hand fingers splayed",
+        "value": "🖐"
+      },
+      {
+        "key": "raised hand fingers splayed type 1 2",
+        "value": "🖐🏻"
+      },
+      {
+        "key": "raised hand fingers splayed type 3",
+        "value": "🖐🏼"
+      },
+      {
+        "key": "raised hand fingers splayed type 4",
+        "value": "🖐🏽"
+      },
+      {
+        "key": "raised hand fingers splayed type 5",
+        "value": "🖐🏾"
+      },
+      {
+        "key": "raised hand fingers splayed type 6",
+        "value": "🖐🏿"
+      },
+      {
+        "key": "sign of horn",
+        "value": "🤘"
+      },
+      {
+        "key": "sign of horn type 1 2",
+        "value": "🤘🏻"
+      },
+      {
+        "key": "sign of horn type 3",
+        "value": "🤘🏼"
+      },
+      {
+        "key": "sign of horn type 4",
+        "value": "🤘🏽"
+      },
+      {
+        "key": "sign of horn type 5",
+        "value": "🤘🏾"
+      },
+      {
+        "key": "sign of horn type 6",
+        "value": "🤘🏿"
+      },
+      {
+        "key": "raised hand part between middle ring",
+        "value": "🖖"
+      },
+      {
+        "key": "raised hand part between middle ring type 1 2",
+        "value": "🖖🏻"
+      },
+      {
+        "key": "raised hand part between middle ring type 3",
+        "value": "🖖🏼"
+      },
+      {
+        "key": "raised hand part between middle ring type 4",
+        "value": "🖖🏽"
+      },
+      {
+        "key": "raised hand part between middle ring type 5",
+        "value": "🖖🏾"
+      },
+      {
+        "key": "raised hand part between middle ring type 6",
+        "value": "🖖🏿"
+      },
+      {
+        "key": "writing hand",
+        "value": "✍"
+      },
+      {
+        "key": "writing hand type 1 2",
+        "value": "✍🏻"
+      },
+      {
+        "key": "writing hand type 3",
+        "value": "✍🏼"
+      },
+      {
+        "key": "writing hand type 4",
+        "value": "✍🏽"
+      },
+      {
+        "key": "writing hand type 5",
+        "value": "✍🏾"
+      },
+      {
+        "key": "writing hand type 6",
+        "value": "✍🏿"
+      },
+      {
+        "key": "nail polish",
+        "value": "💅"
+      },
+      {
+        "key": "nail polish type 1 2",
+        "value": "💅🏻"
+      },
+      {
+        "key": "nail polish type 3",
+        "value": "💅🏼"
+      },
+      {
+        "key": "nail polish type 4",
+        "value": "💅🏽"
+      },
+      {
+        "key": "nail polish type 5",
+        "value": "💅🏾"
+      },
+      {
+        "key": "nail polish type 6",
+        "value": "💅🏿"
+      },
+      {
+        "key": "mouth",
+        "value": "👄"
+      },
+      {
+        "key": "tongue",
+        "value": "👅"
+      },
+      {
+        "key": "ear",
+        "value": "👂"
+      },
+      {
+        "key": "ear type 1 2",
+        "value": "👂🏻"
+      },
+      {
+        "key": "ear type 3",
+        "value": "👂🏼"
+      },
+      {
+        "key": "ear type 4",
+        "value": "👂🏽"
+      },
+      {
+        "key": "ear type 5",
+        "value": "👂🏾"
+      },
+      {
+        "key": "ear type 6",
+        "value": "👂🏿"
+      },
+      {
+        "key": "nose",
+        "value": "👃"
+      },
+      {
+        "key": "nose type 1 2",
+        "value": "👃🏻"
+      },
+      {
+        "key": "nose type 3",
+        "value": "👃🏼"
+      },
+      {
+        "key": "nose type 4",
+        "value": "👃🏽"
+      },
+      {
+        "key": "nose type 5",
+        "value": "👃🏾"
+      },
+      {
+        "key": "nose type 6",
+        "value": "👃🏿"
+      },
+      {
+        "key": "eye",
+        "value": "👁"
+      },
+      {
+        "key": "eyes",
+        "value": "👀"
+      },
+      {
+        "key": "bust in silhouette",
+        "value": "👤"
+      },
+      {
+        "key": "busts in silhouette",
+        "value": "👥"
+      },
+      {
+        "key": "speaking head in silhouette",
+        "value": "🗣"
+      },
+      {
+        "key": "baby",
+        "value": "👶"
+      },
+      {
+        "key": "baby type 1 2",
+        "value": "👶🏻"
+      },
+      {
+        "key": "baby type 3",
+        "value": "👶🏼"
+      },
+      {
+        "key": "baby type 4",
+        "value": "👶🏽"
+      },
+      {
+        "key": "baby type 5",
+        "value": "👶🏾"
+      },
+      {
+        "key": "baby type 6",
+        "value": "👶🏿"
+      },
+      {
+        "key": "boy",
+        "value": "👦"
+      },
+      {
+        "key": "boy type 1 2",
+        "value": "👦🏻"
+      },
+      {
+        "key": "boy type 3",
+        "value": "👦🏼"
+      },
+      {
+        "key": "boy type 4",
+        "value": "👦🏽"
+      },
+      {
+        "key": "boy type 5",
+        "value": "👦🏾"
+      },
+      {
+        "key": "boy type 6",
+        "value": "👦🏿"
+      },
+      {
+        "key": "girl",
+        "value": "👧"
+      },
+      {
+        "key": "girl type 1 2",
+        "value": "👧🏻"
+      },
+      {
+        "key": "girl type 3",
+        "value": "👧🏼"
+      },
+      {
+        "key": "girl type 4",
+        "value": "👧🏽"
+      },
+      {
+        "key": "girl type 5",
+        "value": "👧🏾"
+      },
+      {
+        "key": "girl type 6",
+        "value": "👧🏿"
+      },
+      {
+        "key": "man",
+        "value": "👨"
+      },
+      {
+        "key": "man type 1 2",
+        "value": "👨🏻"
+      },
+      {
+        "key": "man type 3",
+        "value": "👨🏼"
+      },
+      {
+        "key": "man type 4",
+        "value": "👨🏽"
+      },
+      {
+        "key": "man type 5",
+        "value": "👨🏾"
+      },
+      {
+        "key": "man type 6",
+        "value": "👨🏿"
+      },
+      {
+        "key": "women",
+        "value": "👩"
+      },
+      {
+        "key": "women type 1 2",
+        "value": "👩🏻"
+      },
+      {
+        "key": "women type 3",
+        "value": "👩🏼"
+      },
+      {
+        "key": "women type 4",
+        "value": "👩🏽"
+      },
+      {
+        "key": "women type 5",
+        "value": "👩🏾"
+      },
+      {
+        "key": "women type 6",
+        "value": "👩🏿"
+      },
+      {
+        "key": "person with blond hair",
+        "value": "👱"
+      },
+      {
+        "key": "person with blond hair type 1 2",
+        "value": "👱🏻"
+      },
+      {
+        "key": "person with blond hair type 3",
+        "value": "👱🏼"
+      },
+      {
+        "key": "person with blond hair type 4",
+        "value": "👱🏽"
+      },
+      {
+        "key": "person with blond hair type 5",
+        "value": "👱🏾"
+      },
+      {
+        "key": "person with blond hair type 6",
+        "value": "👱🏿"
+      },
+      {
+        "key": "older man",
+        "value": "👴"
+      },
+      {
+        "key": "older man type 1 2",
+        "value": "👴🏻"
+      },
+      {
+        "key": "older man type 3",
+        "value": "👴🏼"
+      },
+      {
+        "key": "older man type 4",
+        "value": "👴🏽"
+      },
+      {
+        "key": "older man type 5",
+        "value": "👴🏾"
+      },
+      {
+        "key": "older man type 6",
+        "value": "👴🏿"
+      },
+      {
+        "key": "older women",
+        "value": "👵"
+      },
+      {
+        "key": "older women type 1 2",
+        "value": "👵🏻"
+      },
+      {
+        "key": "older women type 3",
+        "value": "👵🏼"
+      },
+      {
+        "key": "older women type 4",
+        "value": "👵🏽"
+      },
+      {
+        "key": "older women type 5",
+        "value": "👵🏾"
+      },
+      {
+        "key": "older women type 6",
+        "value": "👵🏿"
+      },
+      {
+        "key": "man with gua pi mao",
+        "value": "👲"
+      },
+      {
+        "key": "man with gua pi mao type 1 2",
+        "value": "👲🏼"
+      },
+      {
+        "key": "man with gua pi mao type 3",
+        "value": "👲🏼"
+      },
+      {
+        "key": "man with gua pi mao type 4",
+        "value": "👲🏽"
+      },
+      {
+        "key": "man with gua pi mao type 5",
+        "value": "👲🏾"
+      },
+      {
+        "key": "man with gua pi mao type 6",
+        "value": "👲🏿"
+      },
+      {
+        "key": "man with turban",
+        "value": "👳"
+      },
+      {
+        "key": "man with turban type 1 2",
+        "value": "👳🏻"
+      },
+      {
+        "key": "man with turban type 3",
+        "value": "👳🏼"
+      },
+      {
+        "key": "man with turban type 4",
+        "value": "👳🏽"
+      },
+      {
+        "key": "man with turban type 5",
+        "value": "👳🏾"
+      },
+      {
+        "key": "man with turban type 6",
+        "value": "👳🏿"
+      },
+      {
+        "key": "police officer",
+        "value": "👮"
+      },
+      {
+        "key": "police officer type 1 2",
+        "value": "👮🏻"
+      },
+      {
+        "key": "police officer type 3",
+        "value": "👮🏼"
+      },
+      {
+        "key": "police officer type 4",
+        "value": "👮🏽"
+      },
+      {
+        "key": "police officer type 5",
+        "value": "👮🏾"
+      },
+      {
+        "key": "police officer type 6",
+        "value": "👮🏿"
+      },
+      {
+        "key": "construction worker",
+        "value": "👷"
+      },
+      {
+        "key": "construction worker type 1 2",
+        "value": "👷🏻"
+      },
+      {
+        "key": "construction worker type 3",
+        "value": "👷🏼"
+      },
+      {
+        "key": "construction worker type 4",
+        "value": "👷🏽"
+      },
+      {
+        "key": "construction worker type 5",
+        "value": "👷🏾"
+      },
+      {
+        "key": "construction worker type 6",
+        "value": "👷🏿"
+      },
+      {
+        "key": "guards man",
+        "value": "💂"
+      },
+      {
+        "key": "guards man type 1 2",
+        "value": "💂🏻"
+      },
+      {
+        "key": "guards man type 3",
+        "value": "💂🏼"
+      },
+      {
+        "key": "guards man type 4",
+        "value": "💂🏽"
+      },
+      {
+        "key": "guards man type 5",
+        "value": "💂🏾"
+      },
+      {
+        "key": "guards man type 6",
+        "value": "💂🏿"
+      },
+      {
+        "key": "spy",
+        "value": "🕵"
+      },
+      {
+        "key": "father christmas",
+        "value": "🎅"
+      },
+      {
+        "key": "father christmas type 1 2",
+        "value": "🎅🏻"
+      },
+      {
+        "key": "father christmas type 3",
+        "value": "🎅🏼"
+      },
+      {
+        "key": "father christmas type 4",
+        "value": "🎅🏽"
+      },
+      {
+        "key": "father christmas type 5",
+        "value": "🎅🏾"
+      },
+      {
+        "key": "father christmas type 6",
+        "value": "🎅🏿"
+      },
+      {
+        "key": "baby angel",
+        "value": "👼"
+      },
+      {
+        "key": "baby angel type 1 2",
+        "value": "👼🏻"
+      },
+      {
+        "key": "baby angel type 3",
+        "value": "👼🏼"
+      },
+      {
+        "key": "baby angel type 4",
+        "value": "👼🏽"
+      },
+      {
+        "key": "baby angel type 5",
+        "value": "👼🏾"
+      },
+      {
+        "key": "baby angel type 6",
+        "value": "👼🏿"
+      },
+      {
+        "key": "princess",
+        "value": "👸"
+      },
+      {
+        "key": "princess type 1 2",
+        "value": "👸🏻"
+      },
+      {
+        "key": "princess type 3",
+        "value": "👸🏼"
+      },
+      {
+        "key": "princess type 4",
+        "value": "👸🏽"
+      },
+      {
+        "key": "princess type 5",
+        "value": "👸🏾"
+      },
+      {
+        "key": "princess type 6",
+        "value": "👸🏿"
+      },
+      {
+        "key": "bride with veil",
+        "value": "👰"
+      },
+      {
+        "key": "bride with veil type 1 2",
+        "value": "👰🏻"
+      },
+      {
+        "key": "bride with veil type 3",
+        "value": "👰🏼"
+      },
+      {
+        "key": "bride with veil type 4",
+        "value": "👰🏽"
+      },
+      {
+        "key": "bride with veil type 5",
+        "value": "👰🏾"
+      },
+      {
+        "key": "bride with veil type 6",
+        "value": "👰🏿"
+      },
+      {
+        "key": "pedestrian",
+        "value": "🚶"
+      },
+      {
+        "key": "pedestrian type 1 2",
+        "value": "🚶🏻"
+      },
+      {
+        "key": "pedestrian type 3",
+        "value": "🚶🏼"
+      },
+      {
+        "key": "pedestrian type 4",
+        "value": "🚶🏽"
+      },
+      {
+        "key": "pedestrian type 5",
+        "value": "🚶🏾"
+      },
+      {
+        "key": "pedestrian type 6",
+        "value": "🚶🏿"
+      },
+      {
+        "key": "runner",
+        "value": "🏃"
+      },
+      {
+        "key": "runner type 1 2",
+        "value": "🏃🏻"
+      },
+      {
+        "key": "runner type 3",
+        "value": "🏃🏼"
+      },
+      {
+        "key": "runner type 4",
+        "value": "🏃🏽"
+      },
+      {
+        "key": "runner type 5",
+        "value": "🏃🏾"
+      },
+      {
+        "key": "runner type 6",
+        "value": "🏃🏿"
+      },
+      {
+        "key": "dancer",
+        "value": "💃"
+      },
+      {
+        "key": "dancer type 1 2",
+        "value": "💃🏻"
+      },
+      {
+        "key": "dancer type 3",
+        "value": "💃🏼"
+      },
+      {
+        "key": "dancer type 4",
+        "value": "💃🏽"
+      },
+      {
+        "key": "dancer type 5",
+        "value": "💃🏾"
+      },
+      {
+        "key": "dancer type 6",
+        "value": "💃🏿"
+      },
+      {
+        "key": "women with bunny years",
+        "value": "👯"
+      },
+      {
+        "key": "man women holding hands",
+        "value": "👫"
+      },
+      {
+        "key": "two man holding hands",
+        "value": "👬"
+      },
+      {
+        "key": "two women holding hands",
+        "value": "👭"
+      },
+      {
+        "key": "person bowing deeply",
+        "value": "🙇"
+      },
+      {
+        "key": "person bowing deeply type 1 2",
+        "value": "🙇🏻"
+      },
+      {
+        "key": "person bowing deeply type 3",
+        "value": "🙇🏼"
+      },
+      {
+        "key": "person bowing deeply type 4",
+        "value": "🙇🏽"
+      },
+      {
+        "key": "person bowing deeply type 5",
+        "value": "🙇🏾"
+      },
+      {
+        "key": "person bowing deeply type 6",
+        "value": "🙇🏿"
+      },
+      {
+        "key": "information desk person",
+        "value": "💁"
+      },
+      {
+        "key": "information desk person type 1 2",
+        "value": "💁🏻"
+      },
+      {
+        "key": "information desk person type 3",
+        "value": "💁🏼"
+      },
+      {
+        "key": "information desk person type 4",
+        "value": "💁🏽"
+      },
+      {
+        "key": "information desk person type 5",
+        "value": "💁🏾"
+      },
+      {
+        "key": "information desk person type 6",
+        "value": "💁🏿"
+      },
+      {
+        "key": "face with no good gesture",
+        "value": "🙅"
+      },
+      {
+        "key": "face with no good gesture type 1 2",
+        "value": "🙅🏻"
+      },
+      {
+        "key": "face with no good gesture type 3",
+        "value": "🙅🏼"
+      },
+      {
+        "key": "face with no good gesture type 4",
+        "value": "🙅🏽"
+      },
+      {
+        "key": "face with no good gesture type 5",
+        "value": "🙅🏾"
+      },
+      {
+        "key": "face with no good gesture type 6",
+        "value": "🙅🏿"
+      },
+      {
+        "key": "face with ok gesture",
+        "value": "🙆"
+      },
+      {
+        "key": "face with ok gesture type 1 2",
+        "value": "🙆🏻"
+      },
+      {
+        "key": "face with ok gesture type 3",
+        "value": "🙆🏼"
+      },
+      {
+        "key": "face with ok gesture type 4",
+        "value": "🙆🏽"
+      },
+      {
+        "key": "face with ok gesture type 5",
+        "value": "🙆🏾"
+      },
+      {
+        "key": "face with ok gesture type 6",
+        "value": "🙆🏿"
+      },
+      {
+        "key": "happy person raise one hand",
+        "value": "🙋"
+      },
+      {
+        "key": "happy person raise one hand type 1 2",
+        "value": "🙋🏻"
+      },
+      {
+        "key": "happy person raise one hand type 3",
+        "value": "🙋🏼"
+      },
+      {
+        "key": "happy person raise one hand type 4",
+        "value": "🙋🏽"
+      },
+      {
+        "key": "happy person raise one hand type 5",
+        "value": "🙋🏾"
+      },
+      {
+        "key": "happy person raise one hand type 6",
+        "value": "🙋🏿"
+      },
+      {
+        "key": "person with pouting face",
+        "value": "🙎"
+      },
+      {
+        "key": "person with pouting face type 1 2",
+        "value": "🙎🏻"
+      },
+      {
+        "key": "person with pouting face type 3",
+        "value": "🙎🏼"
+      },
+      {
+        "key": "person with pouting face type 4",
+        "value": "🙎🏽"
+      },
+      {
+        "key": "person with pouting face type 5",
+        "value": "🙎🏾"
+      },
+      {
+        "key": "person with pouting face type 6",
+        "value": "🙎🏿"
+      },
+      {
+        "key": "person frowning",
+        "value": "🙍"
+      },
+      {
+        "key": "person frowning type 1 2",
+        "value": "🙍🏻"
+      },
+      {
+        "key": "person frowning type 3",
+        "value": "🙍🏼"
+      },
+      {
+        "key": "person frowning type 4",
+        "value": "🙍🏽"
+      },
+      {
+        "key": "person frowning type 5",
+        "value": "🙍🏾"
+      },
+      {
+        "key": "person frowning type 6",
+        "value": "🙍🏿"
+      },
+      {
+        "key": "haircut",
+        "value": "💇"
+      },
+      {
+        "key": "haircut type 1 2",
+        "value": "💇🏻"
+      },
+      {
+        "key": "haircut type 3",
+        "value": "💇🏼"
+      },
+      {
+        "key": "haircut type 4",
+        "value": "💇🏽"
+      },
+      {
+        "key": "haircut type 5",
+        "value": "💇🏾"
+      },
+      {
+        "key": "haircut type 6",
+        "value": "💇🏿"
+      },
+      {
+        "key": "face massage",
+        "value": "💆"
+      },
+      {
+        "key": "face massage type 1 2",
+        "value": "💆🏻"
+      },
+      {
+        "key": "face massage type 3",
+        "value": "💆🏻"
+      },
+      {
+        "key": "face massage type 4",
+        "value": "💆🏽"
+      },
+      {
+        "key": "face massage type 5",
+        "value": "💆🏾"
+      },
+      {
+        "key": "face massage type 6",
+        "value": "💆🏿"
+      },
+      {
+        "key": "couple with heart",
+        "value": "💑"
+      },
+      {
+        "key": "couple with heart woman",
+        "value": "👩‍❤️‍👩"
+      },
+      {
+        "key": "couple with heart man",
+        "value": "👨‍❤️‍👨"
+      },
+      {
+        "key": "kiss",
+        "value": "💏"
+      },
+      {
+        "key": "kiss woman",
+        "value": "👩‍❤️‍💋‍👩"
+      },
+      {
+        "key": "kiss man",
+        "value": "👨‍❤️‍💋‍👨"
+      },
+      {
+        "key": "family",
+        "value": "👪"
+      },
+      {
+        "key": "family man women girl",
+        "value": "👨‍👩‍👧"
+      },
+      {
+        "key": "family man women girl boy",
+        "value": "👨‍👩‍👧‍👦"
+      },
+      {
+        "key": "family man women boy boy",
+        "value": "👨‍👩‍👦‍👦"
+      },
+      {
+        "key": "family man women girl girl",
+        "value": "👨‍👩‍👧‍👧"
+      },
+      {
+        "key": "family woman women boy",
+        "value": "👩‍👩‍👦"
+      },
+      {
+        "key": "family woman women girl",
+        "value": "👩‍👩‍👧"
+      },
+      {
+        "key": "family woman women girl boy",
+        "value": "👩‍👩‍👧‍👦"
+      },
+      {
+        "key": "family woman women boy boy",
+        "value": "👩‍👩‍👦‍👦"
+      },
+      {
+        "key": "family woman women girl girl",
+        "value": "👩‍👩‍👧‍👧"
+      },
+      {
+        "key": "family man man boy",
+        "value": "👨‍👨‍👦"
+      },
+      {
+        "key": "family man man girl",
+        "value": "👨‍👨‍👧"
+      },
+      {
+        "key": "family man man girl boy",
+        "value": "👨‍👨‍👧‍👦"
+      },
+      {
+        "key": "family man man boy boy",
+        "value": "👨‍👨‍👦‍👦"
+      },
+      {
+        "key": "family man man girl girl",
+        "value": "👨‍👨‍👧‍👧"
+      },
+      {
+        "key": "woman clothes",
+        "value": "👚"
+      },
+      {
+        "key": "t shirt",
+        "value": "👕"
+      },
+      {
+        "key": "jeans",
+        "value": "👖"
+      },
+      {
+        "key": "necktie",
+        "value": "👔"
+      },
+      {
+        "key": "dress",
+        "value": "👗"
+      },
+      {
+        "key": "bikini",
+        "value": "👙"
+      },
+      {
+        "key": "kimono",
+        "value": "👘"
+      },
+      {
+        "key": "lipstick",
+        "value": "💄"
+      },
+      {
+        "key": "kiss mark",
+        "value": "💋"
+      },
+      {
+        "key": "footprints",
+        "value": "👣"
+      },
+      {
+        "key": "high heeled shoe",
+        "value": "👠"
+      },
+      {
+        "key": "woman sandal",
+        "value": "👡"
+      },
+      {
+        "key": "woman boots",
+        "value": "👢"
+      },
+      {
+        "key": "man shoe",
+        "value": "👞"
+      },
+      {
+        "key": "athletic shoe",
+        "value": "👟"
+      },
+      {
+        "key": "woman hat",
+        "value": "👒"
+      },
+      {
+        "key": "top hat",
+        "value": "🎩"
+      },
+      {
+        "key": "graduation cap",
+        "value": "🎓"
+      },
+      {
+        "key": "crown",
+        "value": "👑"
+      },
+      {
+        "key": "helmet with white cross",
+        "value": "⛑"
+      },
+      {
+        "key": "school satchel",
+        "value": "🎒"
+      },
+      {
+        "key": "pouch",
+        "value": "👝"
+      },
+      {
+        "key": "purse",
+        "value": "👛"
+      },
+      {
+        "key": "handbag",
+        "value": "👜"
+      },
+      {
+        "key": "briefcase",
+        "value": "💼"
+      },
+      {
+        "key": "eye glasses",
+        "value": "👓"
+      },
+      {
+        "key": "dark sun glasses",
+        "value": "🕶"
+      },
+      {
+        "key": "ring",
+        "value": "💍"
+      },
+      {
+        "key": "closed umbrella",
+        "value": "🌂"
+      }
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "natures": {
+    "nature": [
+      {
+        "key": "dog face",
+        "value": "🐶"
+      },
+      {
+        "key": "cat face",
+        "value": "🐱"
+      },
+      {
+        "key": "mouse face",
+        "value": "🐭"
+      },
+      {
+        "key": "hamster face",
+        "value": "🐹"
+      },
+      {
+        "key": "rabbit face",
+        "value": "🐰"
+      },
+      {
+        "key": "bear face",
+        "value": "🐻"
+      },
+      {
+        "key": "panda face",
+        "value": "🐼"
+      },
+      {
+        "key": "koala face",
+        "value": "🐨"
+      },
+      {
+        "key": "lion face",
+        "value": "🦁"
+      },
+      {
+        "key": "cow face",
+        "value": "🐮"
+      },
+      {
+        "key": "pig face",
+        "value": "🐷"
+      },
+      {
+        "key": "pig nose",
+        "value": "🐽"
+      },
+      {
+        "key": "frog face",
+        "value": "🐸"
+      },
+      {
+        "key": "octopus",
+        "value": "🐙"
+      },
+      {
+        "key": "monkey face",
+        "value": "🐵"
+      },
+      {
+        "key": "tiger face",
+        "value": "🐯"
+      },
+      {
+        "key": "see no evil monkey",
+        "value": "🙈"
+      },
+      {
+        "key": "hear no evil monkey",
+        "value": "🙉"
+      },
+      {
+        "key": "speak no evil monkey",
+        "value": "🙊"
+      },
+      {
+        "key": "monkey",
+        "value": "🐒"
+      },
+      {
+        "key": "chicken",
+        "value": "🐔"
+      },
+      {
+        "key": "penguin",
+        "value": "🐧"
+      },
+      {
+        "key": "bird",
+        "value": "🐦"
+      },
+      {
+        "key": "baby chick",
+        "value": "🐤"
+      },
+      {
+        "key": "hatching chick",
+        "value": "🐣"
+      },
+      {
+        "key": "front face chick",
+        "value": "🐥"
+      },
+      {
+        "key": "wolf face",
+        "value": "🐺"
+      },
+      {
+        "key": "boar",
+        "value": "🐗"
+      },
+      {
+        "key": "horse face",
+        "value": "🐴"
+      },
+      {
+        "key": "unicorn face",
+        "value": "🦄"
+      },
+      {
+        "key": "honey bee",
+        "value": "🐝"
+      },
+      {
+        "key": "bug",
+        "value": "🐛"
+      },
+      {
+        "key": "snail",
+        "value": "🐌"
+      },
+      {
+        "key": "lady beetle",
+        "value": "🐞"
+      },
+      {
+        "key": "ant",
+        "value": "🐜"
+      },
+      {
+        "key": "spider",
+        "value": "🕷"
+      },
+      {
+        "key": "scorpion",
+        "value": "🦂"
+      },
+      {
+        "key": "crab",
+        "value": "🦀"
+      },
+      {
+        "key": "snake",
+        "value": "🐍"
+      },
+      {
+        "key": "turtle",
+        "value": "🐢"
+      },
+      {
+        "key": "tropical fish",
+        "value": "🐠"
+      },
+      {
+        "key": "fish",
+        "value": "🐟"
+      },
+      {
+        "key": "blow fish",
+        "value": "🐡"
+      },
+      {
+        "key": "dolphin",
+        "value": "🐬"
+      },
+      {
+        "key": "spouting whale",
+        "value": "🐳"
+      },
+      {
+        "key": "whale",
+        "value": "🐋"
+      },
+      {
+        "key": "crocodile",
+        "value": "🐊"
+      },
+      {
+        "key": "leopard",
+        "value": "🐆"
+      },
+      {
+        "key": "tiger",
+        "value": "🐅"
+      },
+      {
+        "key": "water buffalo",
+        "value": "🐃"
+      },
+      {
+        "key": "ox",
+        "value": "🐂"
+      },
+      {
+        "key": "cow",
+        "value": "🐄"
+      },
+      {
+        "key": "dromedary camel",
+        "value": "🐪"
+      },
+      {
+        "key": "bactrian camel",
+        "value": "🐫"
+      },
+      {
+        "key": "elephant",
+        "value": "🐘"
+      },
+      {
+        "key": "goat",
+        "value": "🐐"
+      },
+      {
+        "key": "ram",
+        "value": "🐏"
+      },
+      {
+        "key": "sheep",
+        "value": "🐑"
+      },
+      {
+        "key": "horse",
+        "value": "🐎"
+      },
+      {
+        "key": "pig",
+        "value": "🐖"
+      },
+      {
+        "key": "rat",
+        "value": "🐀"
+      },
+      {
+        "key": "mouse",
+        "value": "🐁"
+      },
+      {
+        "key": "rooster",
+        "value": "🐓"
+      },
+      {
+        "key": "turkey",
+        "value": "🦃"
+      },
+      {
+        "key": "dove",
+        "value": "🕊"
+      },
+      {
+        "key": "dog",
+        "value": "🐕"
+      },
+      {
+        "key": "poodle",
+        "value": "🐩"
+      },
+      {
+        "key": "cat",
+        "value": "🐈"
+      },
+      {
+        "key": "rabbit",
+        "value": "🐇"
+      },
+      {
+        "key": "chipmunk",
+        "value": "🐿"
+      },
+      {
+        "key": "paw prints",
+        "value": "🐾"
+      },
+      {
+        "key": "dragon",
+        "value": "🐉"
+      },
+      {
+        "key": "dragon face",
+        "value": "🐲"
+      },
+      {
+        "key": "cactus",
+        "value": "🌵"
+      },
+      {
+        "key": "christmas tree",
+        "value": "🎄"
+      },
+      {
+        "key": "ever green tree",
+        "value": "🌲"
+      },
+      {
+        "key": "deciduous tree",
+        "value": "🌳"
+      },
+      {
+        "key": "palm tree",
+        "value": "🌴"
+      },
+      {
+        "key": "seedling",
+        "value": "🌱"
+      },
+      {
+        "key": "herb",
+        "value": "🌿"
+      },
+      {
+        "key": "shamrock",
+        "value": "☘"
+      },
+      {
+        "key": "four leaf",
+        "value": "🍀"
+      },
+      {
+        "key": "pine decoration",
+        "value": "🎍"
+      },
+      {
+        "key": "tanabata tree",
+        "value": "🎋"
+      },
+      {
+        "key": "leaf wind",
+        "value": "🍃"
+      },
+      {
+        "key": "fallen leaf",
+        "value": "🍂"
+      },
+      {
+        "key": "maple leaf",
+        "value": "🍁"
+      },
+      {
+        "key": "ear of rice",
+        "value": "🌾"
+      },
+      {
+        "key": "hibiscus",
+        "value": "🌺"
+      },
+      {
+        "key": "sunflower",
+        "value": "🌻"
+      },
+      {
+        "key": "rose",
+        "value": "🌹"
+      },
+      {
+        "key": "tulip",
+        "value": "🌷"
+      },
+      {
+        "key": "blossom",
+        "value": "🌼"
+      },
+      {
+        "key": "cherry blossom",
+        "value": "🌸"
+      },
+      {
+        "key": "bouquet",
+        "value": "💐"
+      },
+      {
+        "key": "mushroom",
+        "value": "🍄"
+      },
+      {
+        "key": "chestnut",
+        "value": "🌰"
+      },
+      {
+        "key": "jack o lantern",
+        "value": "🎃"
+      },
+      {
+        "key": "spiral shell",
+        "value": "🐚"
+      },
+      {
+        "key": "spider web",
+        "value": "🕸"
+      },
+      {
+        "key": "earth america",
+        "value": "🌎"
+      },
+      {
+        "key": "earth europe",
+        "value": "🌍"
+      },
+      {
+        "key": "earth australia",
+        "value": "🌏"
+      },
+      {
+        "key": "full moon",
+        "value": "🌕"
+      },
+      {
+        "key": "waning gibbous moon",
+        "value": "🌖"
+      },
+      {
+        "key": "last quarter moon",
+        "value": "🌗"
+      },
+      {
+        "key": "waning crescent moon",
+        "value": "🌘"
+      },
+      {
+        "key": "new moon symbol",
+        "value": "🌑"
+      },
+      {
+        "key": "waxing crescent moon",
+        "value": "🌒"
+      },
+      {
+        "key": "first quarter moon",
+        "value": "🌓"
+      },
+      {
+        "key": "waxing gibbous moon",
+        "value": "🌔"
+      },
+      {
+        "key": "new moon with face",
+        "value": "🌚"
+      },
+      {
+        "key": "full moon face",
+        "value": "🌝"
+      },
+      {
+        "key": "first quarter moon face",
+        "value": "🌛"
+      },
+      {
+        "key": "last quarter moon face",
+        "value": "🌜"
+      },
+      {
+        "key": "sun face",
+        "value": "🌞"
+      },
+      {
+        "key": "crescent moon",
+        "value": "🌙"
+      },
+      {
+        "key": "white star",
+        "value": "⭐"
+      },
+      {
+        "key": "glowing star",
+        "value": "🌟"
+      },
+      {
+        "key": "dizzy symbol",
+        "value": "💫"
+      },
+      {
+        "key": "sparkles",
+        "value": "✨"
+      },
+      {
+        "key": "comet",
+        "value": "☄"
+      },
+      {
+        "key": "black sun with rays",
+        "value": "☀"
+      },
+      {
+        "key": "white sun small cloud",
+        "value": "🌤"
+      },
+      {
+        "key": "sun behind cloud",
+        "value": "⛅"
+      },
+      {
+        "key": "white sun behind cloud",
+        "value": "🌥"
+      },
+      {
+        "key": "white sun behind cloud rain",
+        "value": "🌦"
+      },
+      {
+        "key": "cloud",
+        "value": "☁"
+      },
+      {
+        "key": "cloud with rain",
+        "value": "🌧"
+      },
+      {
+        "key": "thunder cloud rain",
+        "value": "⛈"
+      },
+      {
+        "key": "cloud lightening",
+        "value": "🌩"
+      },
+      {
+        "key": "high voltage",
+        "value": "⚡"
+      },
+      {
+        "key": "fire",
+        "value": "🔥"
+      },
+      {
+        "key": "collision",
+        "value": "💥"
+      },
+      {
+        "key": "snow flake",
+        "value": "❄"
+      },
+      {
+        "key": "cloud with snow",
+        "value": "🌨"
+      },
+      {
+        "key": "snowman",
+        "value": "☃"
+      },
+      {
+        "key": "snowman without snow",
+        "value": "⛄"
+      },
+      {
+        "key": "wind blowing face",
+        "value": "🌬"
+      },
+      {
+        "key": "dash symbol",
+        "value": "💨"
+      },
+      {
+        "key": "cloud with tornado",
+        "value": "🌪"
+      },
+      {
+        "key": "fog",
+        "value": "🌫"
+      },
+      {
+        "key": "umbrella",
+        "value": "☂"
+      },
+      {
+        "key": "umbrella with rain drops",
+        "value": "☔"
+      },
+      {
+        "key": "droplet",
+        "value": "💧"
+      },
+      {
+        "key": "splashing sweat",
+        "value": "💦"
+      },
+      {
+        "key": "water wave",
+        "value": "🌊"
+      }
+    ]
+  }
+}

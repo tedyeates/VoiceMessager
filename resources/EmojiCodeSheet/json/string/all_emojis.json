@@ -1,0 +1,6428 @@
+{
+    "Emojis": [
+      {
+        "key": "soccer ball",
+        "value": "⚽"
+      },
+      {
+        "key": "basket ball",
+        "value": "🏀"
+      },
+      {
+        "key": "american football",
+        "value": "🏈"
+      },
+      {
+        "key": "baseball",
+        "value": "⚾"
+      },
+      {
+        "key": "tennis racquet ball",
+        "value": "🎾"
+      },
+      {
+        "key": "volley ball",
+        "value": "🏐"
+      },
+      {
+        "key": "rugby football",
+        "value": "🏉"
+      },
+      {
+        "key": "billiards",
+        "value": "🎱"
+      },
+      {
+        "key": "activity in hole",
+        "value": "⛳"
+      },
+      {
+        "key": "golfer",
+        "value": "🏌"
+      },
+      {
+        "key": "table tennis paddle ball",
+        "value": "🏓"
+      },
+      {
+        "key": "badminton racquet shuttle cock",
+        "value": "🏸"
+      },
+      {
+        "key": "ice hockey stick puck",
+        "value": "🏒"
+      },
+      {
+        "key": "field hockey stick ball",
+        "value": "🏑"
+      },
+      {
+        "key": "cricket bat ball",
+        "value": "🏏"
+      },
+      {
+        "key": "ski and ski boot",
+        "value": "🎿"
+      },
+      {
+        "key": "skier",
+        "value": "⛷"
+      },
+      {
+        "key": "snow boarder",
+        "value": "🏂"
+      },
+      {
+        "key": "ice skate",
+        "value": "⛸"
+      },
+      {
+        "key": "bow and arrow",
+        "value": "🏹"
+      },
+      {
+        "key": "fishing pole and fish",
+        "value": "🎣"
+      },
+      {
+        "key": "row boat",
+        "value": "🚣"
+      },
+      {
+        "key": "row boat type 1 2",
+        "value": "🚣🏻"
+      },
+      {
+        "key": "row boat type 3",
+        "value": "🚣🏼"
+      },
+      {
+        "key": "row boat type 4",
+        "value": "🚣🏽"
+      },
+      {
+        "key": "row boat type 5",
+        "value": "🚣🏾"
+      },
+      {
+        "key": "row boat type 6",
+        "value": "🚣🏿"
+      },
+      {
+        "key": "swimmer",
+        "value": "🏊"
+      },
+      {
+        "key": "swimmer type 1 2",
+        "value": "🏊🏻"
+      },
+      {
+        "key": "swimmer type 3",
+        "value": "🏊🏼"
+      },
+      {
+        "key": "swimmer type 4",
+        "value": "🏊🏽"
+      },
+      {
+        "key": "swimmer type 5",
+        "value": "🏊🏾"
+      },
+      {
+        "key": "swimmer type 6",
+        "value": "🏊🏿"
+      },
+      {
+        "key": "surfer",
+        "value": "🏄"
+      },
+      {
+        "key": "surfer type 1 2",
+        "value": "🏄🏻"
+      },
+      {
+        "key": "surfer type 3",
+        "value": "🏄🏼"
+      },
+      {
+        "key": "surfer type 4",
+        "value": "🏄🏽"
+      },
+      {
+        "key": "surfer type 5",
+        "value": "🏄🏾"
+      },
+      {
+        "key": "surfer type 6",
+        "value": "🏄🏿"
+      },
+      {
+        "key": "bath",
+        "value": "🛀"
+      },
+      {
+        "key": "bath type 1 2",
+        "value": "🛀🏻"
+      },
+      {
+        "key": "bath type 3",
+        "value": "🛀🏼"
+      },
+      {
+        "key": "bath type 4",
+        "value": "🛀🏽"
+      },
+      {
+        "key": "bath type 5",
+        "value": "🛀🏾"
+      },
+      {
+        "key": "bath type 6",
+        "value": "🛀🏿"
+      },
+      {
+        "key": "person with ball",
+        "value": "⛹"
+      },
+      {
+        "key": "person with ball type 1 2",
+        "value": "⛹🏻"
+      },
+      {
+        "key": "person with ball type 3",
+        "value": "⛹🏼"
+      },
+      {
+        "key": "person with ball type 4",
+        "value": "⛹🏽"
+      },
+      {
+        "key": "person with ball type 5",
+        "value": "⛹🏾"
+      },
+      {
+        "key": "person with ball type 6",
+        "value": "⛹🏿"
+      },
+      {
+        "key": "weight lifter",
+        "value": "🏋"
+      },
+      {
+        "key": "weight lifter type 1 2",
+        "value": "🏋🏻"
+      },
+      {
+        "key": "weight lifter type 3",
+        "value": "🏋🏼"
+      },
+      {
+        "key": "weight lifter type 4",
+        "value": "🏋🏽"
+      },
+      {
+        "key": "weight lifter type 5",
+        "value": "🏋🏾"
+      },
+      {
+        "key": "weight lifter type 6",
+        "value": "🏋🏿"
+      },
+      {
+        "key": "bicyclist",
+        "value": "🚴"
+      },
+      {
+        "key": "bicyclist type 1 2",
+        "value": "🚴🏻"
+      },
+      {
+        "key": "bicyclist type 3",
+        "value": "🚴🏼"
+      },
+      {
+        "key": "bicyclist type 4",
+        "value": "🚴🏽"
+      },
+      {
+        "key": "bicyclist type 5",
+        "value": "🚴🏾"
+      },
+      {
+        "key": "bicyclist type 6",
+        "value": "🚴🏿"
+      },
+      {
+        "key": "mountain bicyclist",
+        "value": "🚵"
+      },
+      {
+        "key": "mountain bicyclist type 1 2",
+        "value": "🚵🏻"
+      },
+      {
+        "key": "mountain bicyclist type 3",
+        "value": "🚵🏼"
+      },
+      {
+        "key": "mountain bicyclist type 4",
+        "value": "🚵🏽"
+      },
+      {
+        "key": "mountain bicyclist type 5",
+        "value": "🚵🏾"
+      },
+      {
+        "key": "mountain bicyclist type 6",
+        "value": "🚵🏿"
+      },
+      {
+        "key": "horse racing",
+        "value": "🏇"
+      },
+      {
+        "key": "horse racing type 1 2",
+        "value": "🏇🏻"
+      },
+      {
+        "key": "horse racing type 3",
+        "value": "🏇🏻"
+      },
+      {
+        "key": "horse racing type 4",
+        "value": "🏇🏽"
+      },
+      {
+        "key": "horse racing type 5",
+        "value": "🏇🏾"
+      },
+      {
+        "key": "horse racing type 6",
+        "value": "🏇🏿"
+      },
+      {
+        "key": "main business suit levitating",
+        "value": "🕴"
+      },
+      {
+        "key": "trophy",
+        "value": "🏆"
+      },
+      {
+        "key": "running shirt with sash",
+        "value": "🎽"
+      },
+      {
+        "key": "sports medal",
+        "value": "🏅"
+      },
+      {
+        "key": "military medal",
+        "value": "🎖"
+      },
+      {
+        "key": "reminder ribbon",
+        "value": "🎗"
+      },
+      {
+        "key": "rosette",
+        "value": "🏵"
+      },
+      {
+        "key": "ticket",
+        "value": "🎫"
+      },
+      {
+        "key": "admission tickets",
+        "value": "🎟"
+      },
+      {
+        "key": "performing arts",
+        "value": "🎭"
+      },
+      {
+        "key": "artist palette",
+        "value": "🎨"
+      },
+      {
+        "key": "circus tent",
+        "value": "🎪"
+      },
+      {
+        "key": "microphone",
+        "value": "🎤"
+      },
+      {
+        "key": "headphone",
+        "value": "🎧"
+      },
+      {
+        "key": "musical score",
+        "value": "🎼"
+      },
+      {
+        "key": "musical keyboard",
+        "value": "🎹"
+      },
+      {
+        "key": "saxophone",
+        "value": "🎷"
+      },
+      {
+        "key": "trumpet",
+        "value": "🎺"
+      },
+      {
+        "key": "guitar",
+        "value": "🎸"
+      },
+      {
+        "key": "violin",
+        "value": "🎻"
+      },
+      {
+        "key": "clapper board",
+        "value": "🎬"
+      },
+      {
+        "key": "video game",
+        "value": "🎮"
+      },
+      {
+        "key": "alien monster",
+        "value": "👾"
+      },
+      {
+        "key": "direct hit",
+        "value": "🎯"
+      },
+      {
+        "key": "game die",
+        "value": "🎲"
+      },
+      {
+        "key": "slot machine",
+        "value": "🎰"
+      },
+      {
+        "key": "bowling",
+        "value": "🎳"
+      },
+      {
+        "key": "olympic rings",
+        "value": "◯‍◯‍◯‍◯‍◯"
+      },
+      {
+        "key": "afghanistan",
+        "value": "🇦🇫"
+      },
+      {
+        "key": "land island",
+        "value": "🇦🇽"
+      },
+      {
+        "key": "albania",
+        "value": "🇦🇱"
+      },
+      {
+        "key": "algeria",
+        "value": "🇩🇿"
+      },
+      {
+        "key": "american samoa",
+        "value": "🇦🇸"
+      },
+      {
+        "key": "andorra",
+        "value": "🇦🇩"
+      },
+      {
+        "key": "angola",
+        "value": "🇦🇴"
+      },
+      {
+        "key": "anguilla",
+        "value": "🇦🇮"
+      },
+      {
+        "key": "antarctica",
+        "value": "🇦🇶"
+      },
+      {
+        "key": "antigua and barbuda",
+        "value": "🇦🇬"
+      },
+      {
+        "key": "argentina",
+        "value": "🇦🇷"
+      },
+      {
+        "key": "armenia",
+        "value": "🇦🇲"
+      },
+      {
+        "key": "aruba",
+        "value": "🇦🇼"
+      },
+      {
+        "key": "australia",
+        "value": "🇦🇺"
+      },
+      {
+        "key": "austria",
+        "value": "🇦🇹"
+      },
+      {
+        "key": "azerbaijan",
+        "value": "🇦🇿"
+      },
+      {
+        "key": "bahamas",
+        "value": "🇧🇸"
+      },
+      {
+        "key": "bahrain",
+        "value": "🇧🇭"
+      },
+      {
+        "key": "bangladesh",
+        "value": "🇧🇩"
+      },
+      {
+        "key": "barbados",
+        "value": "🇧🇧"
+      },
+      {
+        "key": "belarus",
+        "value": "🇧🇾"
+      },
+      {
+        "key": "belgium",
+        "value": "🇧🇪"
+      },
+      {
+        "key": "belize",
+        "value": "🇧🇿"
+      },
+      {
+        "key": "benin",
+        "value": "🇧🇯"
+      },
+      {
+        "key": "bermuda",
+        "value": "🇧🇲"
+      },
+      {
+        "key": "bhutan",
+        "value": "🇧🇹"
+      },
+      {
+        "key": "bolivia",
+        "value": "🇧🇴"
+      },
+      {
+        "key": "caribbean netherlands",
+        "value": "🇧🇶"
+      },
+      {
+        "key": "bosnia and herzegovina",
+        "value": "🇧🇦"
+      },
+      {
+        "key": "botswana",
+        "value": "🇧🇼"
+      },
+      {
+        "key": "brazil",
+        "value": "🇧🇷"
+      },
+      {
+        "key": "british indian ocean territory",
+        "value": "🇮🇴"
+      },
+      {
+        "key": "british virgin islands",
+        "value": "🇻🇬"
+      },
+      {
+        "key": "brunei",
+        "value": "🇧🇳"
+      },
+      {
+        "key": "bulgaria",
+        "value": "🇧🇬"
+      },
+      {
+        "key": "burkina faso",
+        "value": "🇧🇫"
+      },
+      {
+        "key": "burundi",
+        "value": "🇧🇮"
+      },
+      {
+        "key": "cape verde",
+        "value": "🇨🇻"
+      },
+      {
+        "key": "cambodia",
+        "value": "🇰🇭"
+      },
+      {
+        "key": "cameroon",
+        "value": "🇨🇲"
+      },
+      {
+        "key": "canada",
+        "value": "🇨🇦"
+      },
+      {
+        "key": "canary islands",
+        "value": "🇮🇨"
+      },
+      {
+        "key": "cayman islands",
+        "value": "🇰🇾"
+      },
+      {
+        "key": "central african republic",
+        "value": "🇨🇫"
+      },
+      {
+        "key": "chad",
+        "value": "🇹🇩"
+      },
+      {
+        "key": "chile",
+        "value": "🇨🇱"
+      },
+      {
+        "key": "china",
+        "value": "🇨🇳"
+      },
+      {
+        "key": "christmas island",
+        "value": "🇨🇽"
+      },
+      {
+        "key": "cocos keeling island",
+        "value": "🇨🇨"
+      },
+      {
+        "key": "colombia",
+        "value": "🇨🇴"
+      },
+      {
+        "key": "comoros",
+        "value": "🇰🇲"
+      },
+      {
+        "key": "congo brazzaville",
+        "value": "🇨🇬"
+      },
+      {
+        "key": "congo kingshasa",
+        "value": "🇨🇩"
+      },
+      {
+        "key": "cook islands",
+        "value": "🇨🇰"
+      },
+      {
+        "key": "costa rica",
+        "value": "🇨🇷"
+      },
+      {
+        "key": "croatia",
+        "value": "🇭🇷"
+      },
+      {
+        "key": "cuba",
+        "value": "🇨🇺"
+      },
+      {
+        "key": "curaao",
+        "value": "🇨🇼"
+      },
+      {
+        "key": "cyprus",
+        "value": "🇨🇾"
+      },
+      {
+        "key": "czech republic",
+        "value": "🇨🇿"
+      },
+      {
+        "key": "denmark",
+        "value": "🇩🇰"
+      },
+      {
+        "key": "djibouti",
+        "value": "🇩🇯"
+      },
+      {
+        "key": "dominica",
+        "value": "🇩🇲"
+      },
+      {
+        "key": "dominican republic",
+        "value": "🇩🇴"
+      },
+      {
+        "key": "ecuador",
+        "value": "🇪🇨"
+      },
+      {
+        "key": "egypt",
+        "value": "🇪🇬"
+      },
+      {
+        "key": "el salvador",
+        "value": "🇸🇻"
+      },
+      {
+        "key": "equatorial guinea",
+        "value": "🇬🇶"
+      },
+      {
+        "key": "eritrea",
+        "value": "🇪🇷"
+      },
+      {
+        "key": "estonia",
+        "value": "🇪🇪"
+      },
+      {
+        "key": "ethiopia",
+        "value": "🇪🇹"
+      },
+      {
+        "key": "european union",
+        "value": "🇪🇺"
+      },
+      {
+        "key": "falkland islands",
+        "value": "🇫🇰"
+      },
+      {
+        "key": "faroe islands",
+        "value": "🇫🇴"
+      },
+      {
+        "key": "fiji",
+        "value": "🇫🇯"
+      },
+      {
+        "key": "finland",
+        "value": "🇫🇮"
+      },
+      {
+        "key": "france",
+        "value": "🇫🇷"
+      },
+      {
+        "key": "french guiana",
+        "value": "🇬🇫"
+      },
+      {
+        "key": "french polynesia",
+        "value": "🇵🇫"
+      },
+      {
+        "key": "french southern territories",
+        "value": "🇹🇫"
+      },
+      {
+        "key": "gabon",
+        "value": "🇬🇦"
+      },
+      {
+        "key": "gambia",
+        "value": "🇬🇲"
+      },
+      {
+        "key": "georgia",
+        "value": "🇬🇪"
+      },
+      {
+        "key": "germany",
+        "value": "🇩🇪"
+      },
+      {
+        "key": "ghana",
+        "value": "🇬🇭"
+      },
+      {
+        "key": "gibraltar",
+        "value": "🇬🇮"
+      },
+      {
+        "key": "greece",
+        "value": "🇬🇷"
+      },
+      {
+        "key": "greenland",
+        "value": "🇬🇱"
+      },
+      {
+        "key": "grenada",
+        "value": "🇬🇩"
+      },
+      {
+        "key": "guadeloupe",
+        "value": "🇬🇵"
+      },
+      {
+        "key": "guam",
+        "value": "🇬🇺"
+      },
+      {
+        "key": "guatemala",
+        "value": "🇬🇹"
+      },
+      {
+        "key": "guernsey",
+        "value": "🇬🇬"
+      },
+      {
+        "key": "guinea",
+        "value": "🇬🇳"
+      },
+      {
+        "key": "guinea bissau",
+        "value": "🇬🇼"
+      },
+      {
+        "key": "guyana",
+        "value": "🇬🇾"
+      },
+      {
+        "key": "haiti",
+        "value": "🇭🇹"
+      },
+      {
+        "key": "honduras",
+        "value": "🇭🇳"
+      },
+      {
+        "key": "hong kong",
+        "value": "🇭🇰"
+      },
+      {
+        "key": "hungary",
+        "value": "🇭🇺"
+      },
+      {
+        "key": "iceland",
+        "value": "🇮🇸"
+      },
+      {
+        "key": "india",
+        "value": "🇮🇳"
+      },
+      {
+        "key": "indonesia",
+        "value": "🇮🇩"
+      },
+      {
+        "key": "iran",
+        "value": "🇮🇷"
+      },
+      {
+        "key": "iraq",
+        "value": "🇮🇶"
+      },
+      {
+        "key": "ireland",
+        "value": "🇮🇪"
+      },
+      {
+        "key": "isle of man",
+        "value": "🇮🇲"
+      },
+      {
+        "key": "israel",
+        "value": "🇮🇱"
+      },
+      {
+        "key": "italy",
+        "value": "🇮🇹"
+      },
+      {
+        "key": "ctedivoire",
+        "value": "🇨🇮"
+      },
+      {
+        "key": "jamaica",
+        "value": "🇯🇲"
+      },
+      {
+        "key": "japan",
+        "value": "🇯🇵"
+      },
+      {
+        "key": "jersey",
+        "value": "🇯🇪"
+      },
+      {
+        "key": "jordan",
+        "value": "🇯🇴"
+      },
+      {
+        "key": "kazakhstan",
+        "value": "🇰🇿"
+      },
+      {
+        "key": "kenya",
+        "value": "🇰🇪"
+      },
+      {
+        "key": "kiribati",
+        "value": "🇰🇮"
+      },
+      {
+        "key": "kosovo",
+        "value": "🇽🇰"
+      },
+      {
+        "key": "kuwait",
+        "value": "🇰🇼"
+      },
+      {
+        "key": "kyrgyzstan",
+        "value": "🇰🇬"
+      },
+      {
+        "key": "laos",
+        "value": "🇱🇦"
+      },
+      {
+        "key": "latvia",
+        "value": "🇱🇻"
+      },
+      {
+        "key": "lebanon",
+        "value": "🇱🇧"
+      },
+      {
+        "key": "lesotho",
+        "value": "🇱🇸"
+      },
+      {
+        "key": "liberia",
+        "value": "🇱🇷"
+      },
+      {
+        "key": "libya",
+        "value": "🇱🇾"
+      },
+      {
+        "key": "liechtenstein",
+        "value": "🇱🇮"
+      },
+      {
+        "key": "lithuania",
+        "value": "🇱🇹"
+      },
+      {
+        "key": "luxembourg",
+        "value": "🇱🇺"
+      },
+      {
+        "key": "macau",
+        "value": "🇲🇴"
+      },
+      {
+        "key": "macedonia",
+        "value": "🇲🇰"
+      },
+      {
+        "key": "madagascar",
+        "value": "🇲🇬"
+      },
+      {
+        "key": "malawi",
+        "value": "🇲🇼"
+      },
+      {
+        "key": "malaysia",
+        "value": "🇲🇾"
+      },
+      {
+        "key": "maldives",
+        "value": "🇲🇻"
+      },
+      {
+        "key": "mali",
+        "value": "🇲🇱"
+      },
+      {
+        "key": "malta",
+        "value": "🇲🇹"
+      },
+      {
+        "key": "marshall islands",
+        "value": "🇲🇭"
+      },
+      {
+        "key": "martinique",
+        "value": "🇲🇶"
+      },
+      {
+        "key": "mauritania",
+        "value": "🇲🇷"
+      },
+      {
+        "key": "mauritius",
+        "value": "🇲🇺"
+      },
+      {
+        "key": "mayotte",
+        "value": "🇾🇹"
+      },
+      {
+        "key": "mexico",
+        "value": "🇲🇽"
+      },
+      {
+        "key": "micronesia",
+        "value": "🇫🇲"
+      },
+      {
+        "key": "moldova",
+        "value": "🇲🇩"
+      },
+      {
+        "key": "monaco",
+        "value": "🇲🇨"
+      },
+      {
+        "key": "mongolia",
+        "value": "🇲🇳"
+      },
+      {
+        "key": "montenegro",
+        "value": "🇲🇪"
+      },
+      {
+        "key": "montserrat",
+        "value": "🇲🇸"
+      },
+      {
+        "key": "morocco",
+        "value": "🇲🇦"
+      },
+      {
+        "key": "mozambique",
+        "value": "🇲🇿"
+      },
+      {
+        "key": "myanmar burma",
+        "value": "🇲🇲"
+      },
+      {
+        "key": "namibia",
+        "value": "🇳🇦"
+      },
+      {
+        "key": "nauru",
+        "value": "🇳🇷"
+      },
+      {
+        "key": "nepal",
+        "value": "🇳🇵"
+      },
+      {
+        "key": "netherlands",
+        "value": "🇳🇱"
+      },
+      {
+        "key": "new caledonia",
+        "value": "🇳🇨"
+      },
+      {
+        "key": "new zealand",
+        "value": "🇳🇿"
+      },
+      {
+        "key": "nicaragua",
+        "value": "🇳🇮"
+      },
+      {
+        "key": "niger",
+        "value": "🇳🇪"
+      },
+      {
+        "key": "nigeria",
+        "value": "🇳🇬"
+      },
+      {
+        "key": "niue",
+        "value": "🇳🇺"
+      },
+      {
+        "key": "norfolk island",
+        "value": "🇳🇫"
+      },
+      {
+        "key": "northern mariana islands",
+        "value": "🇲🇵"
+      },
+      {
+        "key": "north korea",
+        "value": "🇰🇵"
+      },
+      {
+        "key": "norway",
+        "value": "🇳🇴"
+      },
+      {
+        "key": "oman",
+        "value": "🇴🇲"
+      },
+      {
+        "key": "pakistan",
+        "value": "🇵🇰"
+      },
+      {
+        "key": "palau",
+        "value": "🇵🇼"
+      },
+      {
+        "key": "palestinian territories",
+        "value": "🇵🇸"
+      },
+      {
+        "key": "panama",
+        "value": "🇵🇦"
+      },
+      {
+        "key": "papua new guinea",
+        "value": "🇵🇬"
+      },
+      {
+        "key": "paraguay",
+        "value": "🇵🇾"
+      },
+      {
+        "key": "peru",
+        "value": "🇵🇪"
+      },
+      {
+        "key": "philippines",
+        "value": "🇵🇭"
+      },
+      {
+        "key": "pitcairn islands",
+        "value": "🇵🇳"
+      },
+      {
+        "key": "poland",
+        "value": "🇵🇱"
+      },
+      {
+        "key": "portugal",
+        "value": "🇵🇹"
+      },
+      {
+        "key": "puerto rico",
+        "value": "🇵🇷"
+      },
+      {
+        "key": "qatar",
+        "value": "🇶🇦"
+      },
+      {
+        "key": "reunion",
+        "value": "🇷🇪"
+      },
+      {
+        "key": "romania",
+        "value": "🇷🇴"
+      },
+      {
+        "key": "russia",
+        "value": "🇷🇺"
+      },
+      {
+        "key": "rwanda",
+        "value": "🇷🇼"
+      },
+      {
+        "key": "saint barthlemy",
+        "value": "🇧🇱"
+      },
+      {
+        "key": "saint helena",
+        "value": "🇸🇭"
+      },
+      {
+        "key": "saint kitts and nevis",
+        "value": "🇰🇳"
+      },
+      {
+        "key": "saint lucia",
+        "value": "🇱🇨"
+      },
+      {
+        "key": "saint pierre and miquelon",
+        "value": "🇵🇲"
+      },
+      {
+        "key": "st vincent grenadines",
+        "value": "🇻🇨"
+      },
+      {
+        "key": "samoa",
+        "value": "🇼🇸"
+      },
+      {
+        "key": "san marino",
+        "value": "🇸🇲"
+      },
+      {
+        "key": "sotom and prncipe",
+        "value": "🇸🇹"
+      },
+      {
+        "key": "saudi arabia",
+        "value": "🇸🇦"
+      },
+      {
+        "key": "senegal",
+        "value": "🇸🇳"
+      },
+      {
+        "key": "serbia",
+        "value": "🇷🇸"
+      },
+      {
+        "key": "seychelles",
+        "value": "🇸🇨"
+      },
+      {
+        "key": "sierra leone",
+        "value": "🇸🇱"
+      },
+      {
+        "key": "singapore",
+        "value": "🇸🇬"
+      },
+      {
+        "key": "sint maarten",
+        "value": "🇸🇽"
+      },
+      {
+        "key": "slovakia",
+        "value": "🇸🇰"
+      },
+      {
+        "key": "slovenia",
+        "value": "🇸🇮"
+      },
+      {
+        "key": "solomon islands",
+        "value": "🇸🇧"
+      },
+      {
+        "key": "somalia",
+        "value": "🇸🇴"
+      },
+      {
+        "key": "south africa",
+        "value": "🇿🇦"
+      },
+      {
+        "key": "south georgia south sandwich islands",
+        "value": "🇬🇸"
+      },
+      {
+        "key": "south korea",
+        "value": "🇰🇷"
+      },
+      {
+        "key": "south sudan",
+        "value": "🇸🇸"
+      },
+      {
+        "key": "spain",
+        "value": "🇪🇸"
+      },
+      {
+        "key": "sri lanka",
+        "value": "🇱🇰"
+      },
+      {
+        "key": "sudan",
+        "value": "🇸🇩"
+      },
+      {
+        "key": "suriname",
+        "value": "🇸🇷"
+      },
+      {
+        "key": "swaziland",
+        "value": "🇸🇿"
+      },
+      {
+        "key": "sweden",
+        "value": "🇸🇪"
+      },
+      {
+        "key": "switzerland",
+        "value": "🇨🇭"
+      },
+      {
+        "key": "syria",
+        "value": "🇸🇾"
+      },
+      {
+        "key": "taiwan",
+        "value": "🇹🇼"
+      },
+      {
+        "key": "tajikistan",
+        "value": "🇹🇯"
+      },
+      {
+        "key": "tanzania",
+        "value": "🇹🇿"
+      },
+      {
+        "key": "thailand",
+        "value": "🇹🇭"
+      },
+      {
+        "key": "timorleste",
+        "value": "🇹🇱"
+      },
+      {
+        "key": "togo",
+        "value": "🇹🇬"
+      },
+      {
+        "key": "tokelau",
+        "value": "🇹🇰"
+      },
+      {
+        "key": "tonga",
+        "value": "🇹🇴"
+      },
+      {
+        "key": "trinidad and tobago",
+        "value": "🇹🇹"
+      },
+      {
+        "key": "tunisia",
+        "value": "🇹🇳"
+      },
+      {
+        "key": "turkey",
+        "value": "🇹🇷"
+      },
+      {
+        "key": "turkmenistan",
+        "value": "🇹🇲"
+      },
+      {
+        "key": "turks and caicos islands",
+        "value": "🇹🇨"
+      },
+      {
+        "key": "tuvalu",
+        "value": "🇹🇻"
+      },
+      {
+        "key": "uganda",
+        "value": "🇺🇬"
+      },
+      {
+        "key": "ukraine",
+        "value": "🇺🇦"
+      },
+      {
+        "key": "united arab emirates",
+        "value": "🇦🇪"
+      },
+      {
+        "key": "united kingdom",
+        "value": "🇬🇧"
+      },
+      {
+        "key": "united states",
+        "value": "🇺🇸"
+      },
+      {
+        "key": "us virgin islands",
+        "value": "🇻🇮"
+      },
+      {
+        "key": "uruguay",
+        "value": "🇺🇾"
+      },
+      {
+        "key": "uzbekistan",
+        "value": "🇺🇿"
+      },
+      {
+        "key": "vanuatu",
+        "value": "🇻🇺"
+      },
+      {
+        "key": "vatican city",
+        "value": "🇻🇦"
+      },
+      {
+        "key": "venezuela",
+        "value": "🇻🇪"
+      },
+      {
+        "key": "vietnam",
+        "value": "🇻🇳"
+      },
+      {
+        "key": "wallis and futuna",
+        "value": "🇼🇫"
+      },
+      {
+        "key": "western sahara",
+        "value": "🇪🇭"
+      },
+      {
+        "key": "yemen",
+        "value": "🇾🇪"
+      },
+      {
+        "key": "zambia",
+        "value": "🇿🇲"
+      },
+      {
+        "key": "zimbabwe",
+        "value": "🇿🇼"
+      },
+      {
+        "key": "england",
+        "value": "🇽🇪"
+      },
+      {
+        "key": "green apple",
+        "value": "🍏"
+      },
+      {
+        "key": "red apple",
+        "value": "🍎"
+      },
+      {
+        "key": "pear",
+        "value": "🍐"
+      },
+      {
+        "key": "tangerine",
+        "value": "🍊"
+      },
+      {
+        "key": "lemon",
+        "value": "🍋"
+      },
+      {
+        "key": "banana",
+        "value": "🍌"
+      },
+      {
+        "key": "watermelon",
+        "value": "🍉"
+      },
+      {
+        "key": "grapes",
+        "value": "🍇"
+      },
+      {
+        "key": "strawberry",
+        "value": "🍓"
+      },
+      {
+        "key": "melon",
+        "value": "🍈"
+      },
+      {
+        "key": "cherry",
+        "value": "🍒"
+      },
+      {
+        "key": "peach",
+        "value": "🍑"
+      },
+      {
+        "key": "pineapple",
+        "value": "🍍"
+      },
+      {
+        "key": "tomato",
+        "value": "🍅"
+      },
+      {
+        "key": "egg plant",
+        "value": "🍆"
+      },
+      {
+        "key": "hot pepper",
+        "value": "🌶"
+      },
+      {
+        "key": "ear of maize",
+        "value": "🌽"
+      },
+      {
+        "key": "roasted sweet potato",
+        "value": "🍠"
+      },
+      {
+        "key": "honey pot",
+        "value": "🍯"
+      },
+      {
+        "key": "bread",
+        "value": "🍞"
+      },
+      {
+        "key": "cheese",
+        "value": "🧀"
+      },
+      {
+        "key": "poultry leg",
+        "value": "🍗"
+      },
+      {
+        "key": "meat on bone",
+        "value": "🍖"
+      },
+      {
+        "key": "fried shrimp",
+        "value": "🍤"
+      },
+      {
+        "key": "cooking",
+        "value": "🍳"
+      },
+      {
+        "key": "hamburger",
+        "value": "🍔"
+      },
+      {
+        "key": "french fries",
+        "value": "🍟"
+      },
+      {
+        "key": "hot dog",
+        "value": "🌭"
+      },
+      {
+        "key": "slice of pizza",
+        "value": "🍕"
+      },
+      {
+        "key": "spaghetti",
+        "value": "🍝"
+      },
+      {
+        "key": "taco",
+        "value": "🌮"
+      },
+      {
+        "key": "burrito",
+        "value": "🌯"
+      },
+      {
+        "key": "steaming bowl",
+        "value": "🍜"
+      },
+      {
+        "key": "pot of food",
+        "value": "🍲"
+      },
+      {
+        "key": "fish cake",
+        "value": "🍥"
+      },
+      {
+        "key": "sushi",
+        "value": "🍣"
+      },
+      {
+        "key": "bento box",
+        "value": "🍱"
+      },
+      {
+        "key": "curry and rice",
+        "value": "🍛"
+      },
+      {
+        "key": "rice ball",
+        "value": "🍙"
+      },
+      {
+        "key": "cooked rice",
+        "value": "🍚"
+      },
+      {
+        "key": "rice cracker",
+        "value": "🍘"
+      },
+      {
+        "key": "oden",
+        "value": "🍢"
+      },
+      {
+        "key": "dango",
+        "value": "🍡"
+      },
+      {
+        "key": "shaved ice",
+        "value": "🍧"
+      },
+      {
+        "key": "ice cream",
+        "value": "🍨"
+      },
+      {
+        "key": "soft ice cream",
+        "value": "🍦"
+      },
+      {
+        "key": "short cake",
+        "value": "🍰"
+      },
+      {
+        "key": "birthday cake",
+        "value": "🎂"
+      },
+      {
+        "key": "custard",
+        "value": "🍮"
+      },
+      {
+        "key": "candy",
+        "value": "🍬"
+      },
+      {
+        "key": "lollipop",
+        "value": "🍭"
+      },
+      {
+        "key": "chocolate bar",
+        "value": "🍫"
+      },
+      {
+        "key": "popcorn",
+        "value": "🍿"
+      },
+      {
+        "key": "doughnut",
+        "value": "🍩"
+      },
+      {
+        "key": "cookie",
+        "value": "🍪"
+      },
+      {
+        "key": "bear mug",
+        "value": "🍺"
+      },
+      {
+        "key": "clinking beer mugs",
+        "value": "🍻"
+      },
+      {
+        "key": "wine glass",
+        "value": "🍷"
+      },
+      {
+        "key": "cocktail glass",
+        "value": "🍸"
+      },
+      {
+        "key": "tropical drink",
+        "value": "🍹"
+      },
+      {
+        "key": "bottle with popping cork",
+        "value": "🍾"
+      },
+      {
+        "key": "sake bottle and cup",
+        "value": "🍶"
+      },
+      {
+        "key": "tea cup without handle",
+        "value": "🍵"
+      },
+      {
+        "key": "hot beverage",
+        "value": "☕"
+      },
+      {
+        "key": "baby bottle",
+        "value": "🍼"
+      },
+      {
+        "key": "fork and knife",
+        "value": "🍴"
+      },
+      {
+        "key": "fork and knife with plate",
+        "value": "🍽"
+      },
+      {
+        "key": "dog face",
+        "value": "🐶"
+      },
+      {
+        "key": "cat face",
+        "value": "🐱"
+      },
+      {
+        "key": "mouse face",
+        "value": "🐭"
+      },
+      {
+        "key": "hamster face",
+        "value": "🐹"
+      },
+      {
+        "key": "rabbit face",
+        "value": "🐰"
+      },
+      {
+        "key": "bear face",
+        "value": "🐻"
+      },
+      {
+        "key": "panda face",
+        "value": "🐼"
+      },
+      {
+        "key": "koala face",
+        "value": "🐨"
+      },
+      {
+        "key": "lion face",
+        "value": "🦁"
+      },
+      {
+        "key": "cow face",
+        "value": "🐮"
+      },
+      {
+        "key": "pig face",
+        "value": "🐷"
+      },
+      {
+        "key": "pig nose",
+        "value": "🐽"
+      },
+      {
+        "key": "frog face",
+        "value": "🐸"
+      },
+      {
+        "key": "octopus",
+        "value": "🐙"
+      },
+      {
+        "key": "monkey face",
+        "value": "🐵"
+      },
+      {
+        "key": "tiger face",
+        "value": "🐯"
+      },
+      {
+        "key": "see no evil monkey",
+        "value": "🙈"
+      },
+      {
+        "key": "hear no evil monkey",
+        "value": "🙉"
+      },
+      {
+        "key": "speak no evil monkey",
+        "value": "🙊"
+      },
+      {
+        "key": "monkey",
+        "value": "🐒"
+      },
+      {
+        "key": "chicken",
+        "value": "🐔"
+      },
+      {
+        "key": "penguin",
+        "value": "🐧"
+      },
+      {
+        "key": "bird",
+        "value": "🐦"
+      },
+      {
+        "key": "baby chick",
+        "value": "🐤"
+      },
+      {
+        "key": "hatching chick",
+        "value": "🐣"
+      },
+      {
+        "key": "front face chick",
+        "value": "🐥"
+      },
+      {
+        "key": "wolf face",
+        "value": "🐺"
+      },
+      {
+        "key": "boar",
+        "value": "🐗"
+      },
+      {
+        "key": "horse face",
+        "value": "🐴"
+      },
+      {
+        "key": "unicorn face",
+        "value": "🦄"
+      },
+      {
+        "key": "honey bee",
+        "value": "🐝"
+      },
+      {
+        "key": "bug",
+        "value": "🐛"
+      },
+      {
+        "key": "snail",
+        "value": "🐌"
+      },
+      {
+        "key": "lady beetle",
+        "value": "🐞"
+      },
+      {
+        "key": "ant",
+        "value": "🐜"
+      },
+      {
+        "key": "spider",
+        "value": "🕷"
+      },
+      {
+        "key": "scorpion",
+        "value": "🦂"
+      },
+      {
+        "key": "crab",
+        "value": "🦀"
+      },
+      {
+        "key": "snake",
+        "value": "🐍"
+      },
+      {
+        "key": "turtle",
+        "value": "🐢"
+      },
+      {
+        "key": "tropical fish",
+        "value": "🐠"
+      },
+      {
+        "key": "fish",
+        "value": "🐟"
+      },
+      {
+        "key": "blow fish",
+        "value": "🐡"
+      },
+      {
+        "key": "dolphin",
+        "value": "🐬"
+      },
+      {
+        "key": "spouting whale",
+        "value": "🐳"
+      },
+      {
+        "key": "whale",
+        "value": "🐋"
+      },
+      {
+        "key": "crocodile",
+        "value": "🐊"
+      },
+      {
+        "key": "leopard",
+        "value": "🐆"
+      },
+      {
+        "key": "tiger",
+        "value": "🐅"
+      },
+      {
+        "key": "water buffalo",
+        "value": "🐃"
+      },
+      {
+        "key": "ox",
+        "value": "🐂"
+      },
+      {
+        "key": "cow",
+        "value": "🐄"
+      },
+      {
+        "key": "dromedary camel",
+        "value": "🐪"
+      },
+      {
+        "key": "bactrian camel",
+        "value": "🐫"
+      },
+      {
+        "key": "elephant",
+        "value": "🐘"
+      },
+      {
+        "key": "goat",
+        "value": "🐐"
+      },
+      {
+        "key": "ram",
+        "value": "🐏"
+      },
+      {
+        "key": "sheep",
+        "value": "🐑"
+      },
+      {
+        "key": "horse",
+        "value": "🐎"
+      },
+      {
+        "key": "pig",
+        "value": "🐖"
+      },
+      {
+        "key": "rat",
+        "value": "🐀"
+      },
+      {
+        "key": "mouse",
+        "value": "🐁"
+      },
+      {
+        "key": "rooster",
+        "value": "🐓"
+      },
+      {
+        "key": "turkey",
+        "value": "🦃"
+      },
+      {
+        "key": "dove",
+        "value": "🕊"
+      },
+      {
+        "key": "dog",
+        "value": "🐕"
+      },
+      {
+        "key": "poodle",
+        "value": "🐩"
+      },
+      {
+        "key": "cat",
+        "value": "🐈"
+      },
+      {
+        "key": "rabbit",
+        "value": "🐇"
+      },
+      {
+        "key": "chipmunk",
+        "value": "🐿"
+      },
+      {
+        "key": "paw prints",
+        "value": "🐾"
+      },
+      {
+        "key": "dragon",
+        "value": "🐉"
+      },
+      {
+        "key": "dragon face",
+        "value": "🐲"
+      },
+      {
+        "key": "cactus",
+        "value": "🌵"
+      },
+      {
+        "key": "christmas tree",
+        "value": "🎄"
+      },
+      {
+        "key": "ever green tree",
+        "value": "🌲"
+      },
+      {
+        "key": "deciduous tree",
+        "value": "🌳"
+      },
+      {
+        "key": "palm tree",
+        "value": "🌴"
+      },
+      {
+        "key": "seedling",
+        "value": "🌱"
+      },
+      {
+        "key": "herb",
+        "value": "🌿"
+      },
+      {
+        "key": "shamrock",
+        "value": "☘"
+      },
+      {
+        "key": "four leaf",
+        "value": "🍀"
+      },
+      {
+        "key": "pine decoration",
+        "value": "🎍"
+      },
+      {
+        "key": "tanabata tree",
+        "value": "🎋"
+      },
+      {
+        "key": "leaf wind",
+        "value": "🍃"
+      },
+      {
+        "key": "fallen leaf",
+        "value": "🍂"
+      },
+      {
+        "key": "maple leaf",
+        "value": "🍁"
+      },
+      {
+        "key": "ear of rice",
+        "value": "🌾"
+      },
+      {
+        "key": "hibiscus",
+        "value": "🌺"
+      },
+      {
+        "key": "sunflower",
+        "value": "🌻"
+      },
+      {
+        "key": "rose",
+        "value": "🌹"
+      },
+      {
+        "key": "tulip",
+        "value": "🌷"
+      },
+      {
+        "key": "blossom",
+        "value": "🌼"
+      },
+      {
+        "key": "cherry blossom",
+        "value": "🌸"
+      },
+      {
+        "key": "bouquet",
+        "value": "💐"
+      },
+      {
+        "key": "mushroom",
+        "value": "🍄"
+      },
+      {
+        "key": "chestnut",
+        "value": "🌰"
+      },
+      {
+        "key": "jack o lantern",
+        "value": "🎃"
+      },
+      {
+        "key": "spiral shell",
+        "value": "🐚"
+      },
+      {
+        "key": "spider web",
+        "value": "🕸"
+      },
+      {
+        "key": "earth america",
+        "value": "🌎"
+      },
+      {
+        "key": "earth europe",
+        "value": "🌍"
+      },
+      {
+        "key": "earth australia",
+        "value": "🌏"
+      },
+      {
+        "key": "full moon",
+        "value": "🌕"
+      },
+      {
+        "key": "waning gibbous moon",
+        "value": "🌖"
+      },
+      {
+        "key": "last quarter moon",
+        "value": "🌗"
+      },
+      {
+        "key": "waning crescent moon",
+        "value": "🌘"
+      },
+      {
+        "key": "new moon symbol",
+        "value": "🌑"
+      },
+      {
+        "key": "waxing crescent moon",
+        "value": "🌒"
+      },
+      {
+        "key": "first quarter moon",
+        "value": "🌓"
+      },
+      {
+        "key": "waxing gibbous moon",
+        "value": "🌔"
+      },
+      {
+        "key": "new moon with face",
+        "value": "🌚"
+      },
+      {
+        "key": "full moon face",
+        "value": "🌝"
+      },
+      {
+        "key": "first quarter moon face",
+        "value": "🌛"
+      },
+      {
+        "key": "last quarter moon face",
+        "value": "🌜"
+      },
+      {
+        "key": "sun face",
+        "value": "🌞"
+      },
+      {
+        "key": "crescent moon",
+        "value": "🌙"
+      },
+      {
+        "key": "white star",
+        "value": "⭐"
+      },
+      {
+        "key": "glowing star",
+        "value": "🌟"
+      },
+      {
+        "key": "dizzy symbol",
+        "value": "💫"
+      },
+      {
+        "key": "sparkles",
+        "value": "✨"
+      },
+      {
+        "key": "comet",
+        "value": "☄"
+      },
+      {
+        "key": "black sun with rays",
+        "value": "☀"
+      },
+      {
+        "key": "white sun small cloud",
+        "value": "🌤"
+      },
+      {
+        "key": "sun behind cloud",
+        "value": "⛅"
+      },
+      {
+        "key": "white sun behind cloud",
+        "value": "🌥"
+      },
+      {
+        "key": "white sun behind cloud rain",
+        "value": "🌦"
+      },
+      {
+        "key": "cloud",
+        "value": "☁"
+      },
+      {
+        "key": "cloud with rain",
+        "value": "🌧"
+      },
+      {
+        "key": "thunder cloud rain",
+        "value": "⛈"
+      },
+      {
+        "key": "cloud lightening",
+        "value": "🌩"
+      },
+      {
+        "key": "high voltage",
+        "value": "⚡"
+      },
+      {
+        "key": "fire",
+        "value": "🔥"
+      },
+      {
+        "key": "collision",
+        "value": "💥"
+      },
+      {
+        "key": "snow flake",
+        "value": "❄"
+      },
+      {
+        "key": "cloud with snow",
+        "value": "🌨"
+      },
+      {
+        "key": "snowman",
+        "value": "☃"
+      },
+      {
+        "key": "snowman without snow",
+        "value": "⛄"
+      },
+      {
+        "key": "wind blowing face",
+        "value": "🌬"
+      },
+      {
+        "key": "dash symbol",
+        "value": "💨"
+      },
+      {
+        "key": "cloud with tornado",
+        "value": "🌪"
+      },
+      {
+        "key": "fog",
+        "value": "🌫"
+      },
+      {
+        "key": "umbrella",
+        "value": "☂"
+      },
+      {
+        "key": "umbrella with rain drops",
+        "value": "☔"
+      },
+      {
+        "key": "droplet",
+        "value": "💧"
+      },
+      {
+        "key": "splashing sweat",
+        "value": "💦"
+      },
+      {
+        "key": "water wave",
+        "value": "🌊"
+      },
+      {
+        "key": "watch",
+        "value": "⌚"
+      },
+      {
+        "key": "mobile phone",
+        "value": "📱"
+      },
+      {
+        "key": "mobile phone with right arrow",
+        "value": "📲"
+      },
+      {
+        "key": "personal computer",
+        "value": "💻"
+      },
+      {
+        "key": "keyboard",
+        "value": "⌨"
+      },
+      {
+        "key": "desktop computer",
+        "value": "🖥"
+      },
+      {
+        "key": "printer",
+        "value": "🖨"
+      },
+      {
+        "key": "three button mouse",
+        "value": "🖱"
+      },
+      {
+        "key": "track ball",
+        "value": "🖲"
+      },
+      {
+        "key": "joystick",
+        "value": "🕹"
+      },
+      {
+        "key": "compression",
+        "value": "🗜"
+      },
+      {
+        "key": "mini disc",
+        "value": "💽"
+      },
+      {
+        "key": "floppy disk",
+        "value": "💾"
+      },
+      {
+        "key": "optical disc",
+        "value": "💿"
+      },
+      {
+        "key": "dvd",
+        "value": "📀"
+      },
+      {
+        "key": "video cassette",
+        "value": "📼"
+      },
+      {
+        "key": "camera",
+        "value": "📷"
+      },
+      {
+        "key": "camera with flash",
+        "value": "📸"
+      },
+      {
+        "key": "video camera",
+        "value": "📹"
+      },
+      {
+        "key": "movie camera",
+        "value": "🎥"
+      },
+      {
+        "key": "film projector",
+        "value": "📽"
+      },
+      {
+        "key": "film frames",
+        "value": "🎞"
+      },
+      {
+        "key": "telephone receiver",
+        "value": "📞"
+      },
+      {
+        "key": "black telephone",
+        "value": "☎"
+      },
+      {
+        "key": "pager",
+        "value": "📟"
+      },
+      {
+        "key": "fax machine",
+        "value": "📠"
+      },
+      {
+        "key": "television",
+        "value": "📺"
+      },
+      {
+        "key": "radio",
+        "value": "📻"
+      },
+      {
+        "key": "studio microphone",
+        "value": "🎙"
+      },
+      {
+        "key": "level slider",
+        "value": "🎚"
+      },
+      {
+        "key": "control knobs",
+        "value": "🎛"
+      },
+      {
+        "key": "stop watch",
+        "value": "⏱"
+      },
+      {
+        "key": "timer clock",
+        "value": "⏲"
+      },
+      {
+        "key": "alarm clock",
+        "value": "⏰"
+      },
+      {
+        "key": "mantel piece clock",
+        "value": "🕰"
+      },
+      {
+        "key": "hour glass with flowing stand",
+        "value": "⏳"
+      },
+      {
+        "key": "hour glass",
+        "value": "⌛"
+      },
+      {
+        "key": "satellite antenna",
+        "value": "📡"
+      },
+      {
+        "key": "battery",
+        "value": "🔋"
+      },
+      {
+        "key": "electric plug",
+        "value": "🔌"
+      },
+      {
+        "key": "electric light bulb",
+        "value": "💡"
+      },
+      {
+        "key": "electric torch",
+        "value": "🔦"
+      },
+      {
+        "key": "candle",
+        "value": "🕯"
+      },
+      {
+        "key": "waste basket",
+        "value": "🗑"
+      },
+      {
+        "key": "oil drum",
+        "value": "🛢"
+      },
+      {
+        "key": "money with wings",
+        "value": "💸"
+      },
+      {
+        "key": "bank note with dollar sign",
+        "value": "💵"
+      },
+      {
+        "key": "bank note with yen sign",
+        "value": "💴"
+      },
+      {
+        "key": "bank note with euro sign",
+        "value": "💶"
+      },
+      {
+        "key": "bank note with pounds sign",
+        "value": "💷"
+      },
+      {
+        "key": "money bag",
+        "value": "💰"
+      },
+      {
+        "key": "credit card",
+        "value": "💳"
+      },
+      {
+        "key": "gem stone",
+        "value": "💎"
+      },
+      {
+        "key": "scales",
+        "value": "⚖"
+      },
+      {
+        "key": "wrench",
+        "value": "🔧"
+      },
+      {
+        "key": "hammer",
+        "value": "🔨"
+      },
+      {
+        "key": "hammer and pick",
+        "value": "⚒"
+      },
+      {
+        "key": "hammer and wrench",
+        "value": "🛠"
+      },
+      {
+        "key": "pick",
+        "value": "⛏"
+      },
+      {
+        "key": "nut and bolt",
+        "value": "🔩"
+      },
+      {
+        "key": "gear",
+        "value": "⚙"
+      },
+      {
+        "key": "chains",
+        "value": "⛓"
+      },
+      {
+        "key": "pistol",
+        "value": "🔫"
+      },
+      {
+        "key": "bomb",
+        "value": "💣"
+      },
+      {
+        "key": "hocho",
+        "value": "🔪"
+      },
+      {
+        "key": "dagger knife",
+        "value": "🗡"
+      },
+      {
+        "key": "crossed words",
+        "value": "⚔"
+      },
+      {
+        "key": "shield",
+        "value": "🛡"
+      },
+      {
+        "key": "smoking symbol",
+        "value": "🚬"
+      },
+      {
+        "key": "skull and cross bones",
+        "value": "☠"
+      },
+      {
+        "key": "coffin",
+        "value": "⚰"
+      },
+      {
+        "key": "funeral urn",
+        "value": "⚱"
+      },
+      {
+        "key": "amphora",
+        "value": "🏺"
+      },
+      {
+        "key": "crystal ball",
+        "value": "🔮"
+      },
+      {
+        "key": "prayer beads",
+        "value": "📿"
+      },
+      {
+        "key": "barber pole",
+        "value": "💈"
+      },
+      {
+        "key": "alembic",
+        "value": "⚗"
+      },
+      {
+        "key": "telescope",
+        "value": "🔭"
+      },
+      {
+        "key": "microscope",
+        "value": "🔬"
+      },
+      {
+        "key": "hole",
+        "value": "🕳"
+      },
+      {
+        "key": "pill",
+        "value": "💊"
+      },
+      {
+        "key": "syringe",
+        "value": "💉"
+      },
+      {
+        "key": "thermometer",
+        "value": "🌡"
+      },
+      {
+        "key": "label",
+        "value": "🏷"
+      },
+      {
+        "key": "bookmark",
+        "value": "🔖"
+      },
+      {
+        "key": "toilet",
+        "value": "🚽"
+      },
+      {
+        "key": "shower",
+        "value": "🚿"
+      },
+      {
+        "key": "bath tub",
+        "value": "🛁"
+      },
+      {
+        "key": "key",
+        "value": "🔑"
+      },
+      {
+        "key": "old key",
+        "value": "🗝"
+      },
+      {
+        "key": "couch and lamp",
+        "value": "🛋"
+      },
+      {
+        "key": "sleeping accommodation",
+        "value": "🛌"
+      },
+      {
+        "key": "bed",
+        "value": "🛏"
+      },
+      {
+        "key": "door",
+        "value": "🚪"
+      },
+      {
+        "key": "bell hop bell",
+        "value": "🛎"
+      },
+      {
+        "key": "frame with picture",
+        "value": "🖼"
+      },
+      {
+        "key": "world map",
+        "value": "🗺"
+      },
+      {
+        "key": "umbrella on ground",
+        "value": "⛱"
+      },
+      {
+        "key": "moyai",
+        "value": "🗿"
+      },
+      {
+        "key": "shopping bags",
+        "value": "🛍"
+      },
+      {
+        "key": "balloon",
+        "value": "🎈"
+      },
+      {
+        "key": "carp streamer",
+        "value": "🎏"
+      },
+      {
+        "key": "ribbon",
+        "value": "🎀"
+      },
+      {
+        "key": "wrapped present",
+        "value": "🎁"
+      },
+      {
+        "key": "confetti ball",
+        "value": "🎊"
+      },
+      {
+        "key": "party popper",
+        "value": "🎉"
+      },
+      {
+        "key": "japanese dolls",
+        "value": "🎎"
+      },
+      {
+        "key": "wind chime",
+        "value": "🎐"
+      },
+      {
+        "key": "crossed flags",
+        "value": "🎌"
+      },
+      {
+        "key": "izakaya lantern",
+        "value": "🏮"
+      },
+      {
+        "key": "envelope",
+        "value": "✉"
+      },
+      {
+        "key": "envelope with down arrow",
+        "value": "📩"
+      },
+      {
+        "key": "incoming envelope",
+        "value": "📨"
+      },
+      {
+        "key": "email symbol",
+        "value": "📧"
+      },
+      {
+        "key": "love letter",
+        "value": "💌"
+      },
+      {
+        "key": "post box",
+        "value": "📮"
+      },
+      {
+        "key": "closed mail box with lowered flag",
+        "value": "📪"
+      },
+      {
+        "key": "closed mail box with raised flag",
+        "value": "📫"
+      },
+      {
+        "key": "open mail box with raised flag",
+        "value": "📬"
+      },
+      {
+        "key": "open mail box with lowered flag",
+        "value": "📭"
+      },
+      {
+        "key": "package",
+        "value": "📦"
+      },
+      {
+        "key": "postal horn",
+        "value": "📯"
+      },
+      {
+        "key": "inbox tray",
+        "value": "📥"
+      },
+      {
+        "key": "outbox tray",
+        "value": "📤"
+      },
+      {
+        "key": "scroll",
+        "value": "📜"
+      },
+      {
+        "key": "page with curl",
+        "value": "📃"
+      },
+      {
+        "key": "bookmark tabs",
+        "value": "📑"
+      },
+      {
+        "key": "bar chart",
+        "value": "📊"
+      },
+      {
+        "key": "chart with upwards trend",
+        "value": "📈"
+      },
+      {
+        "key": "chart with downwards trend",
+        "value": "📉"
+      },
+      {
+        "key": "page facing up",
+        "value": "📄"
+      },
+      {
+        "key": "calender",
+        "value": "📅"
+      },
+      {
+        "key": "tear off calendar",
+        "value": "📆"
+      },
+      {
+        "key": "spiral calendar pad",
+        "value": "🗓"
+      },
+      {
+        "key": "card index",
+        "value": "📇"
+      },
+      {
+        "key": "card file box",
+        "value": "🗃"
+      },
+      {
+        "key": "ballot box with ballot",
+        "value": "🗳"
+      },
+      {
+        "key": "file cabinet",
+        "value": "🗄"
+      },
+      {
+        "key": "clip board",
+        "value": "📋"
+      },
+      {
+        "key": "spiral notepad",
+        "value": "🗒"
+      },
+      {
+        "key": "file folder",
+        "value": "📁"
+      },
+      {
+        "key": "open file folder",
+        "value": "📂"
+      },
+      {
+        "key": "card index dividers",
+        "value": "🗂"
+      },
+      {
+        "key": "rolled up newspaper",
+        "value": "🗞"
+      },
+      {
+        "key": "newspaper",
+        "value": "📰"
+      },
+      {
+        "key": "notebook",
+        "value": "📓"
+      },
+      {
+        "key": "closed book",
+        "value": "📕"
+      },
+      {
+        "key": "green book",
+        "value": "📗"
+      },
+      {
+        "key": "blue book",
+        "value": "📘"
+      },
+      {
+        "key": "orange book",
+        "value": "📙"
+      },
+      {
+        "key": "notebook with decorative cover",
+        "value": "📔"
+      },
+      {
+        "key": "ledger",
+        "value": "📒"
+      },
+      {
+        "key": "books",
+        "value": "📚"
+      },
+      {
+        "key": "open book",
+        "value": "📖"
+      },
+      {
+        "key": "link symbol",
+        "value": "🔗"
+      },
+      {
+        "key": "paper clip",
+        "value": "📎"
+      },
+      {
+        "key": "linked paper clips",
+        "value": "🖇"
+      },
+      {
+        "key": "black scissors",
+        "value": "✂"
+      },
+      {
+        "key": "triangular ruler",
+        "value": "📐"
+      },
+      {
+        "key": "straight ruler",
+        "value": "📏"
+      },
+      {
+        "key": "pushpin",
+        "value": "📌"
+      },
+      {
+        "key": "round pushpin",
+        "value": "📍"
+      },
+      {
+        "key": "triangular flag post",
+        "value": "🚩"
+      },
+      {
+        "key": "waving white flag",
+        "value": "🏳"
+      },
+      {
+        "key": "waving black flag",
+        "value": "🏴"
+      },
+      {
+        "key": "closed lock with key",
+        "value": "🔐"
+      },
+      {
+        "key": "lock",
+        "value": "🔒"
+      },
+      {
+        "key": "open lock",
+        "value": "🔓"
+      },
+      {
+        "key": "lock with ink pen",
+        "value": "🔏"
+      },
+      {
+        "key": "lower left ball point pen",
+        "value": "🖊"
+      },
+      {
+        "key": "lower left fountain pen",
+        "value": "🖋"
+      },
+      {
+        "key": "black nib",
+        "value": "✒"
+      },
+      {
+        "key": "memo",
+        "value": "📝"
+      },
+      {
+        "key": "pencil",
+        "value": "✏"
+      },
+      {
+        "key": "lower left crayon",
+        "value": "🖍"
+      },
+      {
+        "key": "lower left paint brush",
+        "value": "🖌"
+      },
+      {
+        "key": "left pointing magnifying glass",
+        "value": "🔍"
+      },
+      {
+        "key": "right pointing magnifying glass",
+        "value": "🔎"
+      },
+      {
+        "key": "grinning face",
+        "value": "😀"
+      },
+      {
+        "key": "grimacing face",
+        "value": "😬"
+      },
+      {
+        "key": "grimacing face with smile eyes",
+        "value": "😁"
+      },
+      {
+        "key": "face with tear of joy",
+        "value": "😂"
+      },
+      {
+        "key": "smiling face with open mouth",
+        "value": "😃"
+      },
+      {
+        "key": "smiling face with open mouth eyes",
+        "value": "😄"
+      },
+      {
+        "key": "smiling face with open mouth cold sweat",
+        "value": "😅"
+      },
+      {
+        "key": "smiling face with open mouth hand tight",
+        "value": "😆"
+      },
+      {
+        "key": "smiling face with halo",
+        "value": "😇"
+      },
+      {
+        "key": "winking face",
+        "value": "😉"
+      },
+      {
+        "key": "black smiling face",
+        "value": "😊"
+      },
+      {
+        "key": "slightly smiling face",
+        "value": "🙂"
+      },
+      {
+        "key": "upside down face",
+        "value": "🙃"
+      },
+      {
+        "key": "white smiling face",
+        "value": "☺"
+      },
+      {
+        "key": "face savouring delicious food",
+        "value": "😋"
+      },
+      {
+        "key": "relieved face",
+        "value": "😌"
+      },
+      {
+        "key": "smiling face heart eyes",
+        "value": "😍"
+      },
+      {
+        "key": "face throwing kiss",
+        "value": "😘"
+      },
+      {
+        "key": "kissing face",
+        "value": "😗"
+      },
+      {
+        "key": "kissing face with smile eyes",
+        "value": "😙"
+      },
+      {
+        "key": "kissing face with closed eyes",
+        "value": "😚"
+      },
+      {
+        "key": "face with tongue wink eye",
+        "value": "😜"
+      },
+      {
+        "key": "face with tongue closed eye",
+        "value": "😝"
+      },
+      {
+        "key": "face with stuck out tongue",
+        "value": "😛"
+      },
+      {
+        "key": "money mouth face",
+        "value": "🤑"
+      },
+      {
+        "key": "nerd face",
+        "value": "🤓"
+      },
+      {
+        "key": "smiling face with sun glass",
+        "value": "😎"
+      },
+      {
+        "key": "hugging face",
+        "value": "🤗"
+      },
+      {
+        "key": "smirking face",
+        "value": "😏"
+      },
+      {
+        "key": "face without mouth",
+        "value": "😶"
+      },
+      {
+        "key": "neutral face",
+        "value": "😐"
+      },
+      {
+        "key": "expressionless face",
+        "value": "😑"
+      },
+      {
+        "key": "unamused face",
+        "value": "😒"
+      },
+      {
+        "key": "face with rolling eyes",
+        "value": "🙄"
+      },
+      {
+        "key": "thinking face",
+        "value": "🤔"
+      },
+      {
+        "key": "flushed face",
+        "value": "😳"
+      },
+      {
+        "key": "disappointed face",
+        "value": "😞"
+      },
+      {
+        "key": "worried face",
+        "value": "😟"
+      },
+      {
+        "key": "angry face",
+        "value": "😠"
+      },
+      {
+        "key": "pouting face",
+        "value": "😡"
+      },
+      {
+        "key": "pensive face",
+        "value": "😔"
+      },
+      {
+        "key": "confused face",
+        "value": "😕"
+      },
+      {
+        "key": "slightly frowning face",
+        "value": "🙁"
+      },
+      {
+        "key": "white frowning face",
+        "value": "☹"
+      },
+      {
+        "key": "persevering face",
+        "value": "😣"
+      },
+      {
+        "key": "confounded face",
+        "value": "😖"
+      },
+      {
+        "key": "tired face",
+        "value": "😫"
+      },
+      {
+        "key": "weary face",
+        "value": "😩"
+      },
+      {
+        "key": "face with look of triumph",
+        "value": "😤"
+      },
+      {
+        "key": "face with open mouth",
+        "value": "😮"
+      },
+      {
+        "key": "face screaming in fear",
+        "value": "😱"
+      },
+      {
+        "key": "fearful face",
+        "value": "😨"
+      },
+      {
+        "key": "face with open mouth cold sweat",
+        "value": "😰"
+      },
+      {
+        "key": "hushed face",
+        "value": "😯"
+      },
+      {
+        "key": "frowning face with open mouth",
+        "value": "😦"
+      },
+      {
+        "key": "anguished face",
+        "value": "😧"
+      },
+      {
+        "key": "crying face",
+        "value": "😢"
+      },
+      {
+        "key": "disappointed but relieved face",
+        "value": "😥"
+      },
+      {
+        "key": "sleepy face",
+        "value": "😪"
+      },
+      {
+        "key": "face with cold sweat",
+        "value": "😓"
+      },
+      {
+        "key": "loudly crying face",
+        "value": "😭"
+      },
+      {
+        "key": "dizzy face",
+        "value": "😵"
+      },
+      {
+        "key": "astonished face",
+        "value": "😲"
+      },
+      {
+        "key": "zipper mouth face",
+        "value": "🤐"
+      },
+      {
+        "key": "face with medical mask",
+        "value": "😷"
+      },
+      {
+        "key": "face with thermometer",
+        "value": "🤒"
+      },
+      {
+        "key": "face with head bandage",
+        "value": "🤕"
+      },
+      {
+        "key": "sleeping face",
+        "value": "😴"
+      },
+      {
+        "key": "sleeping symbol",
+        "value": "💤"
+      },
+      {
+        "key": "pile of poo",
+        "value": "💩"
+      },
+      {
+        "key": "smiling face with horns",
+        "value": "😈"
+      },
+      {
+        "key": "imp",
+        "value": "👿"
+      },
+      {
+        "key": "japanese ogre",
+        "value": "👹"
+      },
+      {
+        "key": "japanese goblin",
+        "value": "👺"
+      },
+      {
+        "key": "skull",
+        "value": "💀"
+      },
+      {
+        "key": "ghost",
+        "value": "👻"
+      },
+      {
+        "key": "extra terrestrial alien",
+        "value": "👽"
+      },
+      {
+        "key": "robot face",
+        "value": "🤖"
+      },
+      {
+        "key": "smiling cat face open mouth",
+        "value": "😺"
+      },
+      {
+        "key": "grinning cat face smile eyes",
+        "value": "😸"
+      },
+      {
+        "key": "cat face tears of joy",
+        "value": "😹"
+      },
+      {
+        "key": "smiling cat face heart shaped eyes",
+        "value": "😻"
+      },
+      {
+        "key": "cat face wry smile",
+        "value": "😼"
+      },
+      {
+        "key": "kissing cat face closed eyes",
+        "value": "😽"
+      },
+      {
+        "key": "weary cat face",
+        "value": "🙀"
+      },
+      {
+        "key": "crying cat face",
+        "value": "😿"
+      },
+      {
+        "key": "pouting cat face",
+        "value": "😾"
+      },
+      {
+        "key": "person both hand celebration",
+        "value": "🙌"
+      },
+      {
+        "key": "person both hand celebration type 1 2",
+        "value": "🙌🏻"
+      },
+      {
+        "key": "person both hand celebration type 3",
+        "value": "🙌🏼"
+      },
+      {
+        "key": "person both hand celebration type 4",
+        "value": "🙌🏽"
+      },
+      {
+        "key": "person both hand celebration type 5",
+        "value": "🙌🏾"
+      },
+      {
+        "key": "person both hand celebration type 6",
+        "value": "🙌🏿"
+      },
+      {
+        "key": "clapping hand",
+        "value": "👏"
+      },
+      {
+        "key": "clapping hand type 1 2",
+        "value": "👏🏼"
+      },
+      {
+        "key": "clapping hand type 3",
+        "value": "👏🏼"
+      },
+      {
+        "key": "clapping hand type 4",
+        "value": "👏🏽"
+      },
+      {
+        "key": "clapping hand type 5",
+        "value": "👏🏾"
+      },
+      {
+        "key": "clapping hand type 6",
+        "value": "👏🏿"
+      },
+      {
+        "key": "waving hands",
+        "value": "👋"
+      },
+      {
+        "key": "waving hands type 1 2",
+        "value": "👋🏻"
+      },
+      {
+        "key": "waving hands type 3",
+        "value": "👋🏼"
+      },
+      {
+        "key": "waving hands type 4",
+        "value": "👋🏽"
+      },
+      {
+        "key": "waving hands type 5",
+        "value": "👋🏾"
+      },
+      {
+        "key": "waving hands type 6",
+        "value": "👋🏿"
+      },
+      {
+        "key": "thumbs up",
+        "value": "👍"
+      },
+      {
+        "key": "thumbs up type 1 2",
+        "value": "👍🏻"
+      },
+      {
+        "key": "thumbs up type 3",
+        "value": "👍🏼"
+      },
+      {
+        "key": "thumbs up type 4",
+        "value": "👍🏽"
+      },
+      {
+        "key": "thumbs up type 5",
+        "value": "👍🏾"
+      },
+      {
+        "key": "thumbs up type 6",
+        "value": "👍🏿"
+      },
+      {
+        "key": "thumbs down",
+        "value": "👎"
+      },
+      {
+        "key": "thumbs down type 1 2",
+        "value": "👎🏻"
+      },
+      {
+        "key": "thumbs down type 3",
+        "value": "👎🏼"
+      },
+      {
+        "key": "thumbs down type 4",
+        "value": "👎🏽"
+      },
+      {
+        "key": "thumbs down type 5",
+        "value": "👎🏾"
+      },
+      {
+        "key": "thumbs down type 6",
+        "value": "👎🏿"
+      },
+      {
+        "key": "fist hand",
+        "value": "👊"
+      },
+      {
+        "key": "fist hand type 1 2",
+        "value": "👊🏻"
+      },
+      {
+        "key": "fist hand type 3",
+        "value": "👊🏼"
+      },
+      {
+        "key": "fist hand type 4",
+        "value": "👊🏽"
+      },
+      {
+        "key": "fist hand type 5",
+        "value": "👊🏾"
+      },
+      {
+        "key": "fist hand type 6",
+        "value": "👊🏿"
+      },
+      {
+        "key": "raised fist",
+        "value": "✊"
+      },
+      {
+        "key": "raised fist type 1 2",
+        "value": "✊🏻"
+      },
+      {
+        "key": "raised fist type 3",
+        "value": "✊🏼"
+      },
+      {
+        "key": "raised fist type 4",
+        "value": "✊🏽"
+      },
+      {
+        "key": "raised fist type 5",
+        "value": "✊🏾"
+      },
+      {
+        "key": "raised fist type 6",
+        "value": "✊🏿"
+      },
+      {
+        "key": "victory hand",
+        "value": "✌"
+      },
+      {
+        "key": "victory hand type 1 2",
+        "value": "✌🏻"
+      },
+      {
+        "key": "victory hand type 3",
+        "value": "✌🏼"
+      },
+      {
+        "key": "victory hand type 4",
+        "value": "✌🏽"
+      },
+      {
+        "key": "victory hand type 5",
+        "value": "✌🏾"
+      },
+      {
+        "key": "victory hand type 6",
+        "value": "✌🏿"
+      },
+      {
+        "key": "ok hand",
+        "value": "👌"
+      },
+      {
+        "key": "ok hand type 1 2",
+        "value": "👌🏻"
+      },
+      {
+        "key": "ok hand type 3",
+        "value": "👌🏼"
+      },
+      {
+        "key": "ok hand type 4",
+        "value": "👌🏽"
+      },
+      {
+        "key": "ok hand type 5",
+        "value": "👌🏾"
+      },
+      {
+        "key": "ok hand type 6",
+        "value": "👌🏿"
+      },
+      {
+        "key": "raised hand",
+        "value": "✋"
+      },
+      {
+        "key": "raised hand type 1 2",
+        "value": "✋🏻"
+      },
+      {
+        "key": "raised hand type 3",
+        "value": "✋🏼"
+      },
+      {
+        "key": "raised hand type 4",
+        "value": "✋🏽"
+      },
+      {
+        "key": "raised hand type 5",
+        "value": "✋🏾"
+      },
+      {
+        "key": "raised hand type 6",
+        "value": "✋🏿"
+      },
+      {
+        "key": "open hand",
+        "value": "👐"
+      },
+      {
+        "key": "open hand type 1 2",
+        "value": "👐🏻"
+      },
+      {
+        "key": "open hand type 3",
+        "value": "👐🏼"
+      },
+      {
+        "key": "open hand type 4",
+        "value": "👐🏽"
+      },
+      {
+        "key": "open hand type 5",
+        "value": "👐🏾"
+      },
+      {
+        "key": "open hand type 6",
+        "value": "👐🏿"
+      },
+      {
+        "key": "flexed biceps",
+        "value": "💪"
+      },
+      {
+        "key": "flexed biceps type 1 2",
+        "value": "💪🏻"
+      },
+      {
+        "key": "flexed biceps type 3",
+        "value": "💪🏼"
+      },
+      {
+        "key": "flexed biceps type 4",
+        "value": "💪🏽"
+      },
+      {
+        "key": "flexed biceps type 5",
+        "value": "💪🏾"
+      },
+      {
+        "key": "flexed biceps type 6",
+        "value": "💪🏿"
+      },
+      {
+        "key": "folded hands",
+        "value": "🙏"
+      },
+      {
+        "key": "folded hands type 1 2",
+        "value": "🙏🏻"
+      },
+      {
+        "key": "folded hands type 3",
+        "value": "🙏🏼"
+      },
+      {
+        "key": "folded hands type 4",
+        "value": "🙏🏽"
+      },
+      {
+        "key": "folded hands type 5",
+        "value": "🙏🏾"
+      },
+      {
+        "key": "folded hands type 6",
+        "value": "🙏🏿"
+      },
+      {
+        "key": "up pointing index",
+        "value": "☝"
+      },
+      {
+        "key": "up pointing index type 1 2",
+        "value": "☝🏻"
+      },
+      {
+        "key": "up pointing index type 3",
+        "value": "☝🏼"
+      },
+      {
+        "key": "up pointing index type 4",
+        "value": "☝🏽"
+      },
+      {
+        "key": "up pointing index type 5",
+        "value": "☝🏾"
+      },
+      {
+        "key": "up pointing index type 6",
+        "value": "☝🏿"
+      },
+      {
+        "key": "up pointing backhand index",
+        "value": "👆"
+      },
+      {
+        "key": "up pointing backhand index type 1 2",
+        "value": "👆🏻"
+      },
+      {
+        "key": "up pointing backhand index type 3",
+        "value": "👆🏼"
+      },
+      {
+        "key": "up pointing backhand index type 4",
+        "value": "👆🏽"
+      },
+      {
+        "key": "up pointing backhand index type 5",
+        "value": "👆🏾"
+      },
+      {
+        "key": "up pointing backhand index type 6",
+        "value": "👆🏿"
+      },
+      {
+        "key": "down pointing backhand index",
+        "value": "👇"
+      },
+      {
+        "key": "down pointing backhand index type 1 2",
+        "value": "👇🏻"
+      },
+      {
+        "key": "down pointing backhand index type 3",
+        "value": "👇🏼"
+      },
+      {
+        "key": "down pointing backhand index type 4",
+        "value": "👇🏽"
+      },
+      {
+        "key": "down pointing backhand index type 5",
+        "value": "👇🏾"
+      },
+      {
+        "key": "down pointing backhand index type 6",
+        "value": "👇🏿"
+      },
+      {
+        "key": "left pointing backhand index",
+        "value": "👈"
+      },
+      {
+        "key": "left pointing backhand index type 1 2",
+        "value": "👈🏻"
+      },
+      {
+        "key": "left pointing backhand index type 3",
+        "value": "👈🏼"
+      },
+      {
+        "key": "left pointing backhand index type 4",
+        "value": "👈🏽"
+      },
+      {
+        "key": "left pointing backhand index type 5",
+        "value": "👈🏾"
+      },
+      {
+        "key": "left pointing backhand index type 6",
+        "value": "👈🏿"
+      },
+      {
+        "key": "right pointing backhand index",
+        "value": "👉"
+      },
+      {
+        "key": "right pointing backhand index type 1 2",
+        "value": "👉🏻"
+      },
+      {
+        "key": "right pointing backhand index type 3",
+        "value": "👉🏼"
+      },
+      {
+        "key": "right pointing backhand index type 4",
+        "value": "👉🏽"
+      },
+      {
+        "key": "right pointing backhand index type 5",
+        "value": "👉🏾"
+      },
+      {
+        "key": "right pointing backhand index type 6",
+        "value": "👉🏿"
+      },
+      {
+        "key": "reverse middle finger",
+        "value": "🖕"
+      },
+      {
+        "key": "reverse middle finger type 1 2",
+        "value": "🖕🏻"
+      },
+      {
+        "key": "reverse middle finger type 3",
+        "value": "🖕🏼"
+      },
+      {
+        "key": "reverse middle finger type 4",
+        "value": "🖕🏽"
+      },
+      {
+        "key": "reverse middle finger type 5",
+        "value": "🖕🏾"
+      },
+      {
+        "key": "reverse middle finger type 6",
+        "value": "🖕🏿"
+      },
+      {
+        "key": "raised hand fingers splayed",
+        "value": "🖐"
+      },
+      {
+        "key": "raised hand fingers splayed type 1 2",
+        "value": "🖐🏻"
+      },
+      {
+        "key": "raised hand fingers splayed type 3",
+        "value": "🖐🏼"
+      },
+      {
+        "key": "raised hand fingers splayed type 4",
+        "value": "🖐🏽"
+      },
+      {
+        "key": "raised hand fingers splayed type 5",
+        "value": "🖐🏾"
+      },
+      {
+        "key": "raised hand fingers splayed type 6",
+        "value": "🖐🏿"
+      },
+      {
+        "key": "sign of horn",
+        "value": "🤘"
+      },
+      {
+        "key": "sign of horn type 1 2",
+        "value": "🤘🏻"
+      },
+      {
+        "key": "sign of horn type 3",
+        "value": "🤘🏼"
+      },
+      {
+        "key": "sign of horn type 4",
+        "value": "🤘🏽"
+      },
+      {
+        "key": "sign of horn type 5",
+        "value": "🤘🏾"
+      },
+      {
+        "key": "sign of horn type 6",
+        "value": "🤘🏿"
+      },
+      {
+        "key": "raised hand part between middle ring",
+        "value": "🖖"
+      },
+      {
+        "key": "raised hand part between middle ring type 1 2",
+        "value": "🖖🏻"
+      },
+      {
+        "key": "raised hand part between middle ring type 3",
+        "value": "🖖🏼"
+      },
+      {
+        "key": "raised hand part between middle ring type 4",
+        "value": "🖖🏽"
+      },
+      {
+        "key": "raised hand part between middle ring type 5",
+        "value": "🖖🏾"
+      },
+      {
+        "key": "raised hand part between middle ring type 6",
+        "value": "🖖🏿"
+      },
+      {
+        "key": "writing hand",
+        "value": "✍"
+      },
+      {
+        "key": "writing hand type 1 2",
+        "value": "✍🏻"
+      },
+      {
+        "key": "writing hand type 3",
+        "value": "✍🏼"
+      },
+      {
+        "key": "writing hand type 4",
+        "value": "✍🏽"
+      },
+      {
+        "key": "writing hand type 5",
+        "value": "✍🏾"
+      },
+      {
+        "key": "writing hand type 6",
+        "value": "✍🏿"
+      },
+      {
+        "key": "nail polish",
+        "value": "💅"
+      },
+      {
+        "key": "nail polish type 1 2",
+        "value": "💅🏻"
+      },
+      {
+        "key": "nail polish type 3",
+        "value": "💅🏼"
+      },
+      {
+        "key": "nail polish type 4",
+        "value": "💅🏽"
+      },
+      {
+        "key": "nail polish type 5",
+        "value": "💅🏾"
+      },
+      {
+        "key": "nail polish type 6",
+        "value": "💅🏿"
+      },
+      {
+        "key": "mouth",
+        "value": "👄"
+      },
+      {
+        "key": "tongue",
+        "value": "👅"
+      },
+      {
+        "key": "ear",
+        "value": "👂"
+      },
+      {
+        "key": "ear type 1 2",
+        "value": "👂🏻"
+      },
+      {
+        "key": "ear type 3",
+        "value": "👂🏼"
+      },
+      {
+        "key": "ear type 4",
+        "value": "👂🏽"
+      },
+      {
+        "key": "ear type 5",
+        "value": "👂🏾"
+      },
+      {
+        "key": "ear type 6",
+        "value": "👂🏿"
+      },
+      {
+        "key": "nose",
+        "value": "👃"
+      },
+      {
+        "key": "nose type 1 2",
+        "value": "👃🏻"
+      },
+      {
+        "key": "nose type 3",
+        "value": "👃🏼"
+      },
+      {
+        "key": "nose type 4",
+        "value": "👃🏽"
+      },
+      {
+        "key": "nose type 5",
+        "value": "👃🏾"
+      },
+      {
+        "key": "nose type 6",
+        "value": "👃🏿"
+      },
+      {
+        "key": "eye",
+        "value": "👁"
+      },
+      {
+        "key": "eyes",
+        "value": "👀"
+      },
+      {
+        "key": "bust in silhouette",
+        "value": "👤"
+      },
+      {
+        "key": "busts in silhouette",
+        "value": "👥"
+      },
+      {
+        "key": "speaking head in silhouette",
+        "value": "🗣"
+      },
+      {
+        "key": "baby",
+        "value": "👶"
+      },
+      {
+        "key": "baby type 1 2",
+        "value": "👶🏻"
+      },
+      {
+        "key": "baby type 3",
+        "value": "👶🏼"
+      },
+      {
+        "key": "baby type 4",
+        "value": "👶🏽"
+      },
+      {
+        "key": "baby type 5",
+        "value": "👶🏾"
+      },
+      {
+        "key": "baby type 6",
+        "value": "👶🏿"
+      },
+      {
+        "key": "boy",
+        "value": "👦"
+      },
+      {
+        "key": "boy type 1 2",
+        "value": "👦🏻"
+      },
+      {
+        "key": "boy type 3",
+        "value": "👦🏼"
+      },
+      {
+        "key": "boy type 4",
+        "value": "👦🏽"
+      },
+      {
+        "key": "boy type 5",
+        "value": "👦🏾"
+      },
+      {
+        "key": "boy type 6",
+        "value": "👦🏿"
+      },
+      {
+        "key": "girl",
+        "value": "👧"
+      },
+      {
+        "key": "girl type 1 2",
+        "value": "👧🏻"
+      },
+      {
+        "key": "girl type 3",
+        "value": "👧🏼"
+      },
+      {
+        "key": "girl type 4",
+        "value": "👧🏽"
+      },
+      {
+        "key": "girl type 5",
+        "value": "👧🏾"
+      },
+      {
+        "key": "girl type 6",
+        "value": "👧🏿"
+      },
+      {
+        "key": "man",
+        "value": "👨"
+      },
+      {
+        "key": "man type 1 2",
+        "value": "👨🏻"
+      },
+      {
+        "key": "man type 3",
+        "value": "👨🏼"
+      },
+      {
+        "key": "man type 4",
+        "value": "👨🏽"
+      },
+      {
+        "key": "man type 5",
+        "value": "👨🏾"
+      },
+      {
+        "key": "man type 6",
+        "value": "👨🏿"
+      },
+      {
+        "key": "women",
+        "value": "👩"
+      },
+      {
+        "key": "women type 1 2",
+        "value": "👩🏻"
+      },
+      {
+        "key": "women type 3",
+        "value": "👩🏼"
+      },
+      {
+        "key": "women type 4",
+        "value": "👩🏽"
+      },
+      {
+        "key": "women type 5",
+        "value": "👩🏾"
+      },
+      {
+        "key": "women type 6",
+        "value": "👩🏿"
+      },
+      {
+        "key": "person with blond hair",
+        "value": "👱"
+      },
+      {
+        "key": "person with blond hair type 1 2",
+        "value": "👱🏻"
+      },
+      {
+        "key": "person with blond hair type 3",
+        "value": "👱🏼"
+      },
+      {
+        "key": "person with blond hair type 4",
+        "value": "👱🏽"
+      },
+      {
+        "key": "person with blond hair type 5",
+        "value": "👱🏾"
+      },
+      {
+        "key": "person with blond hair type 6",
+        "value": "👱🏿"
+      },
+      {
+        "key": "older man",
+        "value": "👴"
+      },
+      {
+        "key": "older man type 1 2",
+        "value": "👴🏻"
+      },
+      {
+        "key": "older man type 3",
+        "value": "👴🏼"
+      },
+      {
+        "key": "older man type 4",
+        "value": "👴🏽"
+      },
+      {
+        "key": "older man type 5",
+        "value": "👴🏾"
+      },
+      {
+        "key": "older man type 6",
+        "value": "👴🏿"
+      },
+      {
+        "key": "older women",
+        "value": "👵"
+      },
+      {
+        "key": "older women type 1 2",
+        "value": "👵🏻"
+      },
+      {
+        "key": "older women type 3",
+        "value": "👵🏼"
+      },
+      {
+        "key": "older women type 4",
+        "value": "👵🏽"
+      },
+      {
+        "key": "older women type 5",
+        "value": "👵🏾"
+      },
+      {
+        "key": "older women type 6",
+        "value": "👵🏿"
+      },
+      {
+        "key": "man with gua pi mao",
+        "value": "👲"
+      },
+      {
+        "key": "man with gua pi mao type 1 2",
+        "value": "👲🏼"
+      },
+      {
+        "key": "man with gua pi mao type 3",
+        "value": "👲🏼"
+      },
+      {
+        "key": "man with gua pi mao type 4",
+        "value": "👲🏽"
+      },
+      {
+        "key": "man with gua pi mao type 5",
+        "value": "👲🏾"
+      },
+      {
+        "key": "man with gua pi mao type 6",
+        "value": "👲🏿"
+      },
+      {
+        "key": "man with turban",
+        "value": "👳"
+      },
+      {
+        "key": "man with turban type 1 2",
+        "value": "👳🏻"
+      },
+      {
+        "key": "man with turban type 3",
+        "value": "👳🏼"
+      },
+      {
+        "key": "man with turban type 4",
+        "value": "👳🏽"
+      },
+      {
+        "key": "man with turban type 5",
+        "value": "👳🏾"
+      },
+      {
+        "key": "man with turban type 6",
+        "value": "👳🏿"
+      },
+      {
+        "key": "police officer",
+        "value": "👮"
+      },
+      {
+        "key": "police officer type 1 2",
+        "value": "👮🏻"
+      },
+      {
+        "key": "police officer type 3",
+        "value": "👮🏼"
+      },
+      {
+        "key": "police officer type 4",
+        "value": "👮🏽"
+      },
+      {
+        "key": "police officer type 5",
+        "value": "👮🏾"
+      },
+      {
+        "key": "police officer type 6",
+        "value": "👮🏿"
+      },
+      {
+        "key": "construction worker",
+        "value": "👷"
+      },
+      {
+        "key": "construction worker type 1 2",
+        "value": "👷🏻"
+      },
+      {
+        "key": "construction worker type 3",
+        "value": "👷🏼"
+      },
+      {
+        "key": "construction worker type 4",
+        "value": "👷🏽"
+      },
+      {
+        "key": "construction worker type 5",
+        "value": "👷🏾"
+      },
+      {
+        "key": "construction worker type 6",
+        "value": "👷🏿"
+      },
+      {
+        "key": "guards man",
+        "value": "💂"
+      },
+      {
+        "key": "guards man type 1 2",
+        "value": "💂🏻"
+      },
+      {
+        "key": "guards man type 3",
+        "value": "💂🏼"
+      },
+      {
+        "key": "guards man type 4",
+        "value": "💂🏽"
+      },
+      {
+        "key": "guards man type 5",
+        "value": "💂🏾"
+      },
+      {
+        "key": "guards man type 6",
+        "value": "💂🏿"
+      },
+      {
+        "key": "spy",
+        "value": "🕵"
+      },
+      {
+        "key": "father christmas",
+        "value": "🎅"
+      },
+      {
+        "key": "father christmas type 1 2",
+        "value": "🎅🏻"
+      },
+      {
+        "key": "father christmas type 3",
+        "value": "🎅🏼"
+      },
+      {
+        "key": "father christmas type 4",
+        "value": "🎅🏽"
+      },
+      {
+        "key": "father christmas type 5",
+        "value": "🎅🏾"
+      },
+      {
+        "key": "father christmas type 6",
+        "value": "🎅🏿"
+      },
+      {
+        "key": "baby angel",
+        "value": "👼"
+      },
+      {
+        "key": "baby angel type 1 2",
+        "value": "👼🏻"
+      },
+      {
+        "key": "baby angel type 3",
+        "value": "👼🏼"
+      },
+      {
+        "key": "baby angel type 4",
+        "value": "👼🏽"
+      },
+      {
+        "key": "baby angel type 5",
+        "value": "👼🏾"
+      },
+      {
+        "key": "baby angel type 6",
+        "value": "👼🏿"
+      },
+      {
+        "key": "princess",
+        "value": "👸"
+      },
+      {
+        "key": "princess type 1 2",
+        "value": "👸🏻"
+      },
+      {
+        "key": "princess type 3",
+        "value": "👸🏼"
+      },
+      {
+        "key": "princess type 4",
+        "value": "👸🏽"
+      },
+      {
+        "key": "princess type 5",
+        "value": "👸🏾"
+      },
+      {
+        "key": "princess type 6",
+        "value": "👸🏿"
+      },
+      {
+        "key": "bride with veil",
+        "value": "👰"
+      },
+      {
+        "key": "bride with veil type 1 2",
+        "value": "👰🏻"
+      },
+      {
+        "key": "bride with veil type 3",
+        "value": "👰🏼"
+      },
+      {
+        "key": "bride with veil type 4",
+        "value": "👰🏽"
+      },
+      {
+        "key": "bride with veil type 5",
+        "value": "👰🏾"
+      },
+      {
+        "key": "bride with veil type 6",
+        "value": "👰🏿"
+      },
+      {
+        "key": "pedestrian",
+        "value": "🚶"
+      },
+      {
+        "key": "pedestrian type 1 2",
+        "value": "🚶🏻"
+      },
+      {
+        "key": "pedestrian type 3",
+        "value": "🚶🏼"
+      },
+      {
+        "key": "pedestrian type 4",
+        "value": "🚶🏽"
+      },
+      {
+        "key": "pedestrian type 5",
+        "value": "🚶🏾"
+      },
+      {
+        "key": "pedestrian type 6",
+        "value": "🚶🏿"
+      },
+      {
+        "key": "runner",
+        "value": "🏃"
+      },
+      {
+        "key": "runner type 1 2",
+        "value": "🏃🏻"
+      },
+      {
+        "key": "runner type 3",
+        "value": "🏃🏼"
+      },
+      {
+        "key": "runner type 4",
+        "value": "🏃🏽"
+      },
+      {
+        "key": "runner type 5",
+        "value": "🏃🏾"
+      },
+      {
+        "key": "runner type 6",
+        "value": "🏃🏿"
+      },
+      {
+        "key": "dancer",
+        "value": "💃"
+      },
+      {
+        "key": "dancer type 1 2",
+        "value": "💃🏻"
+      },
+      {
+        "key": "dancer type 3",
+        "value": "💃🏼"
+      },
+      {
+        "key": "dancer type 4",
+        "value": "💃🏽"
+      },
+      {
+        "key": "dancer type 5",
+        "value": "💃🏾"
+      },
+      {
+        "key": "dancer type 6",
+        "value": "💃🏿"
+      },
+      {
+        "key": "women with bunny years",
+        "value": "👯"
+      },
+      {
+        "key": "man women holding hands",
+        "value": "👫"
+      },
+      {
+        "key": "two man holding hands",
+        "value": "👬"
+      },
+      {
+        "key": "two women holding hands",
+        "value": "👭"
+      },
+      {
+        "key": "person bowing deeply",
+        "value": "🙇"
+      },
+      {
+        "key": "person bowing deeply type 1 2",
+        "value": "🙇🏻"
+      },
+      {
+        "key": "person bowing deeply type 3",
+        "value": "🙇🏼"
+      },
+      {
+        "key": "person bowing deeply type 4",
+        "value": "🙇🏽"
+      },
+      {
+        "key": "person bowing deeply type 5",
+        "value": "🙇🏾"
+      },
+      {
+        "key": "person bowing deeply type 6",
+        "value": "🙇🏿"
+      },
+      {
+        "key": "information desk person",
+        "value": "💁"
+      },
+      {
+        "key": "information desk person type 1 2",
+        "value": "💁🏻"
+      },
+      {
+        "key": "information desk person type 3",
+        "value": "💁🏼"
+      },
+      {
+        "key": "information desk person type 4",
+        "value": "💁🏽"
+      },
+      {
+        "key": "information desk person type 5",
+        "value": "💁🏾"
+      },
+      {
+        "key": "information desk person type 6",
+        "value": "💁🏿"
+      },
+      {
+        "key": "face with no good gesture",
+        "value": "🙅"
+      },
+      {
+        "key": "face with no good gesture type 1 2",
+        "value": "🙅🏻"
+      },
+      {
+        "key": "face with no good gesture type 3",
+        "value": "🙅🏼"
+      },
+      {
+        "key": "face with no good gesture type 4",
+        "value": "🙅🏽"
+      },
+      {
+        "key": "face with no good gesture type 5",
+        "value": "🙅🏾"
+      },
+      {
+        "key": "face with no good gesture type 6",
+        "value": "🙅🏿"
+      },
+      {
+        "key": "face with ok gesture",
+        "value": "🙆"
+      },
+      {
+        "key": "face with ok gesture type 1 2",
+        "value": "🙆🏻"
+      },
+      {
+        "key": "face with ok gesture type 3",
+        "value": "🙆🏼"
+      },
+      {
+        "key": "face with ok gesture type 4",
+        "value": "🙆🏽"
+      },
+      {
+        "key": "face with ok gesture type 5",
+        "value": "🙆🏾"
+      },
+      {
+        "key": "face with ok gesture type 6",
+        "value": "🙆🏿"
+      },
+      {
+        "key": "happy person raise one hand",
+        "value": "🙋"
+      },
+      {
+        "key": "happy person raise one hand type 1 2",
+        "value": "🙋🏻"
+      },
+      {
+        "key": "happy person raise one hand type 3",
+        "value": "🙋🏼"
+      },
+      {
+        "key": "happy person raise one hand type 4",
+        "value": "🙋🏽"
+      },
+      {
+        "key": "happy person raise one hand type 5",
+        "value": "🙋🏾"
+      },
+      {
+        "key": "happy person raise one hand type 6",
+        "value": "🙋🏿"
+      },
+      {
+        "key": "person with pouting face",
+        "value": "🙎"
+      },
+      {
+        "key": "person with pouting face type 1 2",
+        "value": "🙎🏻"
+      },
+      {
+        "key": "person with pouting face type 3",
+        "value": "🙎🏼"
+      },
+      {
+        "key": "person with pouting face type 4",
+        "value": "🙎🏽"
+      },
+      {
+        "key": "person with pouting face type 5",
+        "value": "🙎🏾"
+      },
+      {
+        "key": "person with pouting face type 6",
+        "value": "🙎🏿"
+      },
+      {
+        "key": "person frowning",
+        "value": "🙍"
+      },
+      {
+        "key": "person frowning type 1 2",
+        "value": "🙍🏻"
+      },
+      {
+        "key": "person frowning type 3",
+        "value": "🙍🏼"
+      },
+      {
+        "key": "person frowning type 4",
+        "value": "🙍🏽"
+      },
+      {
+        "key": "person frowning type 5",
+        "value": "🙍🏾"
+      },
+      {
+        "key": "person frowning type 6",
+        "value": "🙍🏿"
+      },
+      {
+        "key": "haircut",
+        "value": "💇"
+      },
+      {
+        "key": "haircut type 1 2",
+        "value": "💇🏻"
+      },
+      {
+        "key": "haircut type 3",
+        "value": "💇🏼"
+      },
+      {
+        "key": "haircut type 4",
+        "value": "💇🏽"
+      },
+      {
+        "key": "haircut type 5",
+        "value": "💇🏾"
+      },
+      {
+        "key": "haircut type 6",
+        "value": "💇🏿"
+      },
+      {
+        "key": "face massage",
+        "value": "💆"
+      },
+      {
+        "key": "face massage type 1 2",
+        "value": "💆🏻"
+      },
+      {
+        "key": "face massage type 3",
+        "value": "💆🏻"
+      },
+      {
+        "key": "face massage type 4",
+        "value": "💆🏽"
+      },
+      {
+        "key": "face massage type 5",
+        "value": "💆🏾"
+      },
+      {
+        "key": "face massage type 6",
+        "value": "💆🏿"
+      },
+      {
+        "key": "couple with heart",
+        "value": "💑"
+      },
+      {
+        "key": "couple with heart woman",
+        "value": "👩‍❤️‍👩"
+      },
+      {
+        "key": "couple with heart man",
+        "value": "👨‍❤️‍👨"
+      },
+      {
+        "key": "kiss",
+        "value": "💏"
+      },
+      {
+        "key": "kiss woman",
+        "value": "👩‍❤️‍💋‍👩"
+      },
+      {
+        "key": "kiss man",
+        "value": "👨‍❤️‍💋‍👨"
+      },
+      {
+        "key": "family",
+        "value": "👪"
+      },
+      {
+        "key": "family man women girl",
+        "value": "👨‍👩‍👧"
+      },
+      {
+        "key": "family man women girl boy",
+        "value": "👨‍👩‍👧‍👦"
+      },
+      {
+        "key": "family man women boy boy",
+        "value": "👨‍👩‍👦‍👦"
+      },
+      {
+        "key": "family man women girl girl",
+        "value": "👨‍👩‍👧‍👧"
+      },
+      {
+        "key": "family woman women boy",
+        "value": "👩‍👩‍👦"
+      },
+      {
+        "key": "family woman women girl",
+        "value": "👩‍👩‍👧"
+      },
+      {
+        "key": "family woman women girl boy",
+        "value": "👩‍👩‍👧‍👦"
+      },
+      {
+        "key": "family woman women boy boy",
+        "value": "👩‍👩‍👦‍👦"
+      },
+      {
+        "key": "family woman women girl girl",
+        "value": "👩‍👩‍👧‍👧"
+      },
+      {
+        "key": "family man man boy",
+        "value": "👨‍👨‍👦"
+      },
+      {
+        "key": "family man man girl",
+        "value": "👨‍👨‍👧"
+      },
+      {
+        "key": "family man man girl boy",
+        "value": "👨‍👨‍👧‍👦"
+      },
+      {
+        "key": "family man man boy boy",
+        "value": "👨‍👨‍👦‍👦"
+      },
+      {
+        "key": "family man man girl girl",
+        "value": "👨‍👨‍👧‍👧"
+      },
+      {
+        "key": "woman clothes",
+        "value": "👚"
+      },
+      {
+        "key": "t shirt",
+        "value": "👕"
+      },
+      {
+        "key": "jeans",
+        "value": "👖"
+      },
+      {
+        "key": "necktie",
+        "value": "👔"
+      },
+      {
+        "key": "dress",
+        "value": "👗"
+      },
+      {
+        "key": "bikini",
+        "value": "👙"
+      },
+      {
+        "key": "kimono",
+        "value": "👘"
+      },
+      {
+        "key": "lipstick",
+        "value": "💄"
+      },
+      {
+        "key": "kiss mark",
+        "value": "💋"
+      },
+      {
+        "key": "footprints",
+        "value": "👣"
+      },
+      {
+        "key": "high heeled shoe",
+        "value": "👠"
+      },
+      {
+        "key": "woman sandal",
+        "value": "👡"
+      },
+      {
+        "key": "woman boots",
+        "value": "👢"
+      },
+      {
+        "key": "man shoe",
+        "value": "👞"
+      },
+      {
+        "key": "athletic shoe",
+        "value": "👟"
+      },
+      {
+        "key": "woman hat",
+        "value": "👒"
+      },
+      {
+        "key": "top hat",
+        "value": "🎩"
+      },
+      {
+        "key": "graduation cap",
+        "value": "🎓"
+      },
+      {
+        "key": "crown",
+        "value": "👑"
+      },
+      {
+        "key": "helmet with white cross",
+        "value": "⛑"
+      },
+      {
+        "key": "school satchel",
+        "value": "🎒"
+      },
+      {
+        "key": "pouch",
+        "value": "👝"
+      },
+      {
+        "key": "purse",
+        "value": "👛"
+      },
+      {
+        "key": "handbag",
+        "value": "👜"
+      },
+      {
+        "key": "briefcase",
+        "value": "💼"
+      },
+      {
+        "key": "eye glasses",
+        "value": "👓"
+      },
+      {
+        "key": "dark sun glasses",
+        "value": "🕶"
+      },
+      {
+        "key": "ring",
+        "value": "💍"
+      },
+      {
+        "key": "closed umbrella",
+        "value": "🌂"
+      },
+      {
+        "key": "heavy black heart",
+        "value": "❤"
+      },
+      {
+        "key": "yellow heart",
+        "value": "💛"
+      },
+      {
+        "key": "green heart",
+        "value": "💚"
+      },
+      {
+        "key": "blue heart",
+        "value": "💙"
+      },
+      {
+        "key": "purple heart",
+        "value": "💜"
+      },
+      {
+        "key": "broken heart",
+        "value": "💔"
+      },
+      {
+        "key": "heavy heart exclamation mark ornament",
+        "value": "❣"
+      },
+      {
+        "key": "two hearts",
+        "value": "💕"
+      },
+      {
+        "key": "revolving hearts",
+        "value": "💞"
+      },
+      {
+        "key": "beating heart",
+        "value": "💓"
+      },
+      {
+        "key": "growing heart",
+        "value": "💗"
+      },
+      {
+        "key": "sparkling heart",
+        "value": "💖"
+      },
+      {
+        "key": "heart with arrow",
+        "value": "💘"
+      },
+      {
+        "key": "heart with ribbon",
+        "value": "💝"
+      },
+      {
+        "key": "heart decoration",
+        "value": "💟"
+      },
+      {
+        "key": "peace symbol",
+        "value": "☮"
+      },
+      {
+        "key": "latin cross",
+        "value": "✝"
+      },
+      {
+        "key": "star and crescent",
+        "value": "☪"
+      },
+      {
+        "key": "om symbol",
+        "value": "🕉"
+      },
+      {
+        "key": "wheel of dharma",
+        "value": "☸"
+      },
+      {
+        "key": "star of david",
+        "value": "✡"
+      },
+      {
+        "key": "six pointed star with middle dot",
+        "value": "🔯"
+      },
+      {
+        "key": "menorah with nine branches",
+        "value": "🕎"
+      },
+      {
+        "key": "yin yang",
+        "value": "☯"
+      },
+      {
+        "key": "orthodox cross",
+        "value": "☦"
+      },
+      {
+        "key": "place of worship",
+        "value": "🛐"
+      },
+      {
+        "key": "ophiuchus",
+        "value": "⛎"
+      },
+      {
+        "key": "aries",
+        "value": "♈"
+      },
+      {
+        "key": "taurus",
+        "value": "♉"
+      },
+      {
+        "key": "gemini",
+        "value": "♊"
+      },
+      {
+        "key": "cancer",
+        "value": "♋"
+      },
+      {
+        "key": "leo",
+        "value": "♌"
+      },
+      {
+        "key": "virgo",
+        "value": "♍"
+      },
+      {
+        "key": "libra",
+        "value": "♎"
+      },
+      {
+        "key": "scorpius",
+        "value": "♏"
+      },
+      {
+        "key": "sagittarius",
+        "value": "♐"
+      },
+      {
+        "key": "capricorn",
+        "value": "♑"
+      },
+      {
+        "key": "aquarius",
+        "value": "♒"
+      },
+      {
+        "key": "pisces",
+        "value": "♓"
+      },
+      {
+        "key": "squared id",
+        "value": "🆔"
+      },
+      {
+        "key": "atom symbol",
+        "value": "⚛"
+      },
+      {
+        "key": "squared cjk unified ideograph 7a7a",
+        "value": "🈳"
+      },
+      {
+        "key": "squared cjk unified ideograph 5272",
+        "value": "🈹"
+      },
+      {
+        "key": "radioactive sign",
+        "value": "☢"
+      },
+      {
+        "key": "biohazard sign",
+        "value": "☣"
+      },
+      {
+        "key": "mobile phone off",
+        "value": "📴"
+      },
+      {
+        "key": "vibration mode",
+        "value": "📳"
+      },
+      {
+        "key": "squared cjk unified ideograph 6709",
+        "value": "🈶"
+      },
+      {
+        "key": "squared cjk unified ideograph 7121",
+        "value": "🈚"
+      },
+      {
+        "key": "squared cjk unified ideograph 7533",
+        "value": "🈸"
+      },
+      {
+        "key": "squared cjk unified ideograph 55b6",
+        "value": "🈺"
+      },
+      {
+        "key": "squared cjk unified ideograph 6708",
+        "value": "🈷"
+      },
+      {
+        "key": "eight pointed black star",
+        "value": "✴"
+      },
+      {
+        "key": "squared vs",
+        "value": "🆚"
+      },
+      {
+        "key": "circled ideograph accept",
+        "value": "🉑"
+      },
+      {
+        "key": "white flower",
+        "value": "💮"
+      },
+      {
+        "key": "circled ideograph advantage",
+        "value": "🉐"
+      },
+      {
+        "key": "circled ideograph secret",
+        "value": "㊙"
+      },
+      {
+        "key": "circled ideograph congratulation",
+        "value": "㊗"
+      },
+      {
+        "key": "squared cjk unified ideograph 5408",
+        "value": "🈴"
+      },
+      {
+        "key": "squared cjk unified ideograph 6e80",
+        "value": "🈵"
+      },
+      {
+        "key": "squared cjk unified ideograph 7981",
+        "value": "🈲"
+      },
+      {
+        "key": "negative squared latin capital letter a",
+        "value": "🅰"
+      },
+      {
+        "key": "negative squared latin capital letter b",
+        "value": "🅱"
+      },
+      {
+        "key": "negative squared ab",
+        "value": "🆎"
+      },
+      {
+        "key": "squared cl",
+        "value": "🆑"
+      },
+      {
+        "key": "negative squared latin capital letter o",
+        "value": "🅾"
+      },
+      {
+        "key": "squared sos",
+        "value": "🆘"
+      },
+      {
+        "key": "no entry",
+        "value": "⛔"
+      },
+      {
+        "key": "name badge",
+        "value": "📛"
+      },
+      {
+        "key": "no entry sign",
+        "value": "🚫"
+      },
+      {
+        "key": "cross mark",
+        "value": "❌"
+      },
+      {
+        "key": "heavy large circle",
+        "value": "⭕"
+      },
+      {
+        "key": "anger symbol",
+        "value": "💢"
+      },
+      {
+        "key": "hot springs",
+        "value": "♨"
+      },
+      {
+        "key": "no pedestrians",
+        "value": "🚷"
+      },
+      {
+        "key": "do not litter symbol",
+        "value": "🚯"
+      },
+      {
+        "key": "no bi cycles",
+        "value": "🚳"
+      },
+      {
+        "key": "non potable water symbol",
+        "value": "🚱"
+      },
+      {
+        "key": "no one under eighteen symbol",
+        "value": "🔞"
+      },
+      {
+        "key": "no mobile phones",
+        "value": "📵"
+      },
+      {
+        "key": "heavy exclamation mark symbol",
+        "value": "❗"
+      },
+      {
+        "key": "white exclamation mark ornament",
+        "value": "❕"
+      },
+      {
+        "key": "black question mark ornament",
+        "value": "❓"
+      },
+      {
+        "key": "white question mark ornament",
+        "value": "❔"
+      },
+      {
+        "key": "double exclamation mark",
+        "value": "‼"
+      },
+      {
+        "key": "exclamation question mark",
+        "value": "⁉"
+      },
+      {
+        "key": "hundred points symbol",
+        "value": "💯"
+      },
+      {
+        "key": "low brightness symbol",
+        "value": "🔅"
+      },
+      {
+        "key": "high brightness symbol",
+        "value": "🔆"
+      },
+      {
+        "key": "trident emblem",
+        "value": "🔱"
+      },
+      {
+        "key": "fleur de lis",
+        "value": "⚜"
+      },
+      {
+        "key": "part alternation mark",
+        "value": "〽"
+      },
+      {
+        "key": "warning sign",
+        "value": "⚠"
+      },
+      {
+        "key": "children crossing",
+        "value": "🚸"
+      },
+      {
+        "key": "japanese symbol for beginner",
+        "value": "🔰"
+      },
+      {
+        "key": "black universal recycling symbol",
+        "value": "♻"
+      },
+      {
+        "key": "squared cjk unified ideograph 6307",
+        "value": "🈯"
+      },
+      {
+        "key": "chart with upwards trend and yen sign",
+        "value": "💹"
+      },
+      {
+        "key": "sparkle",
+        "value": "❇"
+      },
+      {
+        "key": "eight spoked asterisk",
+        "value": "✳"
+      },
+      {
+        "key": "negative squared crossmark",
+        "value": "❎"
+      },
+      {
+        "key": "white heavy checkmark",
+        "value": "✅"
+      },
+      {
+        "key": "diamond shape with a dot inside",
+        "value": "💠"
+      },
+      {
+        "key": "cyclone",
+        "value": "🌀"
+      },
+      {
+        "key": "double curly loop",
+        "value": "➿"
+      },
+      {
+        "key": "globe with meridians",
+        "value": "🌐"
+      },
+      {
+        "key": "circled latin capital letter m",
+        "value": "ⓜ"
+      },
+      {
+        "key": "automated teller machine",
+        "value": "🏧"
+      },
+      {
+        "key": "squared katakanasa",
+        "value": "🈂"
+      },
+      {
+        "key": "passport control",
+        "value": "🛂"
+      },
+      {
+        "key": "customs",
+        "value": "🛃"
+      },
+      {
+        "key": "baggage claim",
+        "value": "🛄"
+      },
+      {
+        "key": "left luggage",
+        "value": "🛅"
+      },
+      {
+        "key": "wheel chair symbol",
+        "value": "♿"
+      },
+      {
+        "key": "no smoking symbol",
+        "value": "🚭"
+      },
+      {
+        "key": "water closet",
+        "value": "🚾"
+      },
+      {
+        "key": "negative squared letter p",
+        "value": "🅿"
+      },
+      {
+        "key": "potable water symbol",
+        "value": "🚰"
+      },
+      {
+        "key": "mens symbol",
+        "value": "🚹"
+      },
+      {
+        "key": "womens symbol",
+        "value": "🚺"
+      },
+      {
+        "key": "baby symbol",
+        "value": "🚼"
+      },
+      {
+        "key": "restroom",
+        "value": "🚻"
+      },
+      {
+        "key": "put litter in its place",
+        "value": "🚮"
+      },
+      {
+        "key": "cinema",
+        "value": "🎦"
+      },
+      {
+        "key": "antenna with bars",
+        "value": "📶"
+      },
+      {
+        "key": "squared katakana koko",
+        "value": "🈁"
+      },
+      {
+        "key": "squared ng",
+        "value": "🆖"
+      },
+      {
+        "key": "squared ok",
+        "value": "🆗"
+      },
+      {
+        "key": "squared exclamation mark",
+        "value": "🆙"
+      },
+      {
+        "key": "squared cool",
+        "value": "🆒"
+      },
+      {
+        "key": "squared new",
+        "value": "🆕"
+      },
+      {
+        "key": "squared free",
+        "value": "🆓"
+      },
+      {
+        "key": "keycap digit zero",
+        "value": "0⃣"
+      },
+      {
+        "key": "keycap digit one",
+        "value": "1⃣"
+      },
+      {
+        "key": "keycap digit two",
+        "value": "2⃣"
+      },
+      {
+        "key": "keycap digit three",
+        "value": "3⃣"
+      },
+      {
+        "key": "keycap digit four",
+        "value": "4⃣"
+      },
+      {
+        "key": "keycap digit five",
+        "value": "5⃣"
+      },
+      {
+        "key": "keycap digit six",
+        "value": "6⃣"
+      },
+      {
+        "key": "keycap digit seven",
+        "value": "7⃣"
+      },
+      {
+        "key": "keycap digit eight",
+        "value": "8⃣"
+      },
+      {
+        "key": "keycap digit nine",
+        "value": "9⃣"
+      },
+      {
+        "key": "keycap ten",
+        "value": "🔟"
+      },
+      {
+        "key": "input symbol for numbers",
+        "value": "🔢"
+      },
+      {
+        "key": "black right pointing triangle",
+        "value": "▶"
+      },
+      {
+        "key": "double vertical bar",
+        "value": "⏸"
+      },
+      {
+        "key": "blk rgt point triangle dbl vertical bar",
+        "value": "⏯"
+      },
+      {
+        "key": "black square for stop",
+        "value": "⏹"
+      },
+      {
+        "key": "black circle for record",
+        "value": "⏺"
+      },
+      {
+        "key": "blk rgt point dbl triangle vertical bar",
+        "value": "⏭"
+      },
+      {
+        "key": "blk lft point dbl triangle vertical bar",
+        "value": "⏮"
+      },
+      {
+        "key": "blk rgt point dbl triangle",
+        "value": "⏩"
+      },
+      {
+        "key": "blk lft point dbl triangle",
+        "value": "⏪"
+      },
+      {
+        "key": "twisted rightwards arrows",
+        "value": "🔀"
+      },
+      {
+        "key": "cwise rgt lft open circle arrow",
+        "value": "🔁"
+      },
+      {
+        "key": "cwise rgt lft open circle arrow overlay",
+        "value": "🔂"
+      },
+      {
+        "key": "blk lft point triangle",
+        "value": "◀"
+      },
+      {
+        "key": "up point small red triangle",
+        "value": "🔼"
+      },
+      {
+        "key": "down point small red triangle",
+        "value": "🔽"
+      },
+      {
+        "key": "blk up point double triangle",
+        "value": "⏫"
+      },
+      {
+        "key": "blk down point double triangle",
+        "value": "⏬"
+      },
+      {
+        "key": "black rightwards arrow",
+        "value": "➡"
+      },
+      {
+        "key": "leftwards black arrow",
+        "value": "⬅"
+      },
+      {
+        "key": "upwards black arrow",
+        "value": "⬆"
+      },
+      {
+        "key": "downwards black arrow",
+        "value": "⬇"
+      },
+      {
+        "key": "northeast arrow",
+        "value": "↗"
+      },
+      {
+        "key": "southeast arrow",
+        "value": "↘"
+      },
+      {
+        "key": "south west arrow",
+        "value": "↙"
+      },
+      {
+        "key": "north west arrow",
+        "value": "↖"
+      },
+      {
+        "key": "up down arrow",
+        "value": "↕"
+      },
+      {
+        "key": "left right arrow",
+        "value": "↔"
+      },
+      {
+        "key": "acwise down up open circle arrow",
+        "value": "🔄"
+      },
+      {
+        "key": "rightwards arrow with hook",
+        "value": "↪"
+      },
+      {
+        "key": "leftwards arrow with hook",
+        "value": "↩"
+      },
+      {
+        "key": "arrow point rgt then curving up",
+        "value": "⤴"
+      },
+      {
+        "key": "arrow point rgt then curving down",
+        "value": "⤵"
+      },
+      {
+        "key": "keycap number sign",
+        "value": "#⃣"
+      },
+      {
+        "key": "keycap asterisk",
+        "value": "*⃣"
+      },
+      {
+        "key": "information source",
+        "value": "ℹ"
+      },
+      {
+        "key": "input symbol for latin letters",
+        "value": "🔤"
+      },
+      {
+        "key": "input symbol latin small letters",
+        "value": "🔡"
+      },
+      {
+        "key": "input symbol latin capital letters",
+        "value": "🔠"
+      },
+      {
+        "key": "input symbol symbols",
+        "value": "🔣"
+      },
+      {
+        "key": "musical note",
+        "value": "🎵"
+      },
+      {
+        "key": "multiple musical notes",
+        "value": "🎶"
+      },
+      {
+        "key": "wavy dash",
+        "value": "〰"
+      },
+      {
+        "key": "curly loop",
+        "value": "➰"
+      },
+      {
+        "key": "heavy check mark",
+        "value": "✔"
+      },
+      {
+        "key": "cwise down up open circle arrows",
+        "value": "🔃"
+      },
+      {
+        "key": "heavy plus sign",
+        "value": "➕"
+      },
+      {
+        "key": "heavy minus sign",
+        "value": "➖"
+      },
+      {
+        "key": "heavy division sign",
+        "value": "➗"
+      },
+      {
+        "key": "heavy multiplication x",
+        "value": "✖"
+      },
+      {
+        "key": "heavy dollar sign",
+        "value": "💲"
+      },
+      {
+        "key": "currency exchange",
+        "value": "💱"
+      },
+      {
+        "key": "copyright sign",
+        "value": "©"
+      },
+      {
+        "key": "registered sign",
+        "value": "®"
+      },
+      {
+        "key": "trademark sign",
+        "value": "™"
+      },
+      {
+        "key": "end with lft arrow above",
+        "value": "🔚"
+      },
+      {
+        "key": "back with lft arrow above",
+        "value": "🔙"
+      },
+      {
+        "key": "on exclamation lft rgt arrow",
+        "value": "🔛"
+      },
+      {
+        "key": "top with up arrow above",
+        "value": "🔝"
+      },
+      {
+        "key": "soon right arrow above",
+        "value": "🔜"
+      },
+      {
+        "key": "ballot box with check",
+        "value": "☑"
+      },
+      {
+        "key": "radio button",
+        "value": "🔘"
+      },
+      {
+        "key": "medium white circle",
+        "value": "⚪"
+      },
+      {
+        "key": "medium black circle",
+        "value": "⚫"
+      },
+      {
+        "key": "large red circle",
+        "value": "🔴"
+      },
+      {
+        "key": "large blue circle",
+        "value": "🔵"
+      },
+      {
+        "key": "small orange diamond",
+        "value": "🔸"
+      },
+      {
+        "key": "small blue diamond",
+        "value": "🔹"
+      },
+      {
+        "key": "large orange diamond",
+        "value": "🔶"
+      },
+      {
+        "key": "large blue diamond",
+        "value": "🔷"
+      },
+      {
+        "key": "up point red triangle",
+        "value": "🔺"
+      },
+      {
+        "key": "black small square",
+        "value": "▪"
+      },
+      {
+        "key": "white small square",
+        "value": "▫"
+      },
+      {
+        "key": "black large square",
+        "value": "⬛"
+      },
+      {
+        "key": "white large square",
+        "value": "⬜"
+      },
+      {
+        "key": "down point red triangle",
+        "value": "🔻"
+      },
+      {
+        "key": "black medium square",
+        "value": "◼"
+      },
+      {
+        "key": "white medium square",
+        "value": "◻"
+      },
+      {
+        "key": "black medium small square",
+        "value": "◾"
+      },
+      {
+        "key": "white medium small square",
+        "value": "◽"
+      },
+      {
+        "key": "black square button",
+        "value": "🔲"
+      },
+      {
+        "key": "white square button",
+        "value": "🔳"
+      },
+      {
+        "key": "speaker",
+        "value": "🔈"
+      },
+      {
+        "key": "speaker one sound wave",
+        "value": "🔉"
+      },
+      {
+        "key": "speaker three sound waves",
+        "value": "🔊"
+      },
+      {
+        "key": "speaker cancellation stroke",
+        "value": "🔇"
+      },
+      {
+        "key": "cheering megaphone",
+        "value": "📣"
+      },
+      {
+        "key": "public address loudspeaker",
+        "value": "📢"
+      },
+      {
+        "key": "bell",
+        "value": "🔔"
+      },
+      {
+        "key": "bell with cancellation stroke",
+        "value": "🔕"
+      },
+      {
+        "key": "playing card black joker",
+        "value": "🃏"
+      },
+      {
+        "key": "mahjong tile red dragon",
+        "value": "🀄"
+      },
+      {
+        "key": "black spade suit",
+        "value": "♠"
+      },
+      {
+        "key": "black club suit",
+        "value": "♣"
+      },
+      {
+        "key": "black heart suit",
+        "value": "♥"
+      },
+      {
+        "key": "black diamond suit",
+        "value": "♦"
+      },
+      {
+        "key": "flower playing cards",
+        "value": "🎴"
+      },
+      {
+        "key": "eye in speech bubble",
+        "value": "👁‍🗨"
+      },
+      {
+        "key": "thought balloon",
+        "value": "💭"
+      },
+      {
+        "key": "right anger bubble",
+        "value": "🗯"
+      },
+      {
+        "key": "speech balloon",
+        "value": "💬"
+      },
+      {
+        "key": "clock face one o clock",
+        "value": "🕐"
+      },
+      {
+        "key": "clock face two o clock",
+        "value": "🕑"
+      },
+      {
+        "key": "clock face three o clock",
+        "value": "🕒"
+      },
+      {
+        "key": "clock face four o clock",
+        "value": "🕓"
+      },
+      {
+        "key": "clock face five o clock",
+        "value": "🕔"
+      },
+      {
+        "key": "clock face six o clock",
+        "value": "🕕"
+      },
+      {
+        "key": "clock face seven o clock",
+        "value": "🕖"
+      },
+      {
+        "key": "clock face eight o clock",
+        "value": "🕗"
+      },
+      {
+        "key": "clock face nine o clock",
+        "value": "🕘"
+      },
+      {
+        "key": "clock face ten o clock",
+        "value": "🕙"
+      },
+      {
+        "key": "clock face eleven o clock",
+        "value": "🕚"
+      },
+      {
+        "key": "clock face twelve o clock",
+        "value": "🕛"
+      },
+      {
+        "key": "clock face one thirty",
+        "value": "🕜"
+      },
+      {
+        "key": "clock face two thirty",
+        "value": "🕝"
+      },
+      {
+        "key": "clock face three thirty",
+        "value": "🕞"
+      },
+      {
+        "key": "clock face four thirty",
+        "value": "🕟"
+      },
+      {
+        "key": "clock face five thirty",
+        "value": "🕠"
+      },
+      {
+        "key": "clock face six thirty",
+        "value": "🕡"
+      },
+      {
+        "key": "clock face seven thirty",
+        "value": "🕢"
+      },
+      {
+        "key": "clock face eight thirty",
+        "value": "🕣"
+      },
+      {
+        "key": "clock face nine thirty",
+        "value": "🕤"
+      },
+      {
+        "key": "clock face ten thirty",
+        "value": "🕥"
+      },
+      {
+        "key": "clock face eleven thirty",
+        "value": "🕦"
+      },
+      {
+        "key": "clock face twelve thirty",
+        "value": "🕧"
+      },
+      {
+        "key": "automobile",
+        "value": "🚗"
+      },
+      {
+        "key": "taxi",
+        "value": "🚕"
+      },
+      {
+        "key": "recreational vehicle",
+        "value": "🚙"
+      },
+      {
+        "key": "bus",
+        "value": "🚌"
+      },
+      {
+        "key": "trolley bus",
+        "value": "🚎"
+      },
+      {
+        "key": "racing car",
+        "value": "🏎"
+      },
+      {
+        "key": "police car",
+        "value": "🚓"
+      },
+      {
+        "key": "ambulance",
+        "value": "🚑"
+      },
+      {
+        "key": "fire engine",
+        "value": "🚒"
+      },
+      {
+        "key": "minibus",
+        "value": "🚐"
+      },
+      {
+        "key": "delivery truck",
+        "value": "🚚"
+      },
+      {
+        "key": "articulated lorry",
+        "value": "🚛"
+      },
+      {
+        "key": "tractor",
+        "value": "🚜"
+      },
+      {
+        "key": "racing motorcycle",
+        "value": "🏍"
+      },
+      {
+        "key": "bicycle",
+        "value": "🚲"
+      },
+      {
+        "key": "police light",
+        "value": "🚨"
+      },
+      {
+        "key": "on coming police car",
+        "value": "🚔"
+      },
+      {
+        "key": "on coming bus",
+        "value": "🚍"
+      },
+      {
+        "key": "on coming automobile",
+        "value": "🚘"
+      },
+      {
+        "key": "on coming taxi",
+        "value": "🚖"
+      },
+      {
+        "key": "aerial tramway",
+        "value": "🚡"
+      },
+      {
+        "key": "mountain cableway",
+        "value": "🚠"
+      },
+      {
+        "key": "suspension railway",
+        "value": "🚟"
+      },
+      {
+        "key": "railway car",
+        "value": "🚃"
+      },
+      {
+        "key": "tramcar",
+        "value": "🚋"
+      },
+      {
+        "key": "monorail",
+        "value": "🚝"
+      },
+      {
+        "key": "high speed train",
+        "value": "🚄"
+      },
+      {
+        "key": "high speed train bullet nose",
+        "value": "🚅"
+      },
+      {
+        "key": "light rail",
+        "value": "🚈"
+      },
+      {
+        "key": "mountain railway",
+        "value": "🚞"
+      },
+      {
+        "key": "steam locomotive",
+        "value": "🚂"
+      },
+      {
+        "key": "train",
+        "value": "🚆"
+      },
+      {
+        "key": "metro",
+        "value": "🚇"
+      },
+      {
+        "key": "tram",
+        "value": "🚊"
+      },
+      {
+        "key": "station",
+        "value": "🚉"
+      },
+      {
+        "key": "helicopter",
+        "value": "🚁"
+      },
+      {
+        "key": "small airplane",
+        "value": "🛩"
+      },
+      {
+        "key": "airplane",
+        "value": "✈"
+      },
+      {
+        "key": "airplane departure",
+        "value": "🛫"
+      },
+      {
+        "key": "airplane arriving",
+        "value": "🛬"
+      },
+      {
+        "key": "sailbot",
+        "value": "⛵"
+      },
+      {
+        "key": "motorboat",
+        "value": "🛥"
+      },
+      {
+        "key": "speedboat",
+        "value": "🚤"
+      },
+      {
+        "key": "ferry",
+        "value": "⛴"
+      },
+      {
+        "key": "passenger ship",
+        "value": "🛳"
+      },
+      {
+        "key": "rocket",
+        "value": "🚀"
+      },
+      {
+        "key": "satellite",
+        "value": "🛰"
+      },
+      {
+        "key": "seat",
+        "value": "💺"
+      },
+      {
+        "key": "anchor",
+        "value": "⚓"
+      },
+      {
+        "key": "construction sign",
+        "value": "🚧"
+      },
+      {
+        "key": "fuel pump",
+        "value": "⛽"
+      },
+      {
+        "key": "bus stop",
+        "value": "🚏"
+      },
+      {
+        "key": "vertical traffic light",
+        "value": "🚦"
+      },
+      {
+        "key": "horizontal traffic light",
+        "value": "🚥"
+      },
+      {
+        "key": "chequered flag",
+        "value": "🏁"
+      },
+      {
+        "key": "ship",
+        "value": "🚢"
+      },
+      {
+        "key": "ferris wheel",
+        "value": "🎡"
+      },
+      {
+        "key": "roller coaster",
+        "value": "🎢"
+      },
+      {
+        "key": "carousel horse",
+        "value": "🎠"
+      },
+      {
+        "key": "building construction",
+        "value": "🏗"
+      },
+      {
+        "key": "foggy",
+        "value": "🌁"
+      },
+      {
+        "key": "tokyo tower",
+        "value": "🗼"
+      },
+      {
+        "key": "factory",
+        "value": "🏭"
+      },
+      {
+        "key": "fountain",
+        "value": "⛲"
+      },
+      {
+        "key": "moon viewing ceremony",
+        "value": "🎑"
+      },
+      {
+        "key": "mountain",
+        "value": "⛰"
+      },
+      {
+        "key": "snow capped mountain",
+        "value": "🏔"
+      },
+      {
+        "key": "mount fuji",
+        "value": "🗻"
+      },
+      {
+        "key": "volcano",
+        "value": "🌋"
+      },
+      {
+        "key": "silhouette of japan",
+        "value": "🗾"
+      },
+      {
+        "key": "camping",
+        "value": "🏕"
+      },
+      {
+        "key": "tent",
+        "value": "⛺"
+      },
+      {
+        "key": "national park",
+        "value": "🏞"
+      },
+      {
+        "key": "motorway",
+        "value": "🛣"
+      },
+      {
+        "key": "railway track",
+        "value": "🛤"
+      },
+      {
+        "key": "sunrise",
+        "value": "🌅"
+      },
+      {
+        "key": "sunrise over mountain",
+        "value": "🌄"
+      },
+      {
+        "key": "desert",
+        "value": "🏜"
+      },
+      {
+        "key": "beach with umbrella",
+        "value": "🏖"
+      },
+      {
+        "key": "desert island",
+        "value": "🏝"
+      },
+      {
+        "key": "sunset over buildings",
+        "value": "🌇"
+      },
+      {
+        "key": "city scape at dusk",
+        "value": "🌆"
+      },
+      {
+        "key": "city scape",
+        "value": "🏙"
+      },
+      {
+        "key": "night with stars",
+        "value": "🌃"
+      },
+      {
+        "key": "bridge at night",
+        "value": "🌉"
+      },
+      {
+        "key": "milky way",
+        "value": "🌌"
+      },
+      {
+        "key": "shooting star",
+        "value": "🌠"
+      },
+      {
+        "key": "fire work sparkler",
+        "value": "🎇"
+      },
+      {
+        "key": "fireworks",
+        "value": "🎆"
+      },
+      {
+        "key": "rainbow",
+        "value": "🌈"
+      },
+      {
+        "key": "house buildings",
+        "value": "🏘"
+      },
+      {
+        "key": "european castle",
+        "value": "🏰"
+      },
+      {
+        "key": "japanese castle",
+        "value": "🏯"
+      },
+      {
+        "key": "stadium",
+        "value": "🏟"
+      },
+      {
+        "key": "statue of liberty",
+        "value": "🗽"
+      },
+      {
+        "key": "house building",
+        "value": "🏠"
+      },
+      {
+        "key": "house with garden",
+        "value": "🏡"
+      },
+      {
+        "key": "derelict house building",
+        "value": "🏚"
+      },
+      {
+        "key": "office building",
+        "value": "🏢"
+      },
+      {
+        "key": "department store",
+        "value": "🏬"
+      },
+      {
+        "key": "japanese post office",
+        "value": "🏣"
+      },
+      {
+        "key": "european post office",
+        "value": "🏤"
+      },
+      {
+        "key": "hospital",
+        "value": "🏥"
+      },
+      {
+        "key": "bank",
+        "value": "🏦"
+      },
+      {
+        "key": "hotel",
+        "value": "🏨"
+      },
+      {
+        "key": "convenience store",
+        "value": "🏪"
+      },
+      {
+        "key": "school",
+        "value": "🏫"
+      },
+      {
+        "key": "love hotel",
+        "value": "🏩"
+      },
+      {
+        "key": "wedding",
+        "value": "💒"
+      },
+      {
+        "key": "classical building",
+        "value": "🏛"
+      },
+      {
+        "key": "church",
+        "value": "⛪"
+      },
+      {
+        "key": "mosque",
+        "value": "🕌"
+      },
+      {
+        "key": "synagogue",
+        "value": "🕍"
+      },
+      {
+        "key": "kaaba",
+        "value": "🕋"
+      },
+      {
+        "key": "shinto shrine",
+        "value": "⛩"
+      }
+    ]
+}

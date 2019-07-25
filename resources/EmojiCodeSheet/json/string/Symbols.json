@@ -1,0 +1,1082 @@
+{
+  "symbols": {
+    "symbol": [
+      {
+        "key": "heavy black heart",
+        "value": "❤"
+      },
+      {
+        "key": "yellow heart",
+        "value": "💛"
+      },
+      {
+        "key": "green heart",
+        "value": "💚"
+      },
+      {
+        "key": "blue heart",
+        "value": "💙"
+      },
+      {
+        "key": "purple heart",
+        "value": "💜"
+      },
+      {
+        "key": "broken heart",
+        "value": "💔"
+      },
+      {
+        "key": "heavy heart exclamation mark ornament",
+        "value": "❣"
+      },
+      {
+        "key": "two hearts",
+        "value": "💕"
+      },
+      {
+        "key": "revolving hearts",
+        "value": "💞"
+      },
+      {
+        "key": "beating heart",
+        "value": "💓"
+      },
+      {
+        "key": "growing heart",
+        "value": "💗"
+      },
+      {
+        "key": "sparkling heart",
+        "value": "💖"
+      },
+      {
+        "key": "heart with arrow",
+        "value": "💘"
+      },
+      {
+        "key": "heart with ribbon",
+        "value": "💝"
+      },
+      {
+        "key": "heart decoration",
+        "value": "💟"
+      },
+      {
+        "key": "peace symbol",
+        "value": "☮"
+      },
+      {
+        "key": "latin cross",
+        "value": "✝"
+      },
+      {
+        "key": "star and crescent",
+        "value": "☪"
+      },
+      {
+        "key": "om symbol",
+        "value": "🕉"
+      },
+      {
+        "key": "wheel of dharma",
+        "value": "☸"
+      },
+      {
+        "key": "star of david",
+        "value": "✡"
+      },
+      {
+        "key": "six pointed star with middle dot",
+        "value": "🔯"
+      },
+      {
+        "key": "menorah with nine branches",
+        "value": "🕎"
+      },
+      {
+        "key": "yin yang",
+        "value": "☯"
+      },
+      {
+        "key": "orthodox cross",
+        "value": "☦"
+      },
+      {
+        "key": "place of worship",
+        "value": "🛐"
+      },
+      {
+        "key": "ophiuchus",
+        "value": "⛎"
+      },
+      {
+        "key": "aries",
+        "value": "♈"
+      },
+      {
+        "key": "taurus",
+        "value": "♉"
+      },
+      {
+        "key": "gemini",
+        "value": "♊"
+      },
+      {
+        "key": "cancer",
+        "value": "♋"
+      },
+      {
+        "key": "leo",
+        "value": "♌"
+      },
+      {
+        "key": "virgo",
+        "value": "♍"
+      },
+      {
+        "key": "libra",
+        "value": "♎"
+      },
+      {
+        "key": "scorpius",
+        "value": "♏"
+      },
+      {
+        "key": "sagittarius",
+        "value": "♐"
+      },
+      {
+        "key": "capricorn",
+        "value": "♑"
+      },
+      {
+        "key": "aquarius",
+        "value": "♒"
+      },
+      {
+        "key": "pisces",
+        "value": "♓"
+      },
+      {
+        "key": "squared id",
+        "value": "🆔"
+      },
+      {
+        "key": "atom symbol",
+        "value": "⚛"
+      },
+      {
+        "key": "squared cjk unified ideograph 7a7a",
+        "value": "🈳"
+      },
+      {
+        "key": "squared cjk unified ideograph 5272",
+        "value": "🈹"
+      },
+      {
+        "key": "radioactive sign",
+        "value": "☢"
+      },
+      {
+        "key": "biohazard sign",
+        "value": "☣"
+      },
+      {
+        "key": "mobile phone off",
+        "value": "📴"
+      },
+      {
+        "key": "vibration mode",
+        "value": "📳"
+      },
+      {
+        "key": "squared cjk unified ideograph 6709",
+        "value": "🈶"
+      },
+      {
+        "key": "squared cjk unified ideograph 7121",
+        "value": "🈚"
+      },
+      {
+        "key": "squared cjk unified ideograph 7533",
+        "value": "🈸"
+      },
+      {
+        "key": "squared cjk unified ideograph 55b6",
+        "value": "🈺"
+      },
+      {
+        "key": "squared cjk unified ideograph 6708",
+        "value": "🈷"
+      },
+      {
+        "key": "eight pointed black star",
+        "value": "✴"
+      },
+      {
+        "key": "squared vs",
+        "value": "🆚"
+      },
+      {
+        "key": "circled ideograph accept",
+        "value": "🉑"
+      },
+      {
+        "key": "white flower",
+        "value": "💮"
+      },
+      {
+        "key": "circled ideograph advantage",
+        "value": "🉐"
+      },
+      {
+        "key": "circled ideograph secret",
+        "value": "㊙"
+      },
+      {
+        "key": "circled ideograph congratulation",
+        "value": "㊗"
+      },
+      {
+        "key": "squared cjk unified ideograph 5408",
+        "value": "🈴"
+      },
+      {
+        "key": "squared cjk unified ideograph 6e80",
+        "value": "🈵"
+      },
+      {
+        "key": "squared cjk unified ideograph 7981",
+        "value": "🈲"
+      },
+      {
+        "key": "negative squared latin capital letter a",
+        "value": "🅰"
+      },
+      {
+        "key": "negative squared latin capital letter b",
+        "value": "🅱"
+      },
+      {
+        "key": "negative squared ab",
+        "value": "🆎"
+      },
+      {
+        "key": "squared cl",
+        "value": "🆑"
+      },
+      {
+        "key": "negative squared latin capital letter o",
+        "value": "🅾"
+      },
+      {
+        "key": "squared sos",
+        "value": "🆘"
+      },
+      {
+        "key": "no entry",
+        "value": "⛔"
+      },
+      {
+        "key": "name badge",
+        "value": "📛"
+      },
+      {
+        "key": "no entry sign",
+        "value": "🚫"
+      },
+      {
+        "key": "cross mark",
+        "value": "❌"
+      },
+      {
+        "key": "heavy large circle",
+        "value": "⭕"
+      },
+      {
+        "key": "anger symbol",
+        "value": "💢"
+      },
+      {
+        "key": "hot springs",
+        "value": "♨"
+      },
+      {
+        "key": "no pedestrians",
+        "value": "🚷"
+      },
+      {
+        "key": "do not litter symbol",
+        "value": "🚯"
+      },
+      {
+        "key": "no bi cycles",
+        "value": "🚳"
+      },
+      {
+        "key": "non potable water symbol",
+        "value": "🚱"
+      },
+      {
+        "key": "no one under eighteen symbol",
+        "value": "🔞"
+      },
+      {
+        "key": "no mobile phones",
+        "value": "📵"
+      },
+      {
+        "key": "heavy exclamation mark symbol",
+        "value": "❗"
+      },
+      {
+        "key": "white exclamation mark ornament",
+        "value": "❕"
+      },
+      {
+        "key": "black question mark ornament",
+        "value": "❓"
+      },
+      {
+        "key": "white question mark ornament",
+        "value": "❔"
+      },
+      {
+        "key": "double exclamation mark",
+        "value": "‼"
+      },
+      {
+        "key": "exclamation question mark",
+        "value": "⁉"
+      },
+      {
+        "key": "hundred points symbol",
+        "value": "💯"
+      },
+      {
+        "key": "low brightness symbol",
+        "value": "🔅"
+      },
+      {
+        "key": "high brightness symbol",
+        "value": "🔆"
+      },
+      {
+        "key": "trident emblem",
+        "value": "🔱"
+      },
+      {
+        "key": "fleur de lis",
+        "value": "⚜"
+      },
+      {
+        "key": "part alternation mark",
+        "value": "〽"
+      },
+      {
+        "key": "warning sign",
+        "value": "⚠"
+      },
+      {
+        "key": "children crossing",
+        "value": "🚸"
+      },
+      {
+        "key": "japanese symbol for beginner",
+        "value": "🔰"
+      },
+      {
+        "key": "black universal recycling symbol",
+        "value": "♻"
+      },
+      {
+        "key": "squared cjk unified ideograph 6307",
+        "value": "🈯"
+      },
+      {
+        "key": "chart with upwards trend and yen sign",
+        "value": "💹"
+      },
+      {
+        "key": "sparkle",
+        "value": "❇"
+      },
+      {
+        "key": "eight spoked asterisk",
+        "value": "✳"
+      },
+      {
+        "key": "negative squared crossmark",
+        "value": "❎"
+      },
+      {
+        "key": "white heavy checkmark",
+        "value": "✅"
+      },
+      {
+        "key": "diamond shape with a dot inside",
+        "value": "💠"
+      },
+      {
+        "key": "cyclone",
+        "value": "🌀"
+      },
+      {
+        "key": "double curly loop",
+        "value": "➿"
+      },
+      {
+        "key": "globe with meridians",
+        "value": "🌐"
+      },
+      {
+        "key": "circled latin capital letter m",
+        "value": "ⓜ"
+      },
+      {
+        "key": "automated teller machine",
+        "value": "🏧"
+      },
+      {
+        "key": "squared katakanasa",
+        "value": "🈂"
+      },
+      {
+        "key": "passport control",
+        "value": "🛂"
+      },
+      {
+        "key": "customs",
+        "value": "🛃"
+      },
+      {
+        "key": "baggage claim",
+        "value": "🛄"
+      },
+      {
+        "key": "left luggage",
+        "value": "🛅"
+      },
+      {
+        "key": "wheel chair symbol",
+        "value": "♿"
+      },
+      {
+        "key": "no smoking symbol",
+        "value": "🚭"
+      },
+      {
+        "key": "water closet",
+        "value": "🚾"
+      },
+      {
+        "key": "negative squared letter p",
+        "value": "🅿"
+      },
+      {
+        "key": "potable water symbol",
+        "value": "🚰"
+      },
+      {
+        "key": "mens symbol",
+        "value": "🚹"
+      },
+      {
+        "key": "womens symbol",
+        "value": "🚺"
+      },
+      {
+        "key": "baby symbol",
+        "value": "🚼"
+      },
+      {
+        "key": "restroom",
+        "value": "🚻"
+      },
+      {
+        "key": "put litter in its place",
+        "value": "🚮"
+      },
+      {
+        "key": "cinema",
+        "value": "🎦"
+      },
+      {
+        "key": "antenna with bars",
+        "value": "📶"
+      },
+      {
+        "key": "squared katakana koko",
+        "value": "🈁"
+      },
+      {
+        "key": "squared ng",
+        "value": "🆖"
+      },
+      {
+        "key": "squared ok",
+        "value": "🆗"
+      },
+      {
+        "key": "squared exclamation mark",
+        "value": "🆙"
+      },
+      {
+        "key": "squared cool",
+        "value": "🆒"
+      },
+      {
+        "key": "squared new",
+        "value": "🆕"
+      },
+      {
+        "key": "squared free",
+        "value": "🆓"
+      },
+      {
+        "key": "keycap digit zero",
+        "value": "0⃣"
+      },
+      {
+        "key": "keycap digit one",
+        "value": "1⃣"
+      },
+      {
+        "key": "keycap digit two",
+        "value": "2⃣"
+      },
+      {
+        "key": "keycap digit three",
+        "value": "3⃣"
+      },
+      {
+        "key": "keycap digit four",
+        "value": "4⃣"
+      },
+      {
+        "key": "keycap digit five",
+        "value": "5⃣"
+      },
+      {
+        "key": "keycap digit six",
+        "value": "6⃣"
+      },
+      {
+        "key": "keycap digit seven",
+        "value": "7⃣"
+      },
+      {
+        "key": "keycap digit eight",
+        "value": "8⃣"
+      },
+      {
+        "key": "keycap digit nine",
+        "value": "9⃣"
+      },
+      {
+        "key": "keycap ten",
+        "value": "🔟"
+      },
+      {
+        "key": "input symbol for numbers",
+        "value": "🔢"
+      },
+      {
+        "key": "black right pointing triangle",
+        "value": "▶"
+      },
+      {
+        "key": "double vertical bar",
+        "value": "⏸"
+      },
+      {
+        "key": "blk rgt point triangle dbl vertical bar",
+        "value": "⏯"
+      },
+      {
+        "key": "black square for stop",
+        "value": "⏹"
+      },
+      {
+        "key": "black circle for record",
+        "value": "⏺"
+      },
+      {
+        "key": "blk rgt point dbl triangle vertical bar",
+        "value": "⏭"
+      },
+      {
+        "key": "blk lft point dbl triangle vertical bar",
+        "value": "⏮"
+      },
+      {
+        "key": "blk rgt point dbl triangle",
+        "value": "⏩"
+      },
+      {
+        "key": "blk lft point dbl triangle",
+        "value": "⏪"
+      },
+      {
+        "key": "twisted rightwards arrows",
+        "value": "🔀"
+      },
+      {
+        "key": "cwise rgt lft open circle arrow",
+        "value": "🔁"
+      },
+      {
+        "key": "cwise rgt lft open circle arrow overlay",
+        "value": "🔂"
+      },
+      {
+        "key": "blk lft point triangle",
+        "value": "◀"
+      },
+      {
+        "key": "up point small red triangle",
+        "value": "🔼"
+      },
+      {
+        "key": "down point small red triangle",
+        "value": "🔽"
+      },
+      {
+        "key": "blk up point double triangle",
+        "value": "⏫"
+      },
+      {
+        "key": "blk down point double triangle",
+        "value": "⏬"
+      },
+      {
+        "key": "black rightwards arrow",
+        "value": "➡"
+      },
+      {
+        "key": "leftwards black arrow",
+        "value": "⬅"
+      },
+      {
+        "key": "upwards black arrow",
+        "value": "⬆"
+      },
+      {
+        "key": "downwards black arrow",
+        "value": "⬇"
+      },
+      {
+        "key": "northeast arrow",
+        "value": "↗"
+      },
+      {
+        "key": "southeast arrow",
+        "value": "↘"
+      },
+      {
+        "key": "south west arrow",
+        "value": "↙"
+      },
+      {
+        "key": "north west arrow",
+        "value": "↖"
+      },
+      {
+        "key": "up down arrow",
+        "value": "↕"
+      },
+      {
+        "key": "left right arrow",
+        "value": "↔"
+      },
+      {
+        "key": "acwise down up open circle arrow",
+        "value": "🔄"
+      },
+      {
+        "key": "rightwards arrow with hook",
+        "value": "↪"
+      },
+      {
+        "key": "leftwards arrow with hook",
+        "value": "↩"
+      },
+      {
+        "key": "arrow point rgt then curving up",
+        "value": "⤴"
+      },
+      {
+        "key": "arrow point rgt then curving down",
+        "value": "⤵"
+      },
+      {
+        "key": "keycap number sign",
+        "value": "#⃣"
+      },
+      {
+        "key": "keycap asterisk",
+        "value": "*⃣"
+      },
+      {
+        "key": "information source",
+        "value": "ℹ"
+      },
+      {
+        "key": "input symbol for latin letters",
+        "value": "🔤"
+      },
+      {
+        "key": "input symbol latin small letters",
+        "value": "🔡"
+      },
+      {
+        "key": "input symbol latin capital letters",
+        "value": "🔠"
+      },
+      {
+        "key": "input symbol symbols",
+        "value": "🔣"
+      },
+      {
+        "key": "musical note",
+        "value": "🎵"
+      },
+      {
+        "key": "multiple musical notes",
+        "value": "🎶"
+      },
+      {
+        "key": "wavy dash",
+        "value": "〰"
+      },
+      {
+        "key": "curly loop",
+        "value": "➰"
+      },
+      {
+        "key": "heavy check mark",
+        "value": "✔"
+      },
+      {
+        "key": "cwise down up open circle arrows",
+        "value": "🔃"
+      },
+      {
+        "key": "heavy plus sign",
+        "value": "➕"
+      },
+      {
+        "key": "heavy minus sign",
+        "value": "➖"
+      },
+      {
+        "key": "heavy division sign",
+        "value": "➗"
+      },
+      {
+        "key": "heavy multiplication x",
+        "value": "✖"
+      },
+      {
+        "key": "heavy dollar sign",
+        "value": "💲"
+      },
+      {
+        "key": "currency exchange",
+        "value": "💱"
+      },
+      {
+        "key": "copyright sign",
+        "value": "©"
+      },
+      {
+        "key": "registered sign",
+        "value": "®"
+      },
+      {
+        "key": "trademark sign",
+        "value": "™"
+      },
+      {
+        "key": "end with lft arrow above",
+        "value": "🔚"
+      },
+      {
+        "key": "back with lft arrow above",
+        "value": "🔙"
+      },
+      {
+        "key": "on exclamation lft rgt arrow",
+        "value": "🔛"
+      },
+      {
+        "key": "top with up arrow above",
+        "value": "🔝"
+      },
+      {
+        "key": "soon right arrow above",
+        "value": "🔜"
+      },
+      {
+        "key": "ballot box with check",
+        "value": "☑"
+      },
+      {
+        "key": "radio button",
+        "value": "🔘"
+      },
+      {
+        "key": "medium white circle",
+        "value": "⚪"
+      },
+      {
+        "key": "medium black circle",
+        "value": "⚫"
+      },
+      {
+        "key": "large red circle",
+        "value": "🔴"
+      },
+      {
+        "key": "large blue circle",
+        "value": "🔵"
+      },
+      {
+        "key": "small orange diamond",
+        "value": "🔸"
+      },
+      {
+        "key": "small blue diamond",
+        "value": "🔹"
+      },
+      {
+        "key": "large orange diamond",
+        "value": "🔶"
+      },
+      {
+        "key": "large blue diamond",
+        "value": "🔷"
+      },
+      {
+        "key": "up point red triangle",
+        "value": "🔺"
+      },
+      {
+        "key": "black small square",
+        "value": "▪"
+      },
+      {
+        "key": "white small square",
+        "value": "▫"
+      },
+      {
+        "key": "black large square",
+        "value": "⬛"
+      },
+      {
+        "key": "white large square",
+        "value": "⬜"
+      },
+      {
+        "key": "down point red triangle",
+        "value": "🔻"
+      },
+      {
+        "key": "black medium square",
+        "value": "◼"
+      },
+      {
+        "key": "white medium square",
+        "value": "◻"
+      },
+      {
+        "key": "black medium small square",
+        "value": "◾"
+      },
+      {
+        "key": "white medium small square",
+        "value": "◽"
+      },
+      {
+        "key": "black square button",
+        "value": "🔲"
+      },
+      {
+        "key": "white square button",
+        "value": "🔳"
+      },
+      {
+        "key": "speaker",
+        "value": "🔈"
+      },
+      {
+        "key": "speaker one sound wave",
+        "value": "🔉"
+      },
+      {
+        "key": "speaker three sound waves",
+        "value": "🔊"
+      },
+      {
+        "key": "speaker cancellation stroke",
+        "value": "🔇"
+      },
+      {
+        "key": "cheering megaphone",
+        "value": "📣"
+      },
+      {
+        "key": "public address loudspeaker",
+        "value": "📢"
+      },
+      {
+        "key": "bell",
+        "value": "🔔"
+      },
+      {
+        "key": "bell with cancellation stroke",
+        "value": "🔕"
+      },
+      {
+        "key": "playing card black joker",
+        "value": "🃏"
+      },
+      {
+        "key": "mahjong tile red dragon",
+        "value": "🀄"
+      },
+      {
+        "key": "black spade suit",
+        "value": "♠"
+      },
+      {
+        "key": "black club suit",
+        "value": "♣"
+      },
+      {
+        "key": "black heart suit",
+        "value": "♥"
+      },
+      {
+        "key": "black diamond suit",
+        "value": "♦"
+      },
+      {
+        "key": "flower playing cards",
+        "value": "🎴"
+      },
+      {
+        "key": "eye in speech bubble",
+        "value": "👁‍🗨"
+      },
+      {
+        "key": "thought balloon",
+        "value": "💭"
+      },
+      {
+        "key": "right anger bubble",
+        "value": "🗯"
+      },
+      {
+        "key": "speech balloon",
+        "value": "💬"
+      },
+      {
+        "key": "clock face one o clock",
+        "value": "🕐"
+      },
+      {
+        "key": "clock face two o clock",
+        "value": "🕑"
+      },
+      {
+        "key": "clock face three o clock",
+        "value": "🕒"
+      },
+      {
+        "key": "clock face four o clock",
+        "value": "🕓"
+      },
+      {
+        "key": "clock face five o clock",
+        "value": "🕔"
+      },
+      {
+        "key": "clock face six o clock",
+        "value": "🕕"
+      },
+      {
+        "key": "clock face seven o clock",
+        "value": "🕖"
+      },
+      {
+        "key": "clock face eight o clock",
+        "value": "🕗"
+      },
+      {
+        "key": "clock face nine o clock",
+        "value": "🕘"
+      },
+      {
+        "key": "clock face ten o clock",
+        "value": "🕙"
+      },
+      {
+        "key": "clock face eleven o clock",
+        "value": "🕚"
+      },
+      {
+        "key": "clock face twelve o clock",
+        "value": "🕛"
+      },
+      {
+        "key": "clock face one thirty",
+        "value": "🕜"
+      },
+      {
+        "key": "clock face two thirty",
+        "value": "🕝"
+      },
+      {
+        "key": "clock face three thirty",
+        "value": "🕞"
+      },
+      {
+        "key": "clock face four thirty",
+        "value": "🕟"
+      },
+      {
+        "key": "clock face five thirty",
+        "value": "🕠"
+      },
+      {
+        "key": "clock face six thirty",
+        "value": "🕡"
+      },
+      {
+        "key": "clock face seven thirty",
+        "value": "🕢"
+      },
+      {
+        "key": "clock face eight thirty",
+        "value": "🕣"
+      },
+      {
+        "key": "clock face nine thirty",
+        "value": "🕤"
+      },
+      {
+        "key": "clock face ten thirty",
+        "value": "🕥"
+      },
+      {
+        "key": "clock face eleven thirty",
+        "value": "🕦"
+      },
+      {
+        "key": "clock face twelve thirty",
+        "value": "🕧"
+      }
+    ]
+  }
+}

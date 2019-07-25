@@ -1,0 +1,998 @@
+{
+  "flags": {
+    "flag": [
+      {
+        "key": "afghanistan",
+        "value": "🇦🇫"
+      },
+      {
+        "key": "land island",
+        "value": "🇦🇽"
+      },
+      {
+        "key": "albania",
+        "value": "🇦🇱"
+      },
+      {
+        "key": "algeria",
+        "value": "🇩🇿"
+      },
+      {
+        "key": "american samoa",
+        "value": "🇦🇸"
+      },
+      {
+        "key": "andorra",
+        "value": "🇦🇩"
+      },
+      {
+        "key": "angola",
+        "value": "🇦🇴"
+      },
+      {
+        "key": "anguilla",
+        "value": "🇦🇮"
+      },
+      {
+        "key": "antarctica",
+        "value": "🇦🇶"
+      },
+      {
+        "key": "antigua and barbuda",
+        "value": "🇦🇬"
+      },
+      {
+        "key": "argentina",
+        "value": "🇦🇷"
+      },
+      {
+        "key": "armenia",
+        "value": "🇦🇲"
+      },
+      {
+        "key": "aruba",
+        "value": "🇦🇼"
+      },
+      {
+        "key": "australia",
+        "value": "🇦🇺"
+      },
+      {
+        "key": "austria",
+        "value": "🇦🇹"
+      },
+      {
+        "key": "azerbaijan",
+        "value": "🇦🇿"
+      },
+      {
+        "key": "bahamas",
+        "value": "🇧🇸"
+      },
+      {
+        "key": "bahrain",
+        "value": "🇧🇭"
+      },
+      {
+        "key": "bangladesh",
+        "value": "🇧🇩"
+      },
+      {
+        "key": "barbados",
+        "value": "🇧🇧"
+      },
+      {
+        "key": "belarus",
+        "value": "🇧🇾"
+      },
+      {
+        "key": "belgium",
+        "value": "🇧🇪"
+      },
+      {
+        "key": "belize",
+        "value": "🇧🇿"
+      },
+      {
+        "key": "benin",
+        "value": "🇧🇯"
+      },
+      {
+        "key": "bermuda",
+        "value": "🇧🇲"
+      },
+      {
+        "key": "bhutan",
+        "value": "🇧🇹"
+      },
+      {
+        "key": "bolivia",
+        "value": "🇧🇴"
+      },
+      {
+        "key": "caribbean netherlands",
+        "value": "🇧🇶"
+      },
+      {
+        "key": "bosnia and herzegovina",
+        "value": "🇧🇦"
+      },
+      {
+        "key": "botswana",
+        "value": "🇧🇼"
+      },
+      {
+        "key": "brazil",
+        "value": "🇧🇷"
+      },
+      {
+        "key": "british indian ocean territory",
+        "value": "🇮🇴"
+      },
+      {
+        "key": "british virgin islands",
+        "value": "🇻🇬"
+      },
+      {
+        "key": "brunei",
+        "value": "🇧🇳"
+      },
+      {
+        "key": "bulgaria",
+        "value": "🇧🇬"
+      },
+      {
+        "key": "burkina faso",
+        "value": "🇧🇫"
+      },
+      {
+        "key": "burundi",
+        "value": "🇧🇮"
+      },
+      {
+        "key": "cape verde",
+        "value": "🇨🇻"
+      },
+      {
+        "key": "cambodia",
+        "value": "🇰🇭"
+      },
+      {
+        "key": "cameroon",
+        "value": "🇨🇲"
+      },
+      {
+        "key": "canada",
+        "value": "🇨🇦"
+      },
+      {
+        "key": "canary islands",
+        "value": "🇮🇨"
+      },
+      {
+        "key": "cayman islands",
+        "value": "🇰🇾"
+      },
+      {
+        "key": "central african republic",
+        "value": "🇨🇫"
+      },
+      {
+        "key": "chad",
+        "value": "🇹🇩"
+      },
+      {
+        "key": "chile",
+        "value": "🇨🇱"
+      },
+      {
+        "key": "china",
+        "value": "🇨🇳"
+      },
+      {
+        "key": "christmas island",
+        "value": "🇨🇽"
+      },
+      {
+        "key": "cocos keeling island",
+        "value": "🇨🇨"
+      },
+      {
+        "key": "colombia",
+        "value": "🇨🇴"
+      },
+      {
+        "key": "comoros",
+        "value": "🇰🇲"
+      },
+      {
+        "key": "congo brazzaville",
+        "value": "🇨🇬"
+      },
+      {
+        "key": "congo kingshasa",
+        "value": "🇨🇩"
+      },
+      {
+        "key": "cook islands",
+        "value": "🇨🇰"
+      },
+      {
+        "key": "costa rica",
+        "value": "🇨🇷"
+      },
+      {
+        "key": "croatia",
+        "value": "🇭🇷"
+      },
+      {
+        "key": "cuba",
+        "value": "🇨🇺"
+      },
+      {
+        "key": "curaao",
+        "value": "🇨🇼"
+      },
+      {
+        "key": "cyprus",
+        "value": "🇨🇾"
+      },
+      {
+        "key": "czech republic",
+        "value": "🇨🇿"
+      },
+      {
+        "key": "denmark",
+        "value": "🇩🇰"
+      },
+      {
+        "key": "djibouti",
+        "value": "🇩🇯"
+      },
+      {
+        "key": "dominica",
+        "value": "🇩🇲"
+      },
+      {
+        "key": "dominican republic",
+        "value": "🇩🇴"
+      },
+      {
+        "key": "ecuador",
+        "value": "🇪🇨"
+      },
+      {
+        "key": "egypt",
+        "value": "🇪🇬"
+      },
+      {
+        "key": "el salvador",
+        "value": "🇸🇻"
+      },
+      {
+        "key": "equatorial guinea",
+        "value": "🇬🇶"
+      },
+      {
+        "key": "eritrea",
+        "value": "🇪🇷"
+      },
+      {
+        "key": "estonia",
+        "value": "🇪🇪"
+      },
+      {
+        "key": "ethiopia",
+        "value": "🇪🇹"
+      },
+      {
+        "key": "european union",
+        "value": "🇪🇺"
+      },
+      {
+        "key": "falkland islands",
+        "value": "🇫🇰"
+      },
+      {
+        "key": "faroe islands",
+        "value": "🇫🇴"
+      },
+      {
+        "key": "fiji",
+        "value": "🇫🇯"
+      },
+      {
+        "key": "finland",
+        "value": "🇫🇮"
+      },
+      {
+        "key": "france",
+        "value": "🇫🇷"
+      },
+      {
+        "key": "french guiana",
+        "value": "🇬🇫"
+      },
+      {
+        "key": "french polynesia",
+        "value": "🇵🇫"
+      },
+      {
+        "key": "french southern territories",
+        "value": "🇹🇫"
+      },
+      {
+        "key": "gabon",
+        "value": "🇬🇦"
+      },
+      {
+        "key": "gambia",
+        "value": "🇬🇲"
+      },
+      {
+        "key": "georgia",
+        "value": "🇬🇪"
+      },
+      {
+        "key": "germany",
+        "value": "🇩🇪"
+      },
+      {
+        "key": "ghana",
+        "value": "🇬🇭"
+      },
+      {
+        "key": "gibraltar",
+        "value": "🇬🇮"
+      },
+      {
+        "key": "greece",
+        "value": "🇬🇷"
+      },
+      {
+        "key": "greenland",
+        "value": "🇬🇱"
+      },
+      {
+        "key": "grenada",
+        "value": "🇬🇩"
+      },
+      {
+        "key": "guadeloupe",
+        "value": "🇬🇵"
+      },
+      {
+        "key": "guam",
+        "value": "🇬🇺"
+      },
+      {
+        "key": "guatemala",
+        "value": "🇬🇹"
+      },
+      {
+        "key": "guernsey",
+        "value": "🇬🇬"
+      },
+      {
+        "key": "guinea",
+        "value": "🇬🇳"
+      },
+      {
+        "key": "guinea bissau",
+        "value": "🇬🇼"
+      },
+      {
+        "key": "guyana",
+        "value": "🇬🇾"
+      },
+      {
+        "key": "haiti",
+        "value": "🇭🇹"
+      },
+      {
+        "key": "honduras",
+        "value": "🇭🇳"
+      },
+      {
+        "key": "hong kong",
+        "value": "🇭🇰"
+      },
+      {
+        "key": "hungary",
+        "value": "🇭🇺"
+      },
+      {
+        "key": "iceland",
+        "value": "🇮🇸"
+      },
+      {
+        "key": "india",
+        "value": "🇮🇳"
+      },
+      {
+        "key": "indonesia",
+        "value": "🇮🇩"
+      },
+      {
+        "key": "iran",
+        "value": "🇮🇷"
+      },
+      {
+        "key": "iraq",
+        "value": "🇮🇶"
+      },
+      {
+        "key": "ireland",
+        "value": "🇮🇪"
+      },
+      {
+        "key": "isle of man",
+        "value": "🇮🇲"
+      },
+      {
+        "key": "israel",
+        "value": "🇮🇱"
+      },
+      {
+        "key": "italy",
+        "value": "🇮🇹"
+      },
+      {
+        "key": "ctedivoire",
+        "value": "🇨🇮"
+      },
+      {
+        "key": "jamaica",
+        "value": "🇯🇲"
+      },
+      {
+        "key": "japan",
+        "value": "🇯🇵"
+      },
+      {
+        "key": "jersey",
+        "value": "🇯🇪"
+      },
+      {
+        "key": "jordan",
+        "value": "🇯🇴"
+      },
+      {
+        "key": "kazakhstan",
+        "value": "🇰🇿"
+      },
+      {
+        "key": "kenya",
+        "value": "🇰🇪"
+      },
+      {
+        "key": "kiribati",
+        "value": "🇰🇮"
+      },
+      {
+        "key": "kosovo",
+        "value": "🇽🇰"
+      },
+      {
+        "key": "kuwait",
+        "value": "🇰🇼"
+      },
+      {
+        "key": "kyrgyzstan",
+        "value": "🇰🇬"
+      },
+      {
+        "key": "laos",
+        "value": "🇱🇦"
+      },
+      {
+        "key": "latvia",
+        "value": "🇱🇻"
+      },
+      {
+        "key": "lebanon",
+        "value": "🇱🇧"
+      },
+      {
+        "key": "lesotho",
+        "value": "🇱🇸"
+      },
+      {
+        "key": "liberia",
+        "value": "🇱🇷"
+      },
+      {
+        "key": "libya",
+        "value": "🇱🇾"
+      },
+      {
+        "key": "liechtenstein",
+        "value": "🇱🇮"
+      },
+      {
+        "key": "lithuania",
+        "value": "🇱🇹"
+      },
+      {
+        "key": "luxembourg",
+        "value": "🇱🇺"
+      },
+      {
+        "key": "macau",
+        "value": "🇲🇴"
+      },
+      {
+        "key": "macedonia",
+        "value": "🇲🇰"
+      },
+      {
+        "key": "madagascar",
+        "value": "🇲🇬"
+      },
+      {
+        "key": "malawi",
+        "value": "🇲🇼"
+      },
+      {
+        "key": "malaysia",
+        "value": "🇲🇾"
+      },
+      {
+        "key": "maldives",
+        "value": "🇲🇻"
+      },
+      {
+        "key": "mali",
+        "value": "🇲🇱"
+      },
+      {
+        "key": "malta",
+        "value": "🇲🇹"
+      },
+      {
+        "key": "marshall islands",
+        "value": "🇲🇭"
+      },
+      {
+        "key": "martinique",
+        "value": "🇲🇶"
+      },
+      {
+        "key": "mauritania",
+        "value": "🇲🇷"
+      },
+      {
+        "key": "mauritius",
+        "value": "🇲🇺"
+      },
+      {
+        "key": "mayotte",
+        "value": "🇾🇹"
+      },
+      {
+        "key": "mexico",
+        "value": "🇲🇽"
+      },
+      {
+        "key": "micronesia",
+        "value": "🇫🇲"
+      },
+      {
+        "key": "moldova",
+        "value": "🇲🇩"
+      },
+      {
+        "key": "monaco",
+        "value": "🇲🇨"
+      },
+      {
+        "key": "mongolia",
+        "value": "🇲🇳"
+      },
+      {
+        "key": "montenegro",
+        "value": "🇲🇪"
+      },
+      {
+        "key": "montserrat",
+        "value": "🇲🇸"
+      },
+      {
+        "key": "morocco",
+        "value": "🇲🇦"
+      },
+      {
+        "key": "mozambique",
+        "value": "🇲🇿"
+      },
+      {
+        "key": "myanmar burma",
+        "value": "🇲🇲"
+      },
+      {
+        "key": "namibia",
+        "value": "🇳🇦"
+      },
+      {
+        "key": "nauru",
+        "value": "🇳🇷"
+      },
+      {
+        "key": "nepal",
+        "value": "🇳🇵"
+      },
+      {
+        "key": "netherlands",
+        "value": "🇳🇱"
+      },
+      {
+        "key": "new caledonia",
+        "value": "🇳🇨"
+      },
+      {
+        "key": "new zealand",
+        "value": "🇳🇿"
+      },
+      {
+        "key": "nicaragua",
+        "value": "🇳🇮"
+      },
+      {
+        "key": "niger",
+        "value": "🇳🇪"
+      },
+      {
+        "key": "nigeria",
+        "value": "🇳🇬"
+      },
+      {
+        "key": "niue",
+        "value": "🇳🇺"
+      },
+      {
+        "key": "norfolk island",
+        "value": "🇳🇫"
+      },
+      {
+        "key": "northern mariana islands",
+        "value": "🇲🇵"
+      },
+      {
+        "key": "north korea",
+        "value": "🇰🇵"
+      },
+      {
+        "key": "norway",
+        "value": "🇳🇴"
+      },
+      {
+        "key": "oman",
+        "value": "🇴🇲"
+      },
+      {
+        "key": "pakistan",
+        "value": "🇵🇰"
+      },
+      {
+        "key": "palau",
+        "value": "🇵🇼"
+      },
+      {
+        "key": "palestinian territories",
+        "value": "🇵🇸"
+      },
+      {
+        "key": "panama",
+        "value": "🇵🇦"
+      },
+      {
+        "key": "papua new guinea",
+        "value": "🇵🇬"
+      },
+      {
+        "key": "paraguay",
+        "value": "🇵🇾"
+      },
+      {
+        "key": "peru",
+        "value": "🇵🇪"
+      },
+      {
+        "key": "philippines",
+        "value": "🇵🇭"
+      },
+      {
+        "key": "pitcairn islands",
+        "value": "🇵🇳"
+      },
+      {
+        "key": "poland",
+        "value": "🇵🇱"
+      },
+      {
+        "key": "portugal",
+        "value": "🇵🇹"
+      },
+      {
+        "key": "puerto rico",
+        "value": "🇵🇷"
+      },
+      {
+        "key": "qatar",
+        "value": "🇶🇦"
+      },
+      {
+        "key": "reunion",
+        "value": "🇷🇪"
+      },
+      {
+        "key": "romania",
+        "value": "🇷🇴"
+      },
+      {
+        "key": "russia",
+        "value": "🇷🇺"
+      },
+      {
+        "key": "rwanda",
+        "value": "🇷🇼"
+      },
+      {
+        "key": "saint barthlemy",
+        "value": "🇧🇱"
+      },
+      {
+        "key": "saint helena",
+        "value": "🇸🇭"
+      },
+      {
+        "key": "saint kitts and nevis",
+        "value": "🇰🇳"
+      },
+      {
+        "key": "saint lucia",
+        "value": "🇱🇨"
+      },
+      {
+        "key": "saint pierre and miquelon",
+        "value": "🇵🇲"
+      },
+      {
+        "key": "st vincent grenadines",
+        "value": "🇻🇨"
+      },
+      {
+        "key": "samoa",
+        "value": "🇼🇸"
+      },
+      {
+        "key": "san marino",
+        "value": "🇸🇲"
+      },
+      {
+        "key": "sotom and prncipe",
+        "value": "🇸🇹"
+      },
+      {
+        "key": "saudi arabia",
+        "value": "🇸🇦"
+      },
+      {
+        "key": "senegal",
+        "value": "🇸🇳"
+      },
+      {
+        "key": "serbia",
+        "value": "🇷🇸"
+      },
+      {
+        "key": "seychelles",
+        "value": "🇸🇨"
+      },
+      {
+        "key": "sierra leone",
+        "value": "🇸🇱"
+      },
+      {
+        "key": "singapore",
+        "value": "🇸🇬"
+      },
+      {
+        "key": "sint maarten",
+        "value": "🇸🇽"
+      },
+      {
+        "key": "slovakia",
+        "value": "🇸🇰"
+      },
+      {
+        "key": "slovenia",
+        "value": "🇸🇮"
+      },
+      {
+        "key": "solomon islands",
+        "value": "🇸🇧"
+      },
+      {
+        "key": "somalia",
+        "value": "🇸🇴"
+      },
+      {
+        "key": "south africa",
+        "value": "🇿🇦"
+      },
+      {
+        "key": "south georgia south sandwich islands",
+        "value": "🇬🇸"
+      },
+      {
+        "key": "south korea",
+        "value": "🇰🇷"
+      },
+      {
+        "key": "south sudan",
+        "value": "🇸🇸"
+      },
+      {
+        "key": "spain",
+        "value": "🇪🇸"
+      },
+      {
+        "key": "sri lanka",
+        "value": "🇱🇰"
+      },
+      {
+        "key": "sudan",
+        "value": "🇸🇩"
+      },
+      {
+        "key": "suriname",
+        "value": "🇸🇷"
+      },
+      {
+        "key": "swaziland",
+        "value": "🇸🇿"
+      },
+      {
+        "key": "sweden",
+        "value": "🇸🇪"
+      },
+      {
+        "key": "switzerland",
+        "value": "🇨🇭"
+      },
+      {
+        "key": "syria",
+        "value": "🇸🇾"
+      },
+      {
+        "key": "taiwan",
+        "value": "🇹🇼"
+      },
+      {
+        "key": "tajikistan",
+        "value": "🇹🇯"
+      },
+      {
+        "key": "tanzania",
+        "value": "🇹🇿"
+      },
+      {
+        "key": "thailand",
+        "value": "🇹🇭"
+      },
+      {
+        "key": "timorleste",
+        "value": "🇹🇱"
+      },
+      {
+        "key": "togo",
+        "value": "🇹🇬"
+      },
+      {
+        "key": "tokelau",
+        "value": "🇹🇰"
+      },
+      {
+        "key": "tonga",
+        "value": "🇹🇴"
+      },
+      {
+        "key": "trinidad and tobago",
+        "value": "🇹🇹"
+      },
+      {
+        "key": "tunisia",
+        "value": "🇹🇳"
+      },
+      {
+        "key": "turkey",
+        "value": "🇹🇷"
+      },
+      {
+        "key": "turkmenistan",
+        "value": "🇹🇲"
+      },
+      {
+        "key": "turks and caicos islands",
+        "value": "🇹🇨"
+      },
+      {
+        "key": "tuvalu",
+        "value": "🇹🇻"
+      },
+      {
+        "key": "uganda",
+        "value": "🇺🇬"
+      },
+      {
+        "key": "ukraine",
+        "value": "🇺🇦"
+      },
+      {
+        "key": "united arab emirates",
+        "value": "🇦🇪"
+      },
+      {
+        "key": "united kingdom",
+        "value": "🇬🇧"
+      },
+      {
+        "key": "united states",
+        "value": "🇺🇸"
+      },
+      {
+        "key": "us virgin islands",
+        "value": "🇻🇮"
+      },
+      {
+        "key": "uruguay",
+        "value": "🇺🇾"
+      },
+      {
+        "key": "uzbekistan",
+        "value": "🇺🇿"
+      },
+      {
+        "key": "vanuatu",
+        "value": "🇻🇺"
+      },
+      {
+        "key": "vatican city",
+        "value": "🇻🇦"
+      },
+      {
+        "key": "venezuela",
+        "value": "🇻🇪"
+      },
+      {
+        "key": "vietnam",
+        "value": "🇻🇳"
+      },
+      {
+        "key": "wallis and futuna",
+        "value": "🇼🇫"
+      },
+      {
+        "key": "western sahara",
+        "value": "🇪🇭"
+      },
+      {
+        "key": "yemen",
+        "value": "🇾🇪"
+      },
+      {
+        "key": "zambia",
+        "value": "🇿🇲"
+      },
+      {
+        "key": "zimbabwe",
+        "value": "🇿🇼"
+      },
+      {
+        "key": "england",
+        "value": "🇽🇪"
+      }
+    ]
+  }
+}

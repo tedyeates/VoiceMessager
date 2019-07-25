@@ -1,0 +1,418 @@
+{
+  "activities": {
+    "activity": [
+      {
+        "key": "soccer ball",
+        "value": "⚽"
+      },
+      {
+        "key": "basket ball",
+        "value": "🏀"
+      },
+      {
+        "key": "american football",
+        "value": "🏈"
+      },
+      {
+        "key": "baseball",
+        "value": "⚾"
+      },
+      {
+        "key": "tennis racquet ball",
+        "value": "🎾"
+      },
+      {
+        "key": "volley ball",
+        "value": "🏐"
+      },
+      {
+        "key": "rugby football",
+        "value": "🏉"
+      },
+      {
+        "key": "billiards",
+        "value": "🎱"
+      },
+      {
+        "key": "activity in hole",
+        "value": "⛳"
+      },
+      {
+        "key": "golfer",
+        "value": "🏌"
+      },
+      {
+        "key": "table tennis paddle ball",
+        "value": "🏓"
+      },
+      {
+        "key": "badminton racquet shuttle cock",
+        "value": "🏸"
+      },
+      {
+        "key": "ice hockey stick puck",
+        "value": "🏒"
+      },
+      {
+        "key": "field hockey stick ball",
+        "value": "🏑"
+      },
+      {
+        "key": "cricket bat ball",
+        "value": "🏏"
+      },
+      {
+        "key": "ski and ski boot",
+        "value": "🎿"
+      },
+      {
+        "key": "skier",
+        "value": "⛷"
+      },
+      {
+        "key": "snow boarder",
+        "value": "🏂"
+      },
+      {
+        "key": "ice skate",
+        "value": "⛸"
+      },
+      {
+        "key": "bow and arrow",
+        "value": "🏹"
+      },
+      {
+        "key": "fishing pole and fish",
+        "value": "🎣"
+      },
+      {
+        "key": "row boat",
+        "value": "🚣"
+      },
+      {
+        "key": "row boat type 1 2",
+        "value": "🚣🏻"
+      },
+      {
+        "key": "row boat type 3",
+        "value": "🚣🏼"
+      },
+      {
+        "key": "row boat type 4",
+        "value": "🚣🏽"
+      },
+      {
+        "key": "row boat type 5",
+        "value": "🚣🏾"
+      },
+      {
+        "key": "row boat type 6",
+        "value": "🚣🏿"
+      },
+      {
+        "key": "swimmer",
+        "value": "🏊"
+      },
+      {
+        "key": "swimmer type 1 2",
+        "value": "🏊🏻"
+      },
+      {
+        "key": "swimmer type 3",
+        "value": "🏊🏼"
+      },
+      {
+        "key": "swimmer type 4",
+        "value": "🏊🏽"
+      },
+      {
+        "key": "swimmer type 5",
+        "value": "🏊🏾"
+      },
+      {
+        "key": "swimmer type 6",
+        "value": "🏊🏿"
+      },
+      {
+        "key": "surfer",
+        "value": "🏄"
+      },
+      {
+        "key": "surfer type 1 2",
+        "value": "🏄🏻"
+      },
+      {
+        "key": "surfer type 3",
+        "value": "🏄🏼"
+      },
+      {
+        "key": "surfer type 4",
+        "value": "🏄🏽"
+      },
+      {
+        "key": "surfer type 5",
+        "value": "🏄🏾"
+      },
+      {
+        "key": "surfer type 6",
+        "value": "🏄🏿"
+      },
+      {
+        "key": "bath",
+        "value": "🛀"
+      },
+      {
+        "key": "bath type 1 2",
+        "value": "🛀🏻"
+      },
+      {
+        "key": "bath type 3",
+        "value": "🛀🏼"
+      },
+      {
+        "key": "bath type 4",
+        "value": "🛀🏽"
+      },
+      {
+        "key": "bath type 5",
+        "value": "🛀🏾"
+      },
+      {
+        "key": "bath type 6",
+        "value": "🛀🏿"
+      },
+      {
+        "key": "person with ball",
+        "value": "⛹"
+      },
+      {
+        "key": "person with ball type 1 2",
+        "value": "⛹🏻"
+      },
+      {
+        "key": "person with ball type 3",
+        "value": "⛹🏼"
+      },
+      {
+        "key": "person with ball type 4",
+        "value": "⛹🏽"
+      },
+      {
+        "key": "person with ball type 5",
+        "value": "⛹🏾"
+      },
+      {
+        "key": "person with ball type 6",
+        "value": "⛹🏿"
+      },
+      {
+        "key": "weight lifter",
+        "value": "🏋"
+      },
+      {
+        "key": "weight lifter type 1 2",
+        "value": "🏋🏻"
+      },
+      {
+        "key": "weight lifter type 3",
+        "value": "🏋🏼"
+      },
+      {
+        "key": "weight lifter type 4",
+        "value": "🏋🏽"
+      },
+      {
+        "key": "weight lifter type 5",
+        "value": "🏋🏾"
+      },
+      {
+        "key": "weight lifter type 6",
+        "value": "🏋🏿"
+      },
+      {
+        "key": "bicyclist",
+        "value": "🚴"
+      },
+      {
+        "key": "bicyclist type 1 2",
+        "value": "🚴🏻"
+      },
+      {
+        "key": "bicyclist type 3",
+        "value": "🚴🏼"
+      },
+      {
+        "key": "bicyclist type 4",
+        "value": "🚴🏽"
+      },
+      {
+        "key": "bicyclist type 5",
+        "value": "🚴🏾"
+      },
+      {
+        "key": "bicyclist type 6",
+        "value": "🚴🏿"
+      },
+      {
+        "key": "mountain bicyclist",
+        "value": "🚵"
+      },
+      {
+        "key": "mountain bicyclist type 1 2",
+        "value": "🚵🏻"
+      },
+      {
+        "key": "mountain bicyclist type 3",
+        "value": "🚵🏼"
+      },
+      {
+        "key": "mountain bicyclist type 4",
+        "value": "🚵🏽"
+      },
+      {
+        "key": "mountain bicyclist type 5",
+        "value": "🚵🏾"
+      },
+      {
+        "key": "mountain bicyclist type 6",
+        "value": "🚵🏿"
+      },
+      {
+        "key": "horse racing",
+        "value": "🏇"
+      },
+      {
+        "key": "horse racing type 1 2",
+        "value": "🏇🏻"
+      },
+      {
+        "key": "horse racing type 3",
+        "value": "🏇🏻"
+      },
+      {
+        "key": "horse racing type 4",
+        "value": "🏇🏽"
+      },
+      {
+        "key": "horse racing type 5",
+        "value": "🏇🏾"
+      },
+      {
+        "key": "horse racing type 6",
+        "value": "🏇🏿"
+      },
+      {
+        "key": "main business suit levitating",
+        "value": "🕴"
+      },
+      {
+        "key": "trophy",
+        "value": "🏆"
+      },
+      {
+        "key": "running shirt with sash",
+        "value": "🎽"
+      },
+      {
+        "key": "sports medal",
+        "value": "🏅"
+      },
+      {
+        "key": "military medal",
+        "value": "🎖"
+      },
+      {
+        "key": "reminder ribbon",
+        "value": "🎗"
+      },
+      {
+        "key": "rosette",
+        "value": "🏵"
+      },
+      {
+        "key": "ticket",
+        "value": "🎫"
+      },
+      {
+        "key": "admission tickets",
+        "value": "🎟"
+      },
+      {
+        "key": "performing arts",
+        "value": "🎭"
+      },
+      {
+        "key": "artist palette",
+        "value": "🎨"
+      },
+      {
+        "key": "circus tent",
+        "value": "🎪"
+      },
+      {
+        "key": "microphone",
+        "value": "🎤"
+      },
+      {
+        "key": "headphone",
+        "value": "🎧"
+      },
+      {
+        "key": "musical score",
+        "value": "🎼"
+      },
+      {
+        "key": "musical keyboard",
+        "value": "🎹"
+      },
+      {
+        "key": "saxophone",
+        "value": "🎷"
+      },
+      {
+        "key": "trumpet",
+        "value": "🎺"
+      },
+      {
+        "key": "guitar",
+        "value": "🎸"
+      },
+      {
+        "key": "violin",
+        "value": "🎻"
+      },
+      {
+        "key": "clapper board",
+        "value": "🎬"
+      },
+      {
+        "key": "video game",
+        "value": "🎮"
+      },
+      {
+        "key": "alien monster",
+        "value": "👾"
+      },
+      {
+        "key": "direct hit",
+        "value": "🎯"
+      },
+      {
+        "key": "game die",
+        "value": "🎲"
+      },
+      {
+        "key": "slot machine",
+        "value": "🎰"
+      },
+      {
+        "key": "bowling",
+        "value": "🎳"
+      },
+      {
+        "key": "olympic rings",
+        "value": "◯‍◯‍◯‍◯‍◯"
+      }
+    ]
+  }
+}

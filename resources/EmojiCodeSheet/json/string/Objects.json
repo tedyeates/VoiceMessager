@@ -1,0 +1,718 @@
+{
+  "objects": {
+    "object": [
+      {
+        "key": "watch",
+        "value": "⌚"
+      },
+      {
+        "key": "mobile phone",
+        "value": "📱"
+      },
+      {
+        "key": "mobile phone with right arrow",
+        "value": "📲"
+      },
+      {
+        "key": "personal computer",
+        "value": "💻"
+      },
+      {
+        "key": "keyboard",
+        "value": "⌨"
+      },
+      {
+        "key": "desktop computer",
+        "value": "🖥"
+      },
+      {
+        "key": "printer",
+        "value": "🖨"
+      },
+      {
+        "key": "three button mouse",
+        "value": "🖱"
+      },
+      {
+        "key": "track ball",
+        "value": "🖲"
+      },
+      {
+        "key": "joystick",
+        "value": "🕹"
+      },
+      {
+        "key": "compression",
+        "value": "🗜"
+      },
+      {
+        "key": "mini disc",
+        "value": "💽"
+      },
+      {
+        "key": "floppy disk",
+        "value": "💾"
+      },
+      {
+        "key": "optical disc",
+        "value": "💿"
+      },
+      {
+        "key": "dvd",
+        "value": "📀"
+      },
+      {
+        "key": "video cassette",
+        "value": "📼"
+      },
+      {
+        "key": "camera",
+        "value": "📷"
+      },
+      {
+        "key": "camera with flash",
+        "value": "📸"
+      },
+      {
+        "key": "video camera",
+        "value": "📹"
+      },
+      {
+        "key": "movie camera",
+        "value": "🎥"
+      },
+      {
+        "key": "film projector",
+        "value": "📽"
+      },
+      {
+        "key": "film frames",
+        "value": "🎞"
+      },
+      {
+        "key": "telephone receiver",
+        "value": "📞"
+      },
+      {
+        "key": "black telephone",
+        "value": "☎"
+      },
+      {
+        "key": "pager",
+        "value": "📟"
+      },
+      {
+        "key": "fax machine",
+        "value": "📠"
+      },
+      {
+        "key": "television",
+        "value": "📺"
+      },
+      {
+        "key": "radio",
+        "value": "📻"
+      },
+      {
+        "key": "studio microphone",
+        "value": "🎙"
+      },
+      {
+        "key": "level slider",
+        "value": "🎚"
+      },
+      {
+        "key": "control knobs",
+        "value": "🎛"
+      },
+      {
+        "key": "stop watch",
+        "value": "⏱"
+      },
+      {
+        "key": "timer clock",
+        "value": "⏲"
+      },
+      {
+        "key": "alarm clock",
+        "value": "⏰"
+      },
+      {
+        "key": "mantel piece clock",
+        "value": "🕰"
+      },
+      {
+        "key": "hour glass with flowing stand",
+        "value": "⏳"
+      },
+      {
+        "key": "hour glass",
+        "value": "⌛"
+      },
+      {
+        "key": "satellite antenna",
+        "value": "📡"
+      },
+      {
+        "key": "battery",
+        "value": "🔋"
+      },
+      {
+        "key": "electric plug",
+        "value": "🔌"
+      },
+      {
+        "key": "electric light bulb",
+        "value": "💡"
+      },
+      {
+        "key": "electric torch",
+        "value": "🔦"
+      },
+      {
+        "key": "candle",
+        "value": "🕯"
+      },
+      {
+        "key": "waste basket",
+        "value": "🗑"
+      },
+      {
+        "key": "oil drum",
+        "value": "🛢"
+      },
+      {
+        "key": "money with wings",
+        "value": "💸"
+      },
+      {
+        "key": "bank note with dollar sign",
+        "value": "💵"
+      },
+      {
+        "key": "bank note with yen sign",
+        "value": "💴"
+      },
+      {
+        "key": "bank note with euro sign",
+        "value": "💶"
+      },
+      {
+        "key": "bank note with pounds sign",
+        "value": "💷"
+      },
+      {
+        "key": "money bag",
+        "value": "💰"
+      },
+      {
+        "key": "credit card",
+        "value": "💳"
+      },
+      {
+        "key": "gem stone",
+        "value": "💎"
+      },
+      {
+        "key": "scales",
+        "value": "⚖"
+      },
+      {
+        "key": "wrench",
+        "value": "🔧"
+      },
+      {
+        "key": "hammer",
+        "value": "🔨"
+      },
+      {
+        "key": "hammer and pick",
+        "value": "⚒"
+      },
+      {
+        "key": "hammer and wrench",
+        "value": "🛠"
+      },
+      {
+        "key": "pick",
+        "value": "⛏"
+      },
+      {
+        "key": "nut and bolt",
+        "value": "🔩"
+      },
+      {
+        "key": "gear",
+        "value": "⚙"
+      },
+      {
+        "key": "chains",
+        "value": "⛓"
+      },
+      {
+        "key": "pistol",
+        "value": "🔫"
+      },
+      {
+        "key": "bomb",
+        "value": "💣"
+      },
+      {
+        "key": "hocho",
+        "value": "🔪"
+      },
+      {
+        "key": "dagger knife",
+        "value": "🗡"
+      },
+      {
+        "key": "crossed words",
+        "value": "⚔"
+      },
+      {
+        "key": "shield",
+        "value": "🛡"
+      },
+      {
+        "key": "smoking symbol",
+        "value": "🚬"
+      },
+      {
+        "key": "skull and cross bones",
+        "value": "☠"
+      },
+      {
+        "key": "coffin",
+        "value": "⚰"
+      },
+      {
+        "key": "funeral urn",
+        "value": "⚱"
+      },
+      {
+        "key": "amphora",
+        "value": "🏺"
+      },
+      {
+        "key": "crystal ball",
+        "value": "🔮"
+      },
+      {
+        "key": "prayer beads",
+        "value": "📿"
+      },
+      {
+        "key": "barber pole",
+        "value": "💈"
+      },
+      {
+        "key": "alembic",
+        "value": "⚗"
+      },
+      {
+        "key": "telescope",
+        "value": "🔭"
+      },
+      {
+        "key": "microscope",
+        "value": "🔬"
+      },
+      {
+        "key": "hole",
+        "value": "🕳"
+      },
+      {
+        "key": "pill",
+        "value": "💊"
+      },
+      {
+        "key": "syringe",
+        "value": "💉"
+      },
+      {
+        "key": "thermometer",
+        "value": "🌡"
+      },
+      {
+        "key": "label",
+        "value": "🏷"
+      },
+      {
+        "key": "bookmark",
+        "value": "🔖"
+      },
+      {
+        "key": "toilet",
+        "value": "🚽"
+      },
+      {
+        "key": "shower",
+        "value": "🚿"
+      },
+      {
+        "key": "bath tub",
+        "value": "🛁"
+      },
+      {
+        "key": "key",
+        "value": "🔑"
+      },
+      {
+        "key": "old key",
+        "value": "🗝"
+      },
+      {
+        "key": "couch and lamp",
+        "value": "🛋"
+      },
+      {
+        "key": "sleeping accommodation",
+        "value": "🛌"
+      },
+      {
+        "key": "bed",
+        "value": "🛏"
+      },
+      {
+        "key": "door",
+        "value": "🚪"
+      },
+      {
+        "key": "bell hop bell",
+        "value": "🛎"
+      },
+      {
+        "key": "frame with picture",
+        "value": "🖼"
+      },
+      {
+        "key": "world map",
+        "value": "🗺"
+      },
+      {
+        "key": "umbrella on ground",
+        "value": "⛱"
+      },
+      {
+        "key": "moyai",
+        "value": "🗿"
+      },
+      {
+        "key": "shopping bags",
+        "value": "🛍"
+      },
+      {
+        "key": "balloon",
+        "value": "🎈"
+      },
+      {
+        "key": "carp streamer",
+        "value": "🎏"
+      },
+      {
+        "key": "ribbon",
+        "value": "🎀"
+      },
+      {
+        "key": "wrapped present",
+        "value": "🎁"
+      },
+      {
+        "key": "confetti ball",
+        "value": "🎊"
+      },
+      {
+        "key": "party popper",
+        "value": "🎉"
+      },
+      {
+        "key": "japanese dolls",
+        "value": "🎎"
+      },
+      {
+        "key": "wind chime",
+        "value": "🎐"
+      },
+      {
+        "key": "crossed flags",
+        "value": "🎌"
+      },
+      {
+        "key": "izakaya lantern",
+        "value": "🏮"
+      },
+      {
+        "key": "envelope",
+        "value": "✉"
+      },
+      {
+        "key": "envelope with down arrow",
+        "value": "📩"
+      },
+      {
+        "key": "incoming envelope",
+        "value": "📨"
+      },
+      {
+        "key": "email symbol",
+        "value": "📧"
+      },
+      {
+        "key": "love letter",
+        "value": "💌"
+      },
+      {
+        "key": "post box",
+        "value": "📮"
+      },
+      {
+        "key": "closed mail box with lowered flag",
+        "value": "📪"
+      },
+      {
+        "key": "closed mail box with raised flag",
+        "value": "📫"
+      },
+      {
+        "key": "open mail box with raised flag",
+        "value": "📬"
+      },
+      {
+        "key": "open mail box with lowered flag",
+        "value": "📭"
+      },
+      {
+        "key": "package",
+        "value": "📦"
+      },
+      {
+        "key": "postal horn",
+        "value": "📯"
+      },
+      {
+        "key": "inbox tray",
+        "value": "📥"
+      },
+      {
+        "key": "outbox tray",
+        "value": "📤"
+      },
+      {
+        "key": "scroll",
+        "value": "📜"
+      },
+      {
+        "key": "page with curl",
+        "value": "📃"
+      },
+      {
+        "key": "bookmark tabs",
+        "value": "📑"
+      },
+      {
+        "key": "bar chart",
+        "value": "📊"
+      },
+      {
+        "key": "chart with upwards trend",
+        "value": "📈"
+      },
+      {
+        "key": "chart with downwards trend",
+        "value": "📉"
+      },
+      {
+        "key": "page facing up",
+        "value": "📄"
+      },
+      {
+        "key": "calender",
+        "value": "📅"
+      },
+      {
+        "key": "tear off calendar",
+        "value": "📆"
+      },
+      {
+        "key": "spiral calendar pad",
+        "value": "🗓"
+      },
+      {
+        "key": "card index",
+        "value": "📇"
+      },
+      {
+        "key": "card file box",
+        "value": "🗃"
+      },
+      {
+        "key": "ballot box with ballot",
+        "value": "🗳"
+      },
+      {
+        "key": "file cabinet",
+        "value": "🗄"
+      },
+      {
+        "key": "clip board",
+        "value": "📋"
+      },
+      {
+        "key": "spiral notepad",
+        "value": "🗒"
+      },
+      {
+        "key": "file folder",
+        "value": "📁"
+      },
+      {
+        "key": "open file folder",
+        "value": "📂"
+      },
+      {
+        "key": "card index dividers",
+        "value": "🗂"
+      },
+      {
+        "key": "rolled up newspaper",
+        "value": "🗞"
+      },
+      {
+        "key": "newspaper",
+        "value": "📰"
+      },
+      {
+        "key": "notebook",
+        "value": "📓"
+      },
+      {
+        "key": "closed book",
+        "value": "📕"
+      },
+      {
+        "key": "green book",
+        "value": "📗"
+      },
+      {
+        "key": "blue book",
+        "value": "📘"
+      },
+      {
+        "key": "orange book",
+        "value": "📙"
+      },
+      {
+        "key": "notebook with decorative cover",
+        "value": "📔"
+      },
+      {
+        "key": "ledger",
+        "value": "📒"
+      },
+      {
+        "key": "books",
+        "value": "📚"
+      },
+      {
+        "key": "open book",
+        "value": "📖"
+      },
+      {
+        "key": "link symbol",
+        "value": "🔗"
+      },
+      {
+        "key": "paper clip",
+        "value": "📎"
+      },
+      {
+        "key": "linked paper clips",
+        "value": "🖇"
+      },
+      {
+        "key": "black scissors",
+        "value": "✂"
+      },
+      {
+        "key": "triangular ruler",
+        "value": "📐"
+      },
+      {
+        "key": "straight ruler",
+        "value": "📏"
+      },
+      {
+        "key": "pushpin",
+        "value": "📌"
+      },
+      {
+        "key": "round pushpin",
+        "value": "📍"
+      },
+      {
+        "key": "triangular flag post",
+        "value": "🚩"
+      },
+      {
+        "key": "waving white flag",
+        "value": "🏳"
+      },
+      {
+        "key": "waving black flag",
+        "value": "🏴"
+      },
+      {
+        "key": "closed lock with key",
+        "value": "🔐"
+      },
+      {
+        "key": "lock",
+        "value": "🔒"
+      },
+      {
+        "key": "open lock",
+        "value": "🔓"
+      },
+      {
+        "key": "lock with ink pen",
+        "value": "🔏"
+      },
+      {
+        "key": "lower left ball point pen",
+        "value": "🖊"
+      },
+      {
+        "key": "lower left fountain pen",
+        "value": "🖋"
+      },
+      {
+        "key": "black nib",
+        "value": "✒"
+      },
+      {
+        "key": "memo",
+        "value": "📝"
+      },
+      {
+        "key": "pencil",
+        "value": "✏"
+      },
+      {
+        "key": "lower left crayon",
+        "value": "🖍"
+      },
+      {
+        "key": "lower left paint brush",
+        "value": "🖌"
+      },
+      {
+        "key": "left pointing magnifying glass",
+        "value": "🔍"
+      },
+      {
+        "key": "right pointing magnifying glass",
+        "value": "🔎"
+      }
+    ]
+  }
+}
